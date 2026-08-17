@@ -2,9 +2,9 @@
 title: "Gabor Maté"
 date: 2001-01-01
 tags:
-- figure
-- modern-thinker
-- public-intellectual
+  - figure
+  - modern-thinker
+  - public-intellectual
 ---
-# Gabor Maté
 
+# Gabor Maté

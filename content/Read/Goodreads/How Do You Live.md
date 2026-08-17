@@ -1,18 +1,17 @@
 ---
 title: How Do You Live?
 author: Genzaburo Yoshino
-date: '2023-12-10'
+date: "2023-12-10"
 tags:
-- book
+  - book
 ---
-
 
 # How Do You Live?
 
 **Author:** Genzaburo Yoshino  
 **My Rating:** 0  
-**Date Read:**   
-**Bookshelves:** 
+**Date Read:**  
+**Bookshelves:**
 
 **Additional Authors:** Neil Gaiman, Bruno Navasky  
 **ISBN:** 1616209771  
@@ -22,16 +21,13 @@ tags:
 **Number of Pages:** 288  
 **Year Published:** 2021  
 **Original Publication Year:** 1937  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2023-12-10 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 4.00  
-**Bookshelves:**   
+**Bookshelves:**  
 **Exclusive Shelf:** read  
 **Read Count:** 1  
 **Owned Copies:** 0
 
-
 ## Review
-
-

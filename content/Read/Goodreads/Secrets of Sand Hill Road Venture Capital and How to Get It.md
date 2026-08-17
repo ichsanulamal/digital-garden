@@ -1,17 +1,16 @@
 ---
-title: 'Secrets of Sand Hill Road: Venture Capital and How to Get It'
+title: "Secrets of Sand Hill Road: Venture Capital and How to Get It"
 author: Scott Kupor
-date: '2025-04-30'
+date: "2025-04-30"
 tags:
-- book
+  - book
 ---
-
 
 # Secrets of Sand Hill Road: Venture Capital and How to Get It
 
 **Author:** Scott Kupor  
 **My Rating:** 0  
-**Date Read:**   
+**Date Read:**  
 **Bookshelves:** to-read
 
 **Additional Authors:** Eric Ries  
@@ -22,7 +21,7 @@ tags:
 **Number of Pages:** 320  
 **Year Published:** 2019  
 **Original Publication Year:** 2019  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2025-04-30 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 4.23  
@@ -31,7 +30,4 @@ tags:
 **Read Count:** 0  
 **Owned Copies:** 0
 
-
 ## Review
-
-

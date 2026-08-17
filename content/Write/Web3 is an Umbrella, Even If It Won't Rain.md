@@ -8,6 +8,7 @@ description: ""
 enableToc: false
 publish_external: true
 ---
+
 The path to greatness doesn’t always begin with good intentions.  
 I’ve wasted so much energy trying to purify my motives, to be morally clean, to stay consistent with values I barely understood. Radical idealism drained me. Maybe I called it "istiqomah", persistence, but it was just stubbornness, or sunk cost fallacy dressed up as virtue.
 

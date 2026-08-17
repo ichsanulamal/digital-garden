@@ -9,4 +9,3 @@ tags: []
 ---
 
 # Information System
-

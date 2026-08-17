@@ -8,6 +8,7 @@ hideSummary: true
 draft: false
 publish_external: true
 ---
+
 Before, as an [[Information System]] student, [[Information Technology Project Management]] is something I've taken for granted.
 
 When I ran projects in university, I learned a lot about IS/PM methodology.
@@ -62,6 +63,6 @@ This makes me learn that I should clarify the company culture before I accept an
 
 ---
 
-Yup, I hate management in general because not everyone has the knowledge of it. 
+Yup, I hate management in general because not everyone has the knowledge of it.
 
 This might be the [[Curse of Knowledge]].

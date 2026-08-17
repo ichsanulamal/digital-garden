@@ -2,7 +2,7 @@
 title: "Al-Ghazali"
 date: 2001-01-01
 tags:
-- figure
+  - figure
 ---
-# Al-Ghazali
 
+# Al-Ghazali

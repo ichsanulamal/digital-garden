@@ -2,9 +2,9 @@
 title: "Plato"
 date: 2001-01-01
 tags:
-- classic-thinker
-- figure
-- philosophy
+  - classic-thinker
+  - figure
+  - philosophy
 ---
-# Plato
 
+# Plato

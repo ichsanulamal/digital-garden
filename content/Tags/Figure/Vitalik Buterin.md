@@ -2,9 +2,9 @@
 title: "Vitalik Buterin"
 date: 2001-01-01
 tags:
-- economics
-- figure
-- technology
+  - economics
+  - figure
+  - technology
 ---
-# Vitalik Buterin
 
+# Vitalik Buterin

@@ -1,22 +1,21 @@
 ---
 title: Filosofi Cinta KAHLIL GIBRAN
 author: Fahruddin Faiz
-date: '2022-10-22'
+date: "2022-10-22"
 tags:
-- book
+  - book
 ---
-
 
 # Filosofi Cinta KAHLIL GIBRAN
 
 **Author:** Fahruddin Faiz  
 **My Rating:** 2  
 **Date Read:** 2022/10/31  
-**Bookshelves:** 
+**Bookshelves:**
 
-**Additional Authors:**   
+**Additional Authors:**  
 **ISBN:** 9799440289  
-**ISBN13:**   
+**ISBN13:**  
 **Publisher:** Tinta  
 **Binding:** Soft Cover  
 **Number of Pages:** 168  
@@ -26,12 +25,9 @@ tags:
 **Date Added:** 2022-10-22 00:00:00  
 **My Rating:** 2  
 **Average Rating:** 4.32  
-**Bookshelves:**   
+**Bookshelves:**  
 **Exclusive Shelf:** read  
 **Read Count:** 1  
 **Owned Copies:** 0
 
-
 ## Review
-
-

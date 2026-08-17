@@ -4,5 +4,6 @@ date: 2001-01-01
 publish_external: true
 tags: []
 ---
+
 [[Deontological Ethics]] : tindakan dinilai baik atau buruk berdasarkan apakah tindakan itu sesuai atau tidak dengan kewajiban (hukum)
 [[Teleological Ethics]] : pertimbangan moral akan baik buruknya suatu tindakan dilakukan (konteks)

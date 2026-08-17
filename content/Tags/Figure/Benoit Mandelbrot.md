@@ -2,9 +2,9 @@
 title: "Benoit Mandelbrot"
 date: 2001-01-01
 tags:
-- figure
-- mathematics
-- science
+  - figure
+  - mathematics
+  - science
 ---
-# Benoit Mandelbrot
 
+# Benoit Mandelbrot

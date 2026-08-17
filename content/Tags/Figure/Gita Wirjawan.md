@@ -1,8 +1,8 @@
 ---
 title: "Gita Wirjawan"
 tags:
-- figure
+  - figure
 date: 2026-05-19
 ---
-# Gita Wirjawan
 
+# Gita Wirjawan

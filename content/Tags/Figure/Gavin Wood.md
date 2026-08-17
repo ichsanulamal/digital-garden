@@ -2,9 +2,9 @@
 title: "Gavin Wood"
 date: 2001-01-01
 tags:
-- figure
-- modern-thinker
-- technology
+  - figure
+  - modern-thinker
+  - technology
 ---
-# Gavin Wood
 
+# Gavin Wood

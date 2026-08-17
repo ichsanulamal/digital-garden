@@ -5,4 +5,5 @@ publish_external: true
 tags:
   - interesting-terms
 ---
+
 boldness, questioning authority

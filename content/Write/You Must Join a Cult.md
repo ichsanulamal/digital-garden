@@ -1,11 +1,12 @@
 ---
-date: '2024-02-13'
+date: "2024-02-13"
 tags:
-- journal
-- essay
+  - journal
+  - essay
 title: You Must Join a Cult
 publish_external: true
 ---
+
 You need to join a cult, trying multiple cults,
 
 until you get a cult with the greatest sense of belonging.
@@ -28,4 +29,3 @@ They become cosmopolitans, belonging to no cult.
 But once they find their cult, they are all shouting…
 
 more isolation, please!!!
-

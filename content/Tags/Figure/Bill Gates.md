@@ -2,9 +2,9 @@
 title: "Bill Gates"
 date: 2001-01-01
 tags:
-- economics
-- figure
-- technology
+  - economics
+  - figure
+  - technology
 ---
-# Bill Gates
 
+# Bill Gates

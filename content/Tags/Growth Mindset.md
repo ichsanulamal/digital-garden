@@ -5,4 +5,3 @@ tags: []
 ---
 
 # Growth Mindset
-

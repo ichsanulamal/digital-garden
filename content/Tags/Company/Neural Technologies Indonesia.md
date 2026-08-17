@@ -2,7 +2,7 @@
 title: "Neural Technologies Indonesia"
 date: 2001-01-01
 tags:
-- company
+  - company
 ---
-# Neural Technologies Indonesia
 
+# Neural Technologies Indonesia

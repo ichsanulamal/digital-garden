@@ -2,9 +2,9 @@
 title: "Bertrand Russell"
 date: 2001-01-01
 tags:
-- classic-thinker
-- figure
-- philosophy
+  - classic-thinker
+  - figure
+  - philosophy
 ---
-# Bertrand Russell
 
+# Bertrand Russell

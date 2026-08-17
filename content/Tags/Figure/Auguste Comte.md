@@ -2,8 +2,9 @@
 title: "Auguste Comte"
 date: 2001-01-01
 tags:
-- classic-thinker
-- figure
-- philosophy
+  - classic-thinker
+  - figure
+  - philosophy
 ---
+
 Positivisme

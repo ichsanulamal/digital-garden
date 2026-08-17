@@ -2,9 +2,9 @@
 title: "Fahruddin Faiz"
 date: 2001-01-01
 tags:
-- figure
-- modern-thinker
-- spirituality
+  - figure
+  - modern-thinker
+  - spirituality
 ---
-# Fahruddin Faiz
 
+# Fahruddin Faiz

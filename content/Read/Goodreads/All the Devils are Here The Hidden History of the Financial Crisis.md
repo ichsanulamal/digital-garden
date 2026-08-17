@@ -1,17 +1,16 @@
 ---
-title: 'All the Devils are Here: The Hidden History of the Financial Crisis'
+title: "All the Devils are Here: The Hidden History of the Financial Crisis"
 author: Bethany McLean
-date: '2021-08-23'
+date: "2021-08-23"
 tags:
-- book
+  - book
 ---
-
 
 # All the Devils are Here: The Hidden History of the Financial Crisis
 
 **Author:** Bethany McLean  
 **My Rating:** 0  
-**Date Read:**   
+**Date Read:**  
 **Bookshelves:** to-read
 
 **Additional Authors:** Joe Nocera  
@@ -22,7 +21,7 @@ tags:
 **Number of Pages:** 380  
 **Year Published:** 2010  
 **Original Publication Year:** 2010  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2021-08-23 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 4.04  
@@ -31,7 +30,4 @@ tags:
 **Read Count:** 0  
 **Owned Copies:** 0
 
-
 ## Review
-
-

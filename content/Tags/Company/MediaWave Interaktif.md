@@ -1,6 +1,6 @@
 ---
 title: "MediaWave Interaktif"
 tags:
-- company
+  - company
 date: 2026-05-19
 ---

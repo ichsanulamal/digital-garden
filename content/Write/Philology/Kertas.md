@@ -6,37 +6,37 @@ tags:
 title: Kertas
 publish_external: true
 ---
-  
+
 Kertas kosong penunggu tinta  
-Lapuk karam didobrak qada  
-  
+Lapuk karam didobrak qada
+
 Ia yang hina dan nista  
 Jatuh ke kubangan ia berubah warna  
-Ditelan malam kemurniannya  
-  
+Ditelan malam kemurniannya
+
 Sobekan angka sementara  
 Mengundi [[Gambling|berjudi]] memutuskan sengketa  
-Tergeletak di gelas kecil selamanya  
-  
+Tergeletak di gelas kecil selamanya
+
 Ia yang dijadikan batu  
 Dilempar dan dipukul  
-Terlampau lemah ia mengadu  
-  
+Terlampau lemah ia mengadu
+
 Pesawat yang ditiup angin  
 Terbang melawan gravitasi dingin  
-Sampai dengan lesu di atas air  
-  
+Sampai dengan lesu di atas air
+
 Ia yang ada tinta padanya...  
 Menunggu diperjuangkan dengan lantang  
 Menunggu perakit jiwa menggunakannya  
-Menunggu sesuatu menciptakan berlian  
-  
+Menunggu sesuatu menciptakan berlian
+
 Namun yang datang...  
 Penyorak kesolehan dan kemunafikan  
 Pembakar kayu-kayu pengetahuan  
-Si buta huruf yang mendewakan koin penuh kuman  
-  
+Si buta huruf yang mendewakan koin penuh kuman
+
 Ia yang ada tinta padanya...  
 Tenggelam dalam semesta usang  
 Terhancurkan oleh bintang bintang  
-Para pencari proyek kehidupan  
+Para pencari proyek kehidupan

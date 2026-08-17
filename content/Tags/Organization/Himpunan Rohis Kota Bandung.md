@@ -2,7 +2,7 @@
 title: "Himpunan Rohis Kota Bandung"
 date: 2001-01-01
 tags:
-- orgnization
+  - orgnization
 ---
-# Himpunan Rohis Kota Bandung
 
+# Himpunan Rohis Kota Bandung

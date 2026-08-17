@@ -2,9 +2,9 @@
 title: "Jacques Lacan"
 date: 2001-01-01
 tags:
-- figure
-- modern-thinker
-- philosophy
+  - figure
+  - modern-thinker
+  - philosophy
 ---
-# Jacques Lacan
 
+# Jacques Lacan

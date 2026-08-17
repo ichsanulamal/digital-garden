@@ -2,9 +2,9 @@
 title: "Richard Dawkins"
 date: 2001-01-01
 tags:
-- figure
-- public-intellectual
-- science
+  - figure
+  - public-intellectual
+  - science
 ---
-# Richard Dawkins
 
+# Richard Dawkins

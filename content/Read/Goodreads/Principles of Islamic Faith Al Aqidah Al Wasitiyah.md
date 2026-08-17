@@ -1,17 +1,16 @@
 ---
 title: Principles of Islamic Faith (Al-Aqidah Al-Wasitiyah)
 author: ابن تيمية
-date: '2022-01-09'
+date: "2022-01-09"
 tags:
-- book
+  - book
 ---
-
 
 # Principles of Islamic Faith (Al-Aqidah Al-Wasitiyah)
 
 **Author:** ابن تيمية  
 **My Rating:** 0  
-**Date Read:**   
+**Date Read:**  
 **Bookshelves:** to-read
 
 **Additional Authors:** Assad Nimer Busool  
@@ -22,7 +21,7 @@ tags:
 **Number of Pages:** 50  
 **Year Published:** 1994  
 **Original Publication Year:** 1992  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2022-01-09 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 4.45  
@@ -31,7 +30,4 @@ tags:
 **Read Count:** 0  
 **Owned Copies:** 0
 
-
 ## Review
-
-

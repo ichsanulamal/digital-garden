@@ -1,6 +1,6 @@
 ---
 title: "Ilya Sutskever"
 tags:
-- figure
+  - figure
 date: 2026-05-19
 ---

@@ -1,13 +1,14 @@
 ---
-date: '2020-09-24T11:47:43Z'
+date: "2020-09-24T11:47:43Z"
 tags:
-- review
-- film
+  - review
+  - film
 timeline_notification:
-- '1600922867'
+  - "1600922867"
 title: Review Se7en
 publish_external: true
 ---
+
 ![[screenshot_2020-08-13-23-03-29-272_com.mxtech.videoplayer.ad_.jpg]]
 
 There are 2 interesting terms in business, thus "standard of living" and "quality of life"

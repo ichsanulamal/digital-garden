@@ -5,4 +5,3 @@ tags: []
 ---
 
 # Deontological Ethics
-

@@ -2,9 +2,9 @@
 title: "Fyodor Dostoevsky"
 date: 2001-01-01
 tags:
-- figure
-- literature
-- philosophy
+  - figure
+  - literature
+  - philosophy
 ---
-# Fyodor Dostoevsky
 
+# Fyodor Dostoevsky

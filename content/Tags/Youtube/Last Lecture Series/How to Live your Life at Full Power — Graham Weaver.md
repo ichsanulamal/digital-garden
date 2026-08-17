@@ -55,6 +55,6 @@ tags:
   3. Commit fully now--don't delay.
 
 ### The Universal Purpose
+
 Living at full power is a universal purpose. The "second voice" (intuition) acts as a guide to accessing this power, signaling where attention and growth are needed. The most crucial decision is choosing which voice to listen to.
 .
-

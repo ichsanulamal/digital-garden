@@ -2,8 +2,8 @@
 title: "Khalid Basalamah"
 date: 2001-01-01
 tags:
-- figure
-- spirituality
+  - figure
+  - spirituality
 ---
-# Khalid Basalamah
 
+# Khalid Basalamah

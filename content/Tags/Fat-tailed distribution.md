@@ -5,4 +5,3 @@ tags: []
 ---
 
 # Fat-tailed distribution
-

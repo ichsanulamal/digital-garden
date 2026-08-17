@@ -2,10 +2,11 @@
 title: "Martin Heidegger"
 date: 2001-01-01
 tags:
-- figure
-- philosophy
+  - figure
+  - philosophy
 ---
+
 hermeneutik ontologis
-  
+
 Das man
 Dasein

@@ -1,8 +1,8 @@
 ---
 title: "Amazon Web Services"
 aliases:
-- AWS
+  - AWS
 tags:
-- software
+  - software
 date: 2026-05-19
 ---

@@ -2,8 +2,9 @@
 title: "Ibn Arabi"
 date: 2001-01-01
 tags:
-- figure
-- philosophy
-- spirituality
+  - figure
+  - philosophy
+  - spirituality
 ---
+
 Aqidahnya rodo aneh

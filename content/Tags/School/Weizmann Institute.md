@@ -1,6 +1,6 @@
 ---
 title: "Weizmann Institute"
 tags:
-- school
+  - school
 date: 2026-05-19
 ---

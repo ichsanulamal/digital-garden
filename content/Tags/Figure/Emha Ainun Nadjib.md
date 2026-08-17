@@ -8,6 +8,7 @@ tags:
 aliases:
   - Cak Nun
 ---
+
 # Emha Ainun Nadjib
 
 [[Maiyah]]

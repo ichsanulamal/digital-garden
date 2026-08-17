@@ -2,7 +2,7 @@
 title: "Jordan Peterson"
 date: 2001-01-01
 tags:
-- figure
+  - figure
 ---
-# Jordan Peterson
 
+# Jordan Peterson

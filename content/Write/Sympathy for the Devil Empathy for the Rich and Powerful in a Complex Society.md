@@ -1,12 +1,13 @@
 ---
-date: '2023-05-19T00:00:00Z'
+date: "2023-05-19T00:00:00Z"
 tags:
-- essay
-- review
-- film
-title: 'Sympathy for the Devil: Empathy for the Rich and Powerful in a Complex Society'
+  - essay
+  - review
+  - film
+title: "Sympathy for the Devil: Empathy for the Rich and Powerful in a Complex Society"
 publish_external: true
 ---
+
 Flexing, greed, pride, arrogance, and vanity are merely perceptions projected by those who feel inferior and envious. In the words of Charlie Munger, the world is driven by envy, not greed.
 
 Every advantage should be appreciated. When does gratitude become excessive? It is only those who envy that impose limits on gratitude. One form of gratitude is sharing fortune and abundance, being free from hunger, having positive relationships with Family and friends, possessing material and physical advantages, embodying good morals and spirituality, showcasing talents and creations, and more.
@@ -17,7 +18,7 @@ On one hand, they may lack gratitude, but there is a belief that people do not n
 
 There are numerous paths to reach a goal; the only difference is the speed at which they are achieved. Many individuals choose slower paths because the faster ones come with greater costs.
 
-There is an intriguing case study involving charity to [[Palestine]] and moral justice warriors (SJWs). 
+There is an intriguing case study involving charity to [[Palestine]] and moral justice warriors (SJWs).
 
 ![[West_Bank-46.jpg]]
 
@@ -33,10 +34,9 @@ The paradox of being rich and attractive is indeed true.
 
 There is something called the "Arrival Fallacy" the fallacy of achieving what one desires. You acquire that knowledge only by existing in such a state. Thus, being grateful for being ordinary is important.
 
-
 Although I haven't experienced such a life, I still support those individuals out of empathy for the rich and powerful. It's a sympathy for the devil, so to speak.
 
-For further insight, you can watch this video: 
+For further insight, you can watch this video:
 
 ![[https://youtu.be/t5zQpN28xa4]]
 
@@ -46,12 +46,12 @@ It's important to remember that [[Manufacturing Consent|consent can be manufactu
 
 ## Draft
 
-flexing, greedy, pride, arrogant, dan kesombongan itu sebenernya ga ada, cuman timbul dari persepsi para inferior yang envy. 
+flexing, greedy, pride, arrogant, dan kesombongan itu sebenernya ga ada, cuman timbul dari persepsi para inferior yang envy.
 makanya kalo kata charlie munger, world is running by envy, not greed.
 
-setiap kelebihan itu perlu disyukuri. kapan rasa syukur itu dianggap berlebihan? yang ngebuat batasan tentang rasa syukur itu ya cmn yg envy. salah satu bentuk rasa syukur itu membagikan keberuntungan dan kelebihan, keamanan dari rasa lapar, hubungan baik dengan keluarga dan teman, kelebihan materi & fisik, akhlak dan spiritual, talenta, karya, dll. 
+setiap kelebihan itu perlu disyukuri. kapan rasa syukur itu dianggap berlebihan? yang ngebuat batasan tentang rasa syukur itu ya cmn yg envy. salah satu bentuk rasa syukur itu membagikan keberuntungan dan kelebihan, keamanan dari rasa lapar, hubungan baik dengan keluarga dan teman, kelebihan materi & fisik, akhlak dan spiritual, talenta, karya, dll.
 
-orang yang dianggap serakah itu ga akan pernah sadar dia serakah. [[Jeff Bezos]], [[Elon Musk]], [[Mark Zuckerberg]], bill gates,  kekayaannya berlipat2, percaya bahwa dengan bayar tax mereka udah ngerasa cukup untuk contribute to society sehingga mereka bisa lakukan hal lain yang yang lebih seru.
+orang yang dianggap serakah itu ga akan pernah sadar dia serakah. [[Jeff Bezos]], [[Elon Musk]], [[Mark Zuckerberg]], bill gates, kekayaannya berlipat2, percaya bahwa dengan bayar tax mereka udah ngerasa cukup untuk contribute to society sehingga mereka bisa lakukan hal lain yang yang lebih seru.
 
 di satu sisi dia gacuman bersyukur, tapi ada suatu believe bahwa orang-orang ga butuh dia (humility) karena people can help themself. banyak orng envy bilang, "harusnya mereka invest buat pendidikan, menurunkan masalah kelaparan, dll". the problem is not that simple.
 
@@ -66,15 +66,15 @@ https://www.businessinsider.com/screen-time-limits-bill-gates-steve-jobs-red-fla
 
 then influence to more broader networks, community, religion, country, and so on.
 
-paradox of rich and attractive people are true. 
+paradox of rich and attractive people are true.
 
 ![[enstein-bngst.png]]
 
-ada yg namanya the arraival fallacy, the fallacy of getting what you want. you will get that knowledge if you exist to be like that. you are grateful to become normal.  
+ada yg namanya the arraival fallacy, the fallacy of getting what you want. you will get that knowledge if you exist to be like that. you are grateful to become normal.
 
 the reason why i havent go through like that but still support them because its called empathy for the rich and powerful. sympathy for the devil :)
 
-"t5zQpN28xa4" 
+"t5zQpN28xa4"
 
 consent can be manufacture
 

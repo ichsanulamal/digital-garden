@@ -2,10 +2,11 @@
 title: "David Deutsch"
 date: 2001-01-01
 tags:
-- figure
-- philosophy
-- science
+  - figure
+  - philosophy
+  - science
 ---
+
 # David Deutsch
 
 ## Why It’s Good To Be Wrong
@@ -77,7 +78,7 @@ By focusing on these core aspects, we can gain a deeper understanding of fallibi
 
 4. **Moral Progress:**
    - Morality has progressed, albeit more slowly than scientific advancement. For instance, societal attitudes towards slavery have shifted dramatically, with a clear moral consensus emerging against it.
-   - Changes in media, such as early episodes of *Star Trek*, illustrate how previously accepted ideas (e.g., gender roles) can become seen as outdated or ridiculous over time.
+   - Changes in media, such as early episodes of _Star Trek_, illustrate how previously accepted ideas (e.g., gender roles) can become seen as outdated or ridiculous over time.
 
 5. **Tradition of Criticism:**
    - Societies that foster a tradition of criticism, where ideas can be questioned and debated, tend to experience moral and intellectual progress.
@@ -86,7 +87,7 @@ By focusing on these core aspects, we can gain a deeper understanding of fallibi
 ### Epistemology in Media
 
 1. **House as an Exploration of Epistemology:**
-   - The TV series *House* serves as a unique exploration of epistemological themes, often highlighting the flaws and biases in expert knowledge.
+   - The TV series _House_ serves as a unique exploration of epistemological themes, often highlighting the flaws and biases in expert knowledge.
    - Episodes illustrate the importance of questioning established expertise, emphasizing that experience can lead to cognitive biases.
 
 2. **Testing Hypotheses:**

@@ -1,6 +1,6 @@
 ---
 title: "Cluely"
 tags:
-- software
+  - software
 date: 2026-05-19
 ---

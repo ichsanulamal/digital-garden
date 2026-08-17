@@ -2,9 +2,10 @@
 title: "Voltaire"
 date: 2001-01-01
 tags:
-- figure
-- literature
-- philosophy
+  - figure
+  - literature
+  - philosophy
 ---
+
 Kritik metafisik dan konservatif
 Revolusi Prancis

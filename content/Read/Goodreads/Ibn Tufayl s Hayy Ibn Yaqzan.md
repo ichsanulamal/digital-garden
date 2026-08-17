@@ -1,17 +1,16 @@
 ---
 title: Ibn Tufayl's Hayy Ibn Yaqzan
 author: Ibn Tufail
-date: '2021-07-15'
+date: "2021-07-15"
 tags:
-- book
+  - book
 ---
-
 
 # Ibn Tufayl's Hayy Ibn Yaqzan
 
 **Author:** Ibn Tufail  
 **My Rating:** 0  
-**Date Read:**   
+**Date Read:**  
 **Bookshelves:** to-read
 
 **Additional Authors:** Lenn E. Goodman  
@@ -22,7 +21,7 @@ tags:
 **Number of Pages:** 280  
 **Year Published:** 2009  
 **Original Publication Year:** 1150  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2021-07-15 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 3.85  
@@ -31,7 +30,4 @@ tags:
 **Read Count:** 0  
 **Owned Copies:** 0
 
-
 ## Review
-
-

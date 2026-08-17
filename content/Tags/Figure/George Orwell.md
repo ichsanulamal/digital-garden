@@ -2,9 +2,9 @@
 title: "George Orwell"
 date: 2001-01-01
 tags:
-- figure
-- literature
-- public-intellectual
+  - figure
+  - literature
+  - public-intellectual
 ---
-# George Orwell
 
+# George Orwell

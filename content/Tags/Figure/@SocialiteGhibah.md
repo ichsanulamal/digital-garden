@@ -1,8 +1,8 @@
 ---
 title: "@SocialiteGhibah"
 aliases:
-- 'Gordon Geckoleon'
+  - "Gordon Geckoleon"
 tags:
-- figure
+  - figure
 date: 2026-05-19
 ---

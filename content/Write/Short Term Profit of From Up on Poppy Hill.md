@@ -1,15 +1,16 @@
 ---
-date: '2021-02-09T11:05:24Z'
+date: "2021-02-09T11:05:24Z"
 tags:
-- review
-- film
-- essay
+  - review
+  - film
+  - essay
 timeline_notification: null
 title: Short-Term Profit of 'From Up on Poppy Hill'
 publish_external: true
 ---
+
 ![[b9ce89d36e6df7a15ded4f33fb756b7e.png]]
-  
+
 I often guess something. It is strange for some people, and I am not suggesting it too. You will not get something based on guessing if you believe so. And you will get some insights, whether it is true or not, you will get insight if you believe in your guessing, which is the case for modern people nowadays.
 
 That's what data scientists do. Trying to get some pattern, and practical business beliefs if it could make more profit, then it is true. Like any other graphical analysis, it is something stochastic and a lot of mathematicians try to find the relationship between variables, which is directed to chance/opportunity/probability.
@@ -23,8 +24,6 @@ On the other hand, there's a trader who pays attention well by a lot of fundamen
 [[Meme]]
 
 ![[Screen_Shot_2019-06-05_at_1.26.32_PM.jpg]]
-
-
 
 Profit for science, profit for history, profit for society, it is all about in this world. There's no profit for long term, only profit for context.
 

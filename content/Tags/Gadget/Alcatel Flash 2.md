@@ -2,7 +2,7 @@
 title: "Alcatel Flash 2"
 date: 2016-01-01
 tags:
-- gadget
+  - gadget
 ---
-# Alcatel Flash 2
 
+# Alcatel Flash 2

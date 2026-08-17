@@ -1,10 +1,10 @@
 ---
-date: '2020-12-04T08:14:31Z'
+date: "2020-12-04T08:14:31Z"
 tags:
-- review
-- film
+  - review
+  - film
 timeline_notification:
-- '1607044521'
+  - "1607044521"
 title: Nosy Loli Review
 publish_external: true
 ---
@@ -15,7 +15,7 @@ Based on any history books, [[Japan]] colonized Indonesia for 3.5 years, from 19
 
 But it is only based on books, it probably less than that, or it probably still occurred until now.
 
-The funny thing is The Japanese weren't taught about Indonesia, at least from my limited resources from 
+The funny thing is The Japanese weren't taught about Indonesia, at least from my limited resources from
 
 ![[https://youtu.be/TDasnJh7q8U]]
 

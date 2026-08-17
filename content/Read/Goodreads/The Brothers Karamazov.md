@@ -1,17 +1,16 @@
 ---
 title: The Brothers Karamazov
 author: Fyodor Dostoevsky
-date: '2020-08-23'
+date: "2020-08-23"
 tags:
-- book
+  - book
 ---
-
 
 # The Brothers Karamazov
 
 **Author:** Fyodor Dostoevsky  
 **My Rating:** 0  
-**Date Read:**   
+**Date Read:**  
 **Bookshelves:** to-read
 
 **Additional Authors:** Richard Pevear, Larissa Volokhonsky  
@@ -22,7 +21,7 @@ tags:
 **Number of Pages:** 796  
 **Year Published:** 2002  
 **Original Publication Year:** 1880  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2020-08-23 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 4.38  
@@ -31,7 +30,4 @@ tags:
 **Read Count:** 0  
 **Owned Copies:** 0
 
-
 ## Review
-
-

@@ -2,44 +2,50 @@
 title: "Ngaji Filsafat"
 date: 2021-06-29
 tags:
-- philosophy
+  - philosophy
 publish_external: true
 ---
+
 [[Introduction to Philosophy]]
 [[Epistemology]]
 [[Islamic Epistemology]]
 [[Truth]]
 [[Social Epistemology]]
-  
+
 ### Ontologi
+
 [[Idealism]]
 [[René Descartes]]
 [[Pluralism]]
-  
+
 ## Aksiologi
+
 ### Etika
+
 [[Ethics]]
 [[Normative Ethics]]
 [[Aristotle]]
 [[Ethics]]
 [[Religious Ethics]]
 [[Situational ethics]]
-  
-  
+
 [[Romanticism]]
-  
+
 ## Eksistensialisme
+
 [[Jean-Jacques Rousseau]]
 [[Søren Kierkegaard]]
 [[Friedrich Nietzsche]]
 [[Muhammad Iqbal]]
 [[Jean-Paul Sartre]]
-  
+
 ## Fenomenalisme
+
 [[Phenomenology]]
 [[Martin Heidegger]]
-  
+
 ## Filsafat Islam
+
 [[Al-Farabi]]
 [[Ibn Sina]]
 [[Al-Ghazali]]
@@ -47,9 +53,11 @@ publish_external: true
 [[Ibn Tufayl]]
 [[Averröes]]
 [[Ibn Khaldun]]
+
 ## Renaissance
- Aufklarung
- Humanism
+
+Aufklarung
+Humanism
 [[Niccolo Machiavelli]]
 [[Voltaire]]
 [[Auguste Comte]]
@@ -57,39 +65,41 @@ publish_external: true
 [[Sigmund Freud]]
 [[William James]]
 [[Karl Marx]]
-  
+
 ## Iluminasi
+
 [[Illumination]]
 [[Suhrawardi]]
 [[Ibn Arabi]]
 [[Mulla Sadra]]
-  
+
 ## Post Modernism
 
 [[Richard Rorty]]
-  
-[[History of God]]
-- Desember 1198
 
+[[History of God]]
+
+- Desember 1198
 
 [[Philosophy]]
 
-
 ### Others
-Awal mula renaissance  
-  
-itali inggris prancis prancis  
-  
-revolusi prancis  
-1. rasionalisme  
-2. deterministik  
-  
+
+Awal mula renaissance
+
+itali inggris prancis prancis
+
+revolusi prancis
+
+1. rasionalisme
+2. deterministik
+
 rtrdgrd  
 -dark ages  
--perang salib  
-  
+-perang salib
+
 platonik melahirkan rasionalisme  
 neoplatonis melahirkan mistik  
-realistis  
-  
+realistis
+
 destiny, al matsiir

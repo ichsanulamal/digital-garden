@@ -2,9 +2,9 @@
 title: "Pramoedya Ananta Toer"
 date: 2001-01-01
 tags:
-- figure
-- literature
-- public-intellectual
+  - figure
+  - literature
+  - public-intellectual
 ---
-# Pramoedya Ananta Toer
 
+# Pramoedya Ananta Toer

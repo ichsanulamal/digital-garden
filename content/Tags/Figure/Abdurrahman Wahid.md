@@ -8,5 +8,5 @@ tags:
 aliases:
   - Gus Dur
 ---
-# Abdurrahman Wahid
 
+# Abdurrahman Wahid

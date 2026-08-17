@@ -2,10 +2,11 @@
 title: "Peter Thiel"
 date: 2001-01-01
 tags:
-- economics
-- figure
-- technology
+  - economics
+  - figure
+  - technology
 ---
+
 # Peter Thiel
 
 influenced by [[Friedrich Nietzsche]]

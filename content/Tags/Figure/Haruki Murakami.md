@@ -2,8 +2,8 @@
 title: "Haruki Murakami"
 date: 2001-01-01
 tags:
-- figure
-- literature
+  - figure
+  - literature
 ---
-# Haruki Murakami
 
+# Haruki Murakami

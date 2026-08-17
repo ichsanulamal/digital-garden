@@ -4,32 +4,38 @@ date: 2001-01-01
 publish_external: true
 tags: []
 ---
+
 Filosof : berpikir, memproduksi ide  
-Ahli Filsafat : belajar teori, tokoh, paradigma  
+Ahli Filsafat : belajar teori, tokoh, paradigma
+
 ### Sebelum belajar, bedakan:
+
 - Filsafat sebagai metodologi (alat untuk berpikir)
 - Filsafat sebagai produk pemikiran atau gagasan dari seorang tokoh
-  
-Lahirnya filsafat: Dari ketidakpercayaan terhadap mitos berusaha ke logos (rasio, nalar)  
-  
+
+Lahirnya filsafat: Dari ketidakpercayaan terhadap mitos berusaha ke logos (rasio, nalar)
+
 philo : kebijaksanaan, hikmah, kebenaran  
-sophy : cinta  
-  
+sophy : cinta
+
 Pintu gerbang filsafat :
+
 - Rasional
 - Curious (ingin tahu)
 - Wisdom
-  
+
 muhasabah, tafakur
-  
+
 Tugas utama Filsafat:
+
 - Memperjelas konsep
 - Mengkritisi konsep (menempatkan sesuatu sesuai dengan porsinya)
 - Membuat argumen
-  
+
 Refleksi -> Aksi -> Transformasi
-  
+
 ### 7 Cara berpikir filsafat
+
 - Radikal (mengakar)
 - Komprehensif (meluas, menyeluruh)
 - Kritis
@@ -37,29 +43,31 @@ Refleksi -> Aksi -> Transformasi
 - Koheren - konsisten (runtut)
 - Sistematis - metodis
 - Bebas - tanggung jawab
-  
+
 ### Yang dibahas dalam Filsafat
+
 Realitas : teologi (tuhan), kosmologi (alam), antropologi (manusia)  
 Nilai (keindahan=estetika dan kebaikan=etika, kebenaran),  
 Logika (Kebenaran)  
-Prosedur berpikirnya mengenai ukuran benar salahnya disebut epistemologi (bagaimana)  
-  
+Prosedur berpikirnya mengenai ukuran benar salahnya disebut epistemologi (bagaimana)
+
 ### Dua bagian filsafat:
+
 Konstruksi filosofi  
-Critical filosofi  
-  
+Critical filosofi
+
 ### Alat: logos (berpikir rasional, akal budi)
+
 - panca indera
 - akal
 - nurani
 - insting / naluri
 - intuisi
 - imajinasi
-  
+
 Filsafat barat : akal dan panca indera  
 Filsafat Islam : imajinasi dan intuisi  
-Filsafat etika : nurani  
-  
+Filsafat etika : nurani
 
 > [!info] Ngaji Filsafat Eps 001 Pengantar Filsafat - Fahrudin Faiz  
 > NgajiFilsafatYuk \#QuoteFilsafat .  

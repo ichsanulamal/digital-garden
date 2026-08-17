@@ -2,9 +2,10 @@
 title: "Al-Farabi"
 date: 2001-01-01
 tags:
-- figure
-- philosophy
-- spirituality
+  - figure
+  - philosophy
+  - spirituality
 ---
+
 emanasi
 politik

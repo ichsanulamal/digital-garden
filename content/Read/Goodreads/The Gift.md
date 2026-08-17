@@ -1,17 +1,16 @@
 ---
 title: The Gift
 author: Hafez
-date: '2024-03-14'
+date: "2024-03-14"
 tags:
-- book
+  - book
 ---
-
 
 # The Gift
 
 **Author:** Hafez  
 **My Rating:** 0  
-**Date Read:**   
+**Date Read:**  
 **Bookshelves:** to-read
 
 **Additional Authors:** Daniel Ladinsky  
@@ -22,7 +21,7 @@ tags:
 **Number of Pages:** 333  
 **Year Published:** 1999  
 **Original Publication Year:** 1999  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2024-03-14 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 4.40  
@@ -31,7 +30,4 @@ tags:
 **Read Count:** 0  
 **Owned Copies:** 0
 
-
 ## Review
-
-

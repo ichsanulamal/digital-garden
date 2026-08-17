@@ -2,7 +2,7 @@
 title: "SMAN 4 Bandung"
 date: 2001-01-01
 tags:
-- school
+  - school
 ---
-# SMAN 4 Bandung
 
+# SMAN 4 Bandung

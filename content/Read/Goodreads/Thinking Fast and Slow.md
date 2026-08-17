@@ -1,20 +1,19 @@
 ---
 title: Thinking, Fast and Slow
 author: Daniel Kahneman
-date: '2021-08-23'
+date: "2021-08-23"
 tags:
-- book
+  - book
 ---
-
 
 # Thinking, Fast and Slow
 
 **Author:** Daniel Kahneman  
 **My Rating:** 0  
-**Date Read:**   
+**Date Read:**  
 **Bookshelves:** to-read
 
-**Additional Authors:**   
+**Additional Authors:**  
 **ISBN:** 0374275637  
 **ISBN13:** 9780374275631  
 **Publisher:** Farrar, Straus and Giroux  
@@ -22,7 +21,7 @@ tags:
 **Number of Pages:** 499  
 **Year Published:** 2011  
 **Original Publication Year:** 2011  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2021-08-23 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 4.17  
@@ -31,7 +30,4 @@ tags:
 **Read Count:** 0  
 **Owned Copies:** 0
 
-
 ## Review
-
-

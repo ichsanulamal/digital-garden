@@ -1,5 +1,5 @@
 ---
-title: "The Poison of \"Rich Dad, Poor Dad\": A Confession"
+title: 'The Poison of "Rich Dad, Poor Dad": A Confession'
 date: 2026-02-01T15:09:05+07:00
 tags: [financial-philosophy, education, career, self-reflection, personal-finance]
 publish_external: true
@@ -9,7 +9,7 @@ My father is an aeronautical engineer at Aerospace Indonesia. He holds an electr
 
 He once told me he could have stayed in the Netherlands to work or pursued a professorship in Japan. He chose not to. He chose to come home because he loved Indonesia. Today, he is "just" a staff engineer. We have enough--we don’t lack material things--but his path didn’t lead to the kind of "Big Wealth" the world celebrates.
 
-For most people, reading *Rich Dad, Poor Dad* is a positive experience. For me, it was intoxicating in the worst way.
+For most people, reading _Rich Dad, Poor Dad_ is a positive experience. For me, it was intoxicating in the worst way.
 
 ### The Financial Poison
 
@@ -21,9 +21,9 @@ But in my rush to be realistic, I lost my curiosity.
 
 ### The "Cara Cepat" Foundation
 
-The education system in Indonesia didn’t help. I realized the foundation was broken when I represented my school in a city olympiad. The tutors weren't teaching; they were just managing. I ended up preparing solo, watching *Bengkel MaFia* on YouTube.
+The education system in Indonesia didn’t help. I realized the foundation was broken when I represented my school in a city olympiad. The tutors weren't teaching; they were just managing. I ended up preparing solo, watching _Bengkel MaFia_ on YouTube.
 
-That’s when I realized I wasn’t learning concepts; I was just memorizing patterns. At my *bimbel* (tutoring center), we were taught *cara cepat* (shortcuts) to pass exams. The depth wasn't there.
+That’s when I realized I wasn’t learning concepts; I was just memorizing patterns. At my _bimbel_ (tutoring center), we were taught _cara cepat_ (shortcuts) to pass exams. The depth wasn't there.
 
 Thinking my foundation in science was too weak to go anywhere, I pivoted. I chose Information Systems--a blend of business and social science. I thought I was being smart. Instead, I found it boring. The theory was simple, but the reality--dealing with users and human politics--felt draining.
 

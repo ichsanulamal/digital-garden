@@ -2,10 +2,11 @@
 title: "Naval Ravikant"
 date: 2001-01-01
 tags:
-- economics
-- figure
-- modern-thinker
+  - economics
+  - figure
+  - modern-thinker
 ---
+
 # Naval Ravikant
 
 ## Best Of
@@ -18,7 +19,6 @@ tags:
 
 [[David Goggins PUSH YOURSELF EVERYDAY]]
 
-
 ## Hostings
 
 - [[Tim Ferriss Tools of Titans]]
@@ -26,7 +26,6 @@ tags:
 - [[Nick Szabo The Quiet Master of Cryptocurrency]]
 - [[Jerzy Gregorek Tim Ferriss]]
 - [[Neal Stephenson Blockstack Summit 2019]]
-
 
 TODO
 

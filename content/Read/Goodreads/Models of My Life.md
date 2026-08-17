@@ -1,20 +1,19 @@
 ---
 title: Models of My Life
 author: Herbert A. Simon
-date: '2023-01-04'
+date: "2023-01-04"
 tags:
-- book
+  - book
 ---
-
 
 # Models of My Life
 
 **Author:** Herbert A. Simon  
 **My Rating:** 0  
-**Date Read:**   
+**Date Read:**  
 **Bookshelves:** to-read
 
-**Additional Authors:**   
+**Additional Authors:**  
 **ISBN:** 026269185X  
 **ISBN13:** 9780262691857  
 **Publisher:** The MIT Press  
@@ -22,7 +21,7 @@ tags:
 **Number of Pages:** 415  
 **Year Published:** 1996  
 **Original Publication Year:** 1991  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2023-01-04 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 3.77  
@@ -31,7 +30,4 @@ tags:
 **Read Count:** 0  
 **Owned Copies:** 0
 
-
 ## Review
-
-

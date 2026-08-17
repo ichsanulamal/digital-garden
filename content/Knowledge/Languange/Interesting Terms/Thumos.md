@@ -5,4 +5,5 @@ tags:
   - interesting-terms
 publish_external: true
 ---
+
 'thumos', the part of the soul that desires recognition and autonomy

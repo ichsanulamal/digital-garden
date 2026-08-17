@@ -5,4 +5,3 @@ tags: []
 ---
 
 # Social Credit System
-

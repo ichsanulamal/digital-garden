@@ -4,6 +4,7 @@ title: Academic History
 publish_external: true
 tags: []
 ---
+
 # 📚 All Courses
 
 ## Academic Year 2019/2020 Term 1
@@ -70,4 +71,3 @@ tags: []
 
 - [[Internships]]
 - [[Computer & Society]]
-

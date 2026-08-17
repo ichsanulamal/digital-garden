@@ -2,9 +2,9 @@
 title: "Paulo Coelho"
 date: 2001-01-01
 tags:
-- figure
-- literature
-- spirituality
+  - figure
+  - literature
+  - spirituality
 ---
-# Paulo Coelho
 
+# Paulo Coelho

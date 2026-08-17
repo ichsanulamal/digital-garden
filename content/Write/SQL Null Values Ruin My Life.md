@@ -13,6 +13,7 @@ enableToc: true
 draft: true
 publish_external: true
 ---
+
 **Background:**
 I'm dealing with columns named "location" and "location_id". Some entries have null values in the "location_id" column, while "location" remains populated. This setup poses a few challenges:
 
@@ -48,6 +49,6 @@ Remember to use `NULLS LAST/FIRST` to properly handle null values when executing
 
 ---
 
-I dont realize these articles exist -_- 
+I dont realize these articles exist -\_-
 
-[Why should I avoid NULL values in a SQL database?](https://stackoverflow.com/questions/21777697/why-should-i-avoid-null-values-in-a-sql-database). 
+[Why should I avoid NULL values in a SQL database?](https://stackoverflow.com/questions/21777697/why-should-i-avoid-null-values-in-a-sql-database).

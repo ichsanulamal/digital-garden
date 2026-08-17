@@ -1,18 +1,17 @@
 ---
-title: 'Poor Charlie''s Almanack: The Wit and Wisdom of Charles T. Munger'
+title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
 author: Charles T. Munger
-date: '2022-07-25'
+date: "2022-07-25"
 tags:
-- book
+  - book
 ---
-
 
 # Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger
 
 **Author:** Charles T. Munger  
 **My Rating:** 0  
-**Date Read:**   
-**Bookshelves:** 
+**Date Read:**  
+**Bookshelves:**
 
 **Additional Authors:** Peter E. Kaufman  
 **ISBN:** 157864366X  
@@ -22,16 +21,13 @@ tags:
 **Number of Pages:** 512  
 **Year Published:** 2006  
 **Original Publication Year:** 2005  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2022-07-25 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 4.41  
-**Bookshelves:**   
+**Bookshelves:**  
 **Exclusive Shelf:** read  
 **Read Count:** 1  
 **Owned Copies:** 0
 
-
 ## Review
-
-

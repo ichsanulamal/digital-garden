@@ -9,7 +9,7 @@ tags: []
 
 > 🧭 _i don't know what i want. i only know what i don't want._
 
-Hi, I’m **insert\_name** -- a corporate wagie working in **Data & AI**.
+Hi, I’m **insert_name** -- a corporate wagie working in **Data & AI**.
 
 Most of my time is spent tinkering with **tech, philosophy, and fulus** -- often not productively, but always curiously.
 

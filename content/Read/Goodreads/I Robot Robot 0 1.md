@@ -1,20 +1,19 @@
 ---
-title: 'I, Robot (Robot, #0.1)'
+title: "I, Robot (Robot, #0.1)"
 author: Isaac Asimov
-date: '2021-08-23'
+date: "2021-08-23"
 tags:
-- book
+  - book
 ---
-
 
 # I, Robot (Robot, #0.1)
 
 **Author:** Isaac Asimov  
 **My Rating:** 0  
-**Date Read:**   
+**Date Read:**  
 **Bookshelves:** to-read
 
-**Additional Authors:**   
+**Additional Authors:**  
 **ISBN:** 0553803700  
 **ISBN13:** 9780553803709  
 **Publisher:** Bantam Books  
@@ -22,7 +21,7 @@ tags:
 **Number of Pages:** 224  
 **Year Published:** 2004  
 **Original Publication Year:** 1950  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2021-08-23 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 4.21  
@@ -31,7 +30,4 @@ tags:
 **Read Count:** 0  
 **Owned Copies:** 0
 
-
 ## Review
-
-

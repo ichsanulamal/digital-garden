@@ -2,8 +2,8 @@
 title: "Mark Manson"
 date: 2001-01-01
 tags:
-- figure
-- modern-thinker
+  - figure
+  - modern-thinker
 ---
-# Mark Manson
 
+# Mark Manson

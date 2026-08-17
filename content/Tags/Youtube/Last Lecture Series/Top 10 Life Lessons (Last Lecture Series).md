@@ -48,7 +48,7 @@ Important lessons compiled from various experiences, including living in Austral
 ## Keys to Personal Renewal
 
 - **Character-Building Experiences**: Step out of your comfort zone. Reflection integrated with action turns mistakes into wisdom.
-- **Leaders Find the Words**: Honest communication earns followers. Connecting with an audience requires finding the *right* words, not just many words.
+- **Leaders Find the Words**: Honest communication earns followers. Connecting with an audience requires finding the _right_ words, not just many words.
 - **Critical Thinking**: Develop pattern recognition through constant practice and asking the right questions.
 - **Meaning through Commitment**: Build meaning by committing to things greater than yourself--loved ones, life's work, or community.
 
@@ -61,5 +61,5 @@ Important lessons compiled from various experiences, including living in Austral
 - **Awareness**: Self-assessment is the first step to change. Strive for awareness, then action.
 
 ### Final Thoughts
-The goal is to leave the world a better place through kindness, courage, loyalty, and integrity. Keep learning, keep trying, and keep making commitments to a life of meaning.
 
+The goal is to leave the world a better place through kindness, courage, loyalty, and integrity. Keep learning, keep trying, and keep making commitments to a life of meaning.

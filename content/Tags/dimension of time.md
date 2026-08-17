@@ -5,4 +5,3 @@ tags: []
 ---
 
 # dimension of time
-

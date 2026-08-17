@@ -16,11 +16,11 @@ Maslow coined the term based on the biblical story of **Jonah**, who fled from h
 
 ### Characteristics of the Jonah Complex:
 
-* **Fear of success or visibility**: Worrying that standing out will alienate others or bring unwanted attention.
-* **Impostor syndrome**: Doubting one's abilities despite evidence of competence.
-* **Avoidance behaviors**: Procrastination or self-sabotage when approaching a breakthrough.
-* **Comfort in mediocrity**: Choosing the familiar and safe over the risky but fulfilling.
-* **Guilt about outshining others**: Feeling it’s unfair to succeed when others struggle.
+- **Fear of success or visibility**: Worrying that standing out will alienate others or bring unwanted attention.
+- **Impostor syndrome**: Doubting one's abilities despite evidence of competence.
+- **Avoidance behaviors**: Procrastination or self-sabotage when approaching a breakthrough.
+- **Comfort in mediocrity**: Choosing the familiar and safe over the risky but fulfilling.
+- **Guilt about outshining others**: Feeling it’s unfair to succeed when others struggle.
 
 ---
 
@@ -32,9 +32,9 @@ Maslow coined the term based on the biblical story of **Jonah**, who fled from h
 
 ### Related Concepts:
 
-* **Self-actualization**: The full realization of one’s talents and potential.
-* **Tall poppy syndrome**: Social pressure to avoid standing out.
-* **Sublimation and resistance**: Defense mechanisms against facing one’s true purpose or calling.
+- **Self-actualization**: The full realization of one’s talents and potential.
+- **Tall poppy syndrome**: Social pressure to avoid standing out.
+- **Sublimation and resistance**: Defense mechanisms against facing one’s true purpose or calling.
 
 ---
 

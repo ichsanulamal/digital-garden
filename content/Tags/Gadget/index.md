@@ -1,9 +1,10 @@
 ---
 date: 2001-01-01
 tags:
-- gadget
+  - gadget
 title: Gadget
 ---
+
 ## Gadget
 
 [[SAMSUNG GT-E1200I]]
@@ -20,7 +21,4 @@ title: Gadget
 
 [[Xiaomi Redmi Note 11]]
 
-
-
 [[Huawei Band 8]]
-

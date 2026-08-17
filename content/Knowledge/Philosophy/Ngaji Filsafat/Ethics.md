@@ -4,28 +4,34 @@ date: 2001-01-01
 publish_external: true
 tags: []
 ---
+
 ## [[Relativism]]
+
 - konvensionalisme :  
-    sesuai konteks budaya atau sosial  
-    
+   sesuai konteks budaya atau sosial
+
 - subjektivisme :  
-    individu  
-    
+   individu
+
 ## [[Altruism]]
+
 ### Indikator
+
 - Empati.
 - Interpretasi.
 - Social  
-    Responsibility.  
-    
+   Responsibility.
+
 - Inisiatif.
 - Rela Berkorban.
+
 ## [[Egoism]]
+
 - Act-Selfishly  
-    (berhubungan dengan motifnya)  
-    
+   (berhubungan dengan motifnya)
+
 - Act in our  
-    Self-interest (berhubungan dengan konsekuensinya)
+   Self-interest (berhubungan dengan konsekuensinya)
 
 Nilai → Norma → Moral → Etika
 → Sikap dan Perilaku Manusia

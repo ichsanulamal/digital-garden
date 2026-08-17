@@ -2,10 +2,11 @@
 title: "Mulla Sadra"
 date: 2001-01-01
 tags:
-- figure
-- philosophy
-- spirituality
+  - figure
+  - philosophy
+  - spirituality
 ---
+
 Modal
 Habitus
 Arena

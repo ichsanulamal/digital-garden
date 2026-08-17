@@ -1,17 +1,16 @@
 ---
-title: 'Peak: Secrets from the New Science of Expertise'
+title: "Peak: Secrets from the New Science of Expertise"
 author: K. Anders Ericsson
-date: '2021-02-20'
+date: "2021-02-20"
 tags:
-- book
+  - book
 ---
-
 
 # Peak: Secrets from the New Science of Expertise
 
 **Author:** K. Anders Ericsson  
 **My Rating:** 0  
-**Date Read:**   
+**Date Read:**  
 **Bookshelves:** to-read
 
 **Additional Authors:** Robert Pool  
@@ -22,7 +21,7 @@ tags:
 **Number of Pages:** 336  
 **Year Published:** 2016  
 **Original Publication Year:** 2016  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2021-02-20 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 4.21  
@@ -31,7 +30,4 @@ tags:
 **Read Count:** 0  
 **Owned Copies:** 0
 
-
 ## Review
-
-

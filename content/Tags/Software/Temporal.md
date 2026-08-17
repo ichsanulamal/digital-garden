@@ -2,8 +2,9 @@
 title: "Temporal"
 date: 2001-01-01
 tags:
-- software
+  - software
 ---
+
 # Temporal
 
 ## Overview
@@ -16,10 +17,10 @@ tags:
 
 Temporal is composed of several components:
 
-* **Frontend service** (handles gRPC requests)
-* **History service** (maintains workflow state)
-* **Matching service** (schedules tasks to workers)
-* **Worker service** (executes application logic)
+- **Frontend service** (handles gRPC requests)
+- **History service** (maintains workflow state)
+- **Matching service** (schedules tasks to workers)
+- **Worker service** (executes application logic)
   These services are typically deployed across different machines or containers, forming a distributed system.
 
 ---
@@ -28,9 +29,9 @@ Temporal is composed of several components:
 
 Workflows in Temporal:
 
-* Are stateful, long-lived (minutes to months)
-* Execute across different **worker processes**, which can be on different machines
-* Survive worker crashes and resume elsewhere
+- Are stateful, long-lived (minutes to months)
+- Execute across different **worker processes**, which can be on different machines
+- Survive worker crashes and resume elsewhere
 
 This requires **distributed coordination**.
 
@@ -40,9 +41,9 @@ This requires **distributed coordination**.
 
 Temporal ensures:
 
-* **Durability** through persistent storage (e.g., Cassandra, MySQL, Postgres)
-* **Failover** and **retry** mechanisms for tasks
-* **Deterministic replay** of workflow history to recover state
+- **Durability** through persistent storage (e.g., Cassandra, MySQL, Postgres)
+- **Failover** and **retry** mechanisms for tasks
+- **Deterministic replay** of workflow history to recover state
 
 These features require a distributed architecture to achieve high availability and fault isolation.
 
@@ -52,8 +53,8 @@ These features require a distributed architecture to achieve high availability a
 
 You can scale each component of Temporal independently:
 
-* Add more workers to handle more tasks
-* Add more frontend or history nodes to handle more workflows
+- Add more workers to handle more tasks
+- Add more frontend or history nodes to handle more workflows
 
 Scalability across machines = distributed system.
 
@@ -71,14 +72,13 @@ Temporal services and workers communicate via gRPC over the network--another hal
 
 ---
 
-
 ## Idempotency In Temporal
 
 Temporal **ensures [[Idempotency]] automatically** by:
 
-* Replaying deterministic workflow code
-* Not re-executing side effects (e.g., activities) unless marked as retryable
-* Letting you manage external side effects with **activity retries and versioning**
+- Replaying deterministic workflow code
+- Not re-executing side effects (e.g., activities) unless marked as retryable
+- Letting you manage external side effects with **activity retries and versioning**
 
 This is one reason why Temporal workflows are **reliable and fault-tolerant**.
 
@@ -86,10 +86,10 @@ This is one reason why Temporal workflows are **reliable and fault-tolerant**.
 
 Temporal provides **safe [[Concurrency]]**:
 
-* Multiple workflows can run in parallel
-* Workflows themselves are **single-threaded and deterministic**
-* Activities (external tasks) can run in parallel or be throttled
-* Signals and queries can be sent concurrently to workflows
+- Multiple workflows can run in parallel
+- Workflows themselves are **single-threaded and deterministic**
+- Activities (external tasks) can run in parallel or be throttled
+- Signals and queries can be sent concurrently to workflows
 
 This lets you build systems that **scale**, **recover from failure**, and **remain consistent**.
 
@@ -97,9 +97,9 @@ This lets you build systems that **scale**, **recover from failure**, and **rema
 
 Temporal is **inherently asynchronous**:
 
-* **Workflows** can call activities **asynchronously**, allowing parallel execution.
-* **Timers**, **signals**, and **child workflows** are non-blocking.
-* Even though workflows look synchronous (sequential code), Temporal **asynchronously manages state, retries, and execution under the hood**.
+- **Workflows** can call activities **asynchronously**, allowing parallel execution.
+- **Timers**, **signals**, and **child workflows** are non-blocking.
+- Even though workflows look synchronous (sequential code), Temporal **asynchronously manages state, retries, and execution under the hood**.
 
 #### Example (pseudo-code):
 
@@ -117,8 +117,8 @@ Even though this looks linear, Temporal can run the activities **in parallel** b
 
 Temporal **replays workflow code** from event history to restore state after restarts or crashes. To make this possible:
 
-* **Workflow code must be deterministic**
-* **Non-deterministic behavior (e.g., `Date.now()`, random numbers, external calls)** must be isolated inside **Activities**, not inside workflows
+- **Workflow code must be deterministic**
+- **Non-deterministic behavior (e.g., `Date.now()`, random numbers, external calls)** must be isolated inside **Activities**, not inside workflows
 
 #### ✅ Good (Deterministic) Workflow Example:
 
@@ -131,7 +131,7 @@ result = await workflow.execute_activity(add, 3, 5)
 
 ```python
 # BAD: result changes on every replay!
-now = datetime.now() 
+now = datetime.now()
 ```
 
 Instead, you should:
@@ -145,41 +145,40 @@ now = workflow.now()
 
 ### 🧠 How Temporal Enforces Determinism
 
-* It **records a history** of all events (activity calls, timers, signals, etc.)
-* When recovering, it **re-executes** the workflow code **from the beginning**, using that history to ensure behavior matches exactly
-* Any divergence = **non-determinism error**
+- It **records a history** of all events (activity calls, timers, signals, etc.)
+- When recovering, it **re-executes** the workflow code **from the beginning**, using that history to ensure behavior matches exactly
+- Any divergence = **non-determinism error**
 
 ---
 
 ### 💡 Key Sources of Non-Determinism to Avoid
 
-* Current time (`datetime.now()`)
-* Randomness (`random()`)
-* External API calls
-* Multithreading and shared state
-* Switch/case on dynamic values
+- Current time (`datetime.now()`)
+- Randomness (`random()`)
+- External API calls
+- Multithreading and shared state
+- Switch/case on dynamic values
 
 ---
 
 ### 🔐 How to Stay Deterministic
 
-* Use Temporal’s built-in APIs (`workflow.now()`, `workflow.uuid4()`)
-* Keep side-effects in **Activities**, not in the workflow code
-* Don’t use global mutable state inside workflows
-* Avoid concurrency inside workflows (Temporal executes them single-threaded)
+- Use Temporal’s built-in APIs (`workflow.now()`, `workflow.uuid4()`)
+- Keep side-effects in **Activities**, not in the workflow code
+- Don’t use global mutable state inside workflows
+- Avoid concurrency inside workflows (Temporal executes them single-threaded)
 
 ---
 
 ### Summary
 
-| Feature           | Deterministic Workflow | Non-Deterministic Workflow |
-| ----------------- | ---------------------- | -------------------------- |
-| ✅ Reliable replay | ✅                      | ❌                          |
-| ✅ Safe retrying   | ✅                      | ❌                          |
-| ✅ Debuggable      | ✅                      | ❌                          |
+| Feature            | Deterministic Workflow | Non-Deterministic Workflow |
+| ------------------ | ---------------------- | -------------------------- |
+| ✅ Reliable replay | ✅                     | ❌                         |
+| ✅ Safe retrying   | ✅                     | ❌                         |
+| ✅ Debuggable      | ✅                     | ❌                         |
 
 ---
-
 
 ## **Workflow** in Temporal?
 
@@ -201,12 +200,12 @@ A **workflow** in Temporal is a **deterministic, stateful function** that orches
 
 ### 📦 What Workflows Can Do
 
-* Call and coordinate **activities** (e.g., send email, process payment)
-* Sleep/timer logic without blocking resources
-* Wait for **external signals**
-* Spawn **child workflows**
-* Handle retries, versioning, cancellations
-* Maintain **business state** over time
+- Call and coordinate **activities** (e.g., send email, process payment)
+- Sleep/timer logic without blocking resources
+- Wait for **external signals**
+- Spawn **child workflows**
+- Handle retries, versioning, cancellations
+- Maintain **business state** over time
 
 ---
 
@@ -250,15 +249,15 @@ public interface MyWorkflow {
 
 ✅ DO:
 
-* Use Temporal APIs: `workflow.now()`, `workflow.sleep()`
-* Keep workflows deterministic
-* Keep workflows orchestration-only (business logic in **activities**)
+- Use Temporal APIs: `workflow.now()`, `workflow.sleep()`
+- Keep workflows deterministic
+- Keep workflows orchestration-only (business logic in **activities**)
 
 ❌ AVOID:
 
-* Non-deterministic calls (`random()`, `datetime.now()`, external API calls)
-* Blocking I/O (use async)
-* Long-running operations inside the workflow (use **activities** instead)
+- Non-deterministic calls (`random()`, `datetime.now()`, external API calls)
+- Blocking I/O (use async)
+- Long-running operations inside the workflow (use **activities** instead)
 
 ---
 
@@ -273,9 +272,7 @@ public interface MyWorkflow {
 
 ---
 
-## Process Orchestrator, Spring Batch Application, and Microservices Architecture 
-
-
+## Process Orchestrator, Spring Batch Application, and Microservices Architecture
 
 ### 🧩 1. **Process Orchestrator**
 
@@ -285,23 +282,23 @@ A **Process Orchestrator** is a centralized system that **manages, coordinates, 
 
 #### 🔧 Examples:
 
-* **Temporal**
-* **Camunda**
-* **Apache Airflow**
-* **AWS Step Functions**
+- **Temporal**
+- **Camunda**
+- **Apache Airflow**
+- **AWS Step Functions**
 
 #### ✅ Strengths:
 
-* **Visual and logical orchestration** of tasks
-* Handles **retries**, **timeouts**, **failures**, and **dependencies**
-* Long-running workflows supported
-* Easy to **monitor and audit process flows**
+- **Visual and logical orchestration** of tasks
+- Handles **retries**, **timeouts**, **failures**, and **dependencies**
+- Long-running workflows supported
+- Easy to **monitor and audit process flows**
 
 #### 🧠 Ideal For:
 
-* Complex **business workflows**
-* Coordinating across **multiple services**
-* **Stateful**, long-lived flows (e.g., order fulfillment, onboarding)
+- Complex **business workflows**
+- Coordinating across **multiple services**
+- **Stateful**, long-lived flows (e.g., order fulfillment, onboarding)
 
 ---
 
@@ -313,22 +310,22 @@ A **Spring Batch Application** is a Java-based framework for building **batch pr
 
 #### 🔧 Key Features:
 
-* Job steps with readers, processors, writers
-* Retry, skip, and restart mechanisms
-* Handles large data volumes
-* Runs in-memory or can be persisted
+- Job steps with readers, processors, writers
+- Retry, skip, and restart mechanisms
+- Handles large data volumes
+- Runs in-memory or can be persisted
 
 #### ✅ Strengths:
 
-* Optimized for **throughput-heavy** jobs
-* Mature ecosystem, integrates with Spring Boot
-* Declarative and configurable
+- Optimized for **throughput-heavy** jobs
+- Mature ecosystem, integrates with Spring Boot
+- Declarative and configurable
 
 #### 🧠 Ideal For:
 
-* **ETL jobs**, database migrations
-* **File processing**, report generation
-* Scheduled data processing (e.g., every night at 2 AM)
+- **ETL jobs**, database migrations
+- **File processing**, report generation
+- Scheduled data processing (e.g., every night at 2 AM)
 
 ---
 
@@ -340,43 +337,43 @@ An architectural style where an application is broken down into **small, indepen
 
 #### 🔧 Characteristics:
 
-* Each service owns its **own database and logic**
-* Services are **deployed independently**
-* Communication via REST, gRPC, messaging (Kafka, RabbitMQ)
+- Each service owns its **own database and logic**
+- Services are **deployed independently**
+- Communication via REST, gRPC, messaging (Kafka, RabbitMQ)
 
 #### ✅ Strengths:
 
-* **Scalability** (scale each service independently)
-* **Resilience** (failures isolated to services)
-* **Flexibility** in tech stack per service
+- **Scalability** (scale each service independently)
+- **Resilience** (failures isolated to services)
+- **Flexibility** in tech stack per service
 
 #### 🧠 Ideal For:
 
-* Large-scale applications with **distributed teams**
-* Need for **high agility**, frequent deployments
-* Applications with **bounded contexts**
+- Large-scale applications with **distributed teams**
+- Need for **high agility**, frequent deployments
+- Applications with **bounded contexts**
 
 ---
 
 ### 🔍 Head-to-Head Comparison
 
-| Feature                   | Process Orchestrator       | Spring Batch Application            | Microservices Architecture            |
-| ------------------------- | -------------------------- | ----------------------------------- | ------------------------------------- |
-| Primary Use Case          | Long-running workflows     | High-throughput data processing     | Distributed, independent services     |
+| Feature                   | Process Orchestrator        | Spring Batch Application            | Microservices Architecture             |
+| ------------------------- | --------------------------- | ----------------------------------- | -------------------------------------- |
+| Primary Use Case          | Long-running workflows      | High-throughput data processing     | Distributed, independent services      |
 | Handles State             | ✅ Yes                      | ⚠️ Partially (with job persistence) | ❌ Each service must manage its own    |
-| Parallelism / Concurrency | ✅ Built-in                 | ✅ Step-level parallelism            | ✅ Per service                         |
-| Error Handling / Retries  | ✅ Built-in                 | ✅ Configurable                      | ❌ Must be implemented in each service |
-| Best for Orchestration    | ✅ Yes                      | ❌ No                                | ⚠️ Requires manual implementation     |
-| Long-Running Tasks        | ✅ Yes                      | ❌ No (typically short-lived jobs)   | ❌ Requires careful design             |
-| Workflow Visualization    | ✅ Yes (with tools like UI) | ❌ No                                | ❌ No built-in                         |
+| Parallelism / Concurrency | ✅ Built-in                 | ✅ Step-level parallelism           | ✅ Per service                         |
+| Error Handling / Retries  | ✅ Built-in                 | ✅ Configurable                     | ❌ Must be implemented in each service |
+| Best for Orchestration    | ✅ Yes                      | ❌ No                               | ⚠️ Requires manual implementation      |
+| Long-Running Tasks        | ✅ Yes                      | ❌ No (typically short-lived jobs)  | ❌ Requires careful design             |
+| Workflow Visualization    | ✅ Yes (with tools like UI) | ❌ No                               | ❌ No built-in                         |
 
 ---
 
 ### 🔧 How They Can Work Together
 
-* Use **Spring Batch** inside a **microservice** to perform batch jobs
-* Use a **Process Orchestrator** to coordinate multiple microservices or Spring Batch jobs
-* Combine **Temporal** with microservices to make fault-tolerant, distributed workflows
+- Use **Spring Batch** inside a **microservice** to perform batch jobs
+- Use a **Process Orchestrator** to coordinate multiple microservices or Spring Batch jobs
+- Combine **Temporal** with microservices to make fault-tolerant, distributed workflows
 
 ---
 
@@ -389,4 +386,3 @@ An architectural style where an application is broken down into **small, indepen
 | Building an e-commerce platform    | **Microservices Architecture**            |
 | Customer onboarding with approvals | **Process Orchestrator**                  |
 | Migrating millions of records      | **Spring Batch**                          |
-

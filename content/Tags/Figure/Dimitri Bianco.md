@@ -2,10 +2,11 @@
 title: "Dimitri Bianco"
 date: 2001-01-01
 tags:
-- economics
-- figure
-- modern-thinker
+  - economics
+  - figure
+  - modern-thinker
 ---
+
 # Dimitri Bianco
 
 ## Why Independent Quants Don't Exist
@@ -21,7 +22,6 @@ Many people look back at the 80s and 90s, when some quants and proprietary tradi
 
 1. **Initial Capital Requirements:**
    - **Example Scenario:** Imagine you start with \$1 million. If you achieve a 10% return annually, that's \$100,000. However, this assumes you have no expenses and no salary. In reality, you have costs like transaction fees, data, technology, and potentially salaries if you hire help.
-   
 2. **Risk and Uncertainty:**
    - If you don’t achieve your projected returns (e.g., only making 6% instead of 10%), you could end up making significantly less, which might not cover your expenses or your desired salary.
 
@@ -137,13 +137,13 @@ Here's a summary of Dimitri's video in bullet points:
 
 ## Why I Dislike Talking About Trading and Investing (TT - S2E8)
 
-On my usual YouTube channel, I focus on technical aspects like measuring autocorrelation functions, partial autocorrelation functions, ADF testing, and the nitty-gritty of coding. We break down mathematical theories and their derivations to understand the underpinnings of various financial models. By the end of a video, you might be feeling a bit overwhelmed if you’re not deeply into finance, which seems to be the point for some of my viewers. They often tell me that while they appreciate the content, the technical videos can be a bit over their heads. 
+On my usual YouTube channel, I focus on technical aspects like measuring autocorrelation functions, partial autocorrelation functions, ADF testing, and the nitty-gritty of coding. We break down mathematical theories and their derivations to understand the underpinnings of various financial models. By the end of a video, you might be feeling a bit overwhelmed if you’re not deeply into finance, which seems to be the point for some of my viewers. They often tell me that while they appreciate the content, the technical videos can be a bit over their heads.
 
-Now, let’s address why I shy away from discussing investing and trading. 
+Now, let’s address why I shy away from discussing investing and trading.
 
 ### The Basics and Beyond
 
-Many finance students and amateur investors lack a solid grasp of basic financial concepts. This isn’t just a casual observation; it's a recurring theme I encounter. Even with a finance degree, people often miss out on core principles like diversification, capital asset pricing, and the real-world limitations of financial theories. 
+Many finance students and amateur investors lack a solid grasp of basic financial concepts. This isn’t just a casual observation; it's a recurring theme I encounter. Even with a finance degree, people often miss out on core principles like diversification, capital asset pricing, and the real-world limitations of financial theories.
 
 The real issue is that these basic concepts are crucial for understanding more complex financial strategies. Without them, it’s like trying to build a house on a shaky foundation. For instance, many people don’t realize that basic theories are built on assumptions that don’t always hold true in the real world. This is why theory alone isn’t enough--you need to adapt and refine it with rigorous modeling and statistical analysis.
 
@@ -171,21 +171,21 @@ Thanks for tuning in, and as always, until next time!
 
 ## Lessons from my First Million Dollars
 
-**Dimitri:** Hey YouTube, it’s Dimitri! Today, we’re diving into how I made my first million dollars. That’s right, I officially hit the million-dollar mark at the end of 2020. It's a big achievement for me, but I want to share some insights and tips from my journey. 
+**Dimitri:** Hey YouTube, it’s Dimitri! Today, we’re diving into how I made my first million dollars. That’s right, I officially hit the million-dollar mark at the end of 2020. It's a big achievement for me, but I want to share some insights and tips from my journey.
 
 **1. Making a Million Dollars Takes a Lot of Money**
 
 Let’s start by clearing up a common misconception: making a million dollars doesn’t mean you’re filthy rich with stacks of cash lying around. In reality, it’s a process that involves significant investment. Here’s a bit about my background:
 
-You can achieve a million-dollar milestone through various careers. My path was just one of many. I pursued a finance degree, hoping it would lead to a successful career. However, after graduating, I realized I needed more specialized knowledge. Corporate finance felt limiting, and there was a barrier to entry in traditional finance roles. 
+You can achieve a million-dollar milestone through various careers. My path was just one of many. I pursued a finance degree, hoping it would lead to a successful career. However, after graduating, I realized I needed more specialized knowledge. Corporate finance felt limiting, and there was a barrier to entry in traditional finance roles.
 
-**Tip:** If you aim to work in a specific industry like finance or fashion, studying in or near the industry’s hub--such as New York City for finance--can dramatically increase your job prospects. 
+**Tip:** If you aim to work in a specific industry like finance or fashion, studying in or near the industry’s hub--such as New York City for finance--can dramatically increase your job prospects.
 
 **2. Invest in Your Education**
 
 I invested heavily in my education, with my wife and I collectively spending \$160,000 on student loans for our degrees. After interest, the total was closer to \$200,000. This investment was crucial for landing good jobs.
 
-**Tip:** Research and choose the right educational path for your career goals. A master’s degree or specialized training might be necessary, and the financial investment can be substantial, but it’s often worth it. 
+**Tip:** Research and choose the right educational path for your career goals. A master’s degree or specialized training might be necessary, and the financial investment can be substantial, but it’s often worth it.
 
 **3. Location Matters**
 
@@ -195,9 +195,9 @@ I moved several times for work--from Washington to Michigan, then to Dallas, and
 
 **4. Specialize and Excel**
 
-As Adam Smith’s *The Wealth of Nations* suggests, specialization can significantly increase your earning potential. Being a specialist in your field often pays more than being a generalist.
+As Adam Smith’s _The Wealth of Nations_ suggests, specialization can significantly increase your earning potential. Being a specialist in your field often pays more than being a generalist.
 
-**Tip:** Focus on becoming highly skilled in a specific area. While specialization can come with risks if the market shifts, it generally offers higher rewards. 
+**Tip:** Focus on becoming highly skilled in a specific area. While specialization can come with risks if the market shifts, it generally offers higher rewards.
 
 **5. Focus on Adding Value**
 

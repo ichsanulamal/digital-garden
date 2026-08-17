@@ -7,6 +7,7 @@ tags:
   - figure
   - twitter
 ---
+
 @yacineMTB x account
 
 i like most of his tweets, high quality shitpost. coint term [[Internet Condom]]

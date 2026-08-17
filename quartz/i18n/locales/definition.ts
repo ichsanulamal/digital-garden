@@ -17,6 +17,7 @@ export interface CalloutTranslation {
 }
 
 export interface Translation {
+  direction?: "ltr" | "rtl"
   propertyDefaults: {
     title: string
     description: string

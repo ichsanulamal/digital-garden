@@ -7,4 +7,3 @@ tags: ["ethics", "management"]
 [Read the document](https://drive.google.com/open?id=1ec_rcCYEw2s1RShs3UvJmMtuAhIItfsw)
 
 [[Principles of Management]]
-

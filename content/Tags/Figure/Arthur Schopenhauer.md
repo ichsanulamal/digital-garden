@@ -2,9 +2,9 @@
 title: "Arthur Schopenhauer"
 date: 2001-01-01
 tags:
-- classic-thinker
-- figure
-- philosophy
+  - classic-thinker
+  - figure
+  - philosophy
 ---
-# Arthur Schopenhauer
 
+# Arthur Schopenhauer

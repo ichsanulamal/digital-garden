@@ -15,7 +15,6 @@ tinggal pasang ke IDE/extension favorit: copilot / cursor / roo code / cline / k
 
 terminal: claude code / gemini cli / codex
 
-
 ## cara beli token openrouter biar ga bayar pajak indo
 
 sbnrnya masih bayar pajak sih kalo duitnya kebanyakan dari idr
@@ -32,7 +31,6 @@ beli token dollar, USDC ke exchange favorit: tokocrypto/pintu/indodax/dll
 
 transfer ke defi/crypto wallet pribadi, lewat jaringan base chain.
 
-tinggal buy pake wallet deh 
-
+tinggal buy pake wallet deh
 
 ![[the-best-way-to-try-vibe-coding-with-openrouter-4.png]]

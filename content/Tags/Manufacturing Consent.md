@@ -5,4 +5,3 @@ tags: []
 ---
 
 # Manufacturing Consent
-

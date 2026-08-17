@@ -99,7 +99,7 @@ Terwujudnya sebuah aplikasi yang dapat diakses oleh semua orang untuk mendorong 
 
 - Ketakutan masyarakat terhadap perkembangan teknologi, khususnya kekhawatiran digantikan oleh kecerdasan buatan (AI) dan manusia punah. Solusinya mungkin hanya dengan hidup santai, menunggu wafat, dan mengabaikan segala tindakan.
 
-- Sistem yang disalahgunakan, terutama oleh pemegang kekuasaan dalam membuat kebijakan. Protes dari individu atau kelompok dapat diabaikan, dan credit orang yang memprotes dapat dicurangi tanpa [[Data]] yang valid atau bahkan [[Data]] yang dimanipulasi. Ketidakadilan ini dapat menciptakan situasi yang lebih buruk daripada yang dijelaskan dalam buku *1984*.
+- Sistem yang disalahgunakan, terutama oleh pemegang kekuasaan dalam membuat kebijakan. Protes dari individu atau kelompok dapat diabaikan, dan credit orang yang memprotes dapat dicurangi tanpa [[Data]] yang valid atau bahkan [[Data]] yang dimanipulasi. Ketidakadilan ini dapat menciptakan situasi yang lebih buruk daripada yang dijelaskan dalam buku _1984_.
 
 ### Usulan Tindakan yang Perlu Dilakukan
 
@@ -153,31 +153,31 @@ Dengan adanya transparansi melalui aplikasi ini, saya berharap dapat mengurangi 
 
 - **Bahagia Bukan Tujuan Utama**
 
-   Bahagia seharusnya dipandang bukan sebagai tujuan utama, tetapi sebagai konsekuensi dari kehidupan yang seimbang dan bertanggung jawab. Menyederhanakan kebahagiaan menjadi kegilaan dan ketidaktahuan (*ignorance*) tidaklah bijaksana. Adanya masalah global seperti pemanasan global menunjukkan bahwa kebahagiaan perlu diimbangi dengan kesadaran akan dampak perilaku kita terhadap lingkungan.
+  Bahagia seharusnya dipandang bukan sebagai tujuan utama, tetapi sebagai konsekuensi dari kehidupan yang seimbang dan bertanggung jawab. Menyederhanakan kebahagiaan menjadi kegilaan dan ketidaktahuan (_ignorance_) tidaklah bijaksana. Adanya masalah global seperti pemanasan global menunjukkan bahwa kebahagiaan perlu diimbangi dengan kesadaran akan dampak perilaku kita terhadap lingkungan.
 
-   > "Bahagia penting, tetapi bukanlah tujuan utama. Kesadaran akan tanggung jawab terhadap masalah seperti pemanasan global menunjukkan bahwa kebahagiaan perlu diintegrasikan dengan pemikiran yang bertanggung jawab terhadap lingkungan."
+  > "Bahagia penting, tetapi bukanlah tujuan utama. Kesadaran akan tanggung jawab terhadap masalah seperti pemanasan global menunjukkan bahwa kebahagiaan perlu diintegrasikan dengan pemikiran yang bertanggung jawab terhadap lingkungan."
 
 - **Produksi dan Kreativitas Lebih Baik Daripada Konsumsi Berlebihan**
 
-   Fokus pada *produksi* dan *kreasi* lebih diutamakan daripada konsumsi berlebihan. Konsumsi yang tidak terbatas dapat merusak lingkungan dan mengakibatkan kehabisan sumber daya. Mengutamakan produksi berarti berkontribusi positif dengan menciptakan solusi dan produk yang berkelanjutan.
+  Fokus pada _produksi_ dan _kreasi_ lebih diutamakan daripada konsumsi berlebihan. Konsumsi yang tidak terbatas dapat merusak lingkungan dan mengakibatkan kehabisan sumber daya. Mengutamakan produksi berarti berkontribusi positif dengan menciptakan solusi dan produk yang berkelanjutan.
 
-   > "Berfokus pada *produksi* dan *kreativitas* lebih baik daripada terus-menerus *mengkonsumsi*. Konsumsi berlebihan dapat merusak lingkungan dan menghabiskan sumber daya. Kita dapat menciptakan perubahan positif dengan berperan aktif dalam produksi solusi yang berkelanjutan."
+  > "Berfokus pada _produksi_ dan _kreativitas_ lebih baik daripada terus-menerus _mengkonsumsi_. Konsumsi berlebihan dapat merusak lingkungan dan menghabiskan sumber daya. Kita dapat menciptakan perubahan positif dengan berperan aktif dalam produksi solusi yang berkelanjutan."
 
 - **Kesadaran akan Dampak Konsumsi Terhadap Lingkungan**
 
-   Penting untuk memahami dampak konsumsi terhadap lingkungan dan mendorong konsumsi yang bertanggung jawab. Overpopulasi dan eksploitasi sumber daya alam adalah dampak dari pola pikir konsumtif yang tidak terkendali. Kesadaran ini harus diintegrasikan dalam pola pikir masyarakat agar dapat mengatasi masalah yang dihadapi dunia saat ini.
+  Penting untuk memahami dampak konsumsi terhadap lingkungan dan mendorong konsumsi yang bertanggung jawab. Overpopulasi dan eksploitasi sumber daya alam adalah dampak dari pola pikir konsumtif yang tidak terkendali. Kesadaran ini harus diintegrasikan dalam pola pikir masyarakat agar dapat mengatasi masalah yang dihadapi dunia saat ini.
 
-   > "Menyadari dampak konsumsi terhadap lingkungan adalah langkah penting. Overpopulasi dan eksploitasi sumber daya alam dapat diatasi dengan mengadopsi pola pikir konsumtif yang lebih bertanggung jawab dan berkelanjutan."
+  > "Menyadari dampak konsumsi terhadap lingkungan adalah langkah penting. Overpopulasi dan eksploitasi sumber daya alam dapat diatasi dengan mengadopsi pola pikir konsumtif yang lebih bertanggung jawab dan berkelanjutan."
 
 - **Peran Individu dalam Menyelesaikan Masalah**
 
-   Setiap individu memiliki peran dalam menyelesaikan masalah global. Peningkatan kesadaran dan tanggung jawab individu dapat membantu mengatasi tantangan seperti pemanasan global. Kombinasi dari tindakan individu dapat memiliki dampak positif yang signifikan.
+  Setiap individu memiliki peran dalam menyelesaikan masalah global. Peningkatan kesadaran dan tanggung jawab individu dapat membantu mengatasi tantangan seperti pemanasan global. Kombinasi dari tindakan individu dapat memiliki dampak positif yang signifikan.
 
-   > "Setiap individu memiliki peran dalam menyelesaikan masalah global. Kesadaran dan tanggung jawab individu dapat membantu mengatasi tantangan seperti pemanasan global, membentuk kontribusi positif yang bersama-sama memiliki dampak yang signifikan."
+  > "Setiap individu memiliki peran dalam menyelesaikan masalah global. Kesadaran dan tanggung jawab individu dapat membantu mengatasi tantangan seperti pemanasan global, membentuk kontribusi positif yang bersama-sama memiliki dampak yang signifikan."
 
 - **Arsitektur dan Inovasi yang Mencerahkan**
 
-  *Architecting* dan menciptakan inovasi bukan hanya kegiatan yang menyenangkan, tetapi juga memiliki dampak positif yang signifikan. Sebagai contoh, seorang arsitek tidak hanya menikmati merancang sesuatu tetapi juga dapat meningkatkan pola pikir keseluruhan masyarakat agar tidak hanya menjadi konsumen. Misalnya, dari penikmat game menjadi pembuat game, dari yang dididik menjadi perancang pendidikan, dari penikmat teknologi menjadi perancang teknologi, dan dari penikmat sistem menjadi pembuat sistem.
+  _Architecting_ dan menciptakan inovasi bukan hanya kegiatan yang menyenangkan, tetapi juga memiliki dampak positif yang signifikan. Sebagai contoh, seorang arsitek tidak hanya menikmati merancang sesuatu tetapi juga dapat meningkatkan pola pikir keseluruhan masyarakat agar tidak hanya menjadi konsumen. Misalnya, dari penikmat game menjadi pembuat game, dari yang dididik menjadi perancang pendidikan, dari penikmat teknologi menjadi perancang teknologi, dan dari penikmat sistem menjadi pembuat sistem.
 
   > "Menjadi arsitek atau perancang tidak hanya menghadirkan kesenangan pribadi tetapi juga merupakan kesempatan untuk membentuk pola pikir masyarakat agar lebih aktif berkontribusi daripada hanya menjadi konsumen."
 
@@ -243,7 +243,7 @@ Contohnya, jika ada yang ingin memperjuangkan ideologi komunis atau khilafah, me
 
 Jika pada akhirnya tidak ada kesimpulan dari kedua pihak, biarkan begitu adanya. Perbedaan ide atau pendapat harus dihadapi dengan adu argumen berdasarkan fakta dan dalil ilmiah.
 
-Tantangan muncul saat perbedaan ini berujung pada pelecehan atau kekerasan fisik. Inilah saat aplikasi *social credit* dapat berperan, memungkinkan masyarakat mengetahui siapa yang terlibat dalam tindakan kekerasan. Dari sini, riwayat hidup, golongan, dan pelaku kekerasan dapat dilihat melalui *[[Social Credit System]]* untuk mengurangi fasilitas hidup mereka.
+Tantangan muncul saat perbedaan ini berujung pada pelecehan atau kekerasan fisik. Inilah saat aplikasi _social credit_ dapat berperan, memungkinkan masyarakat mengetahui siapa yang terlibat dalam tindakan kekerasan. Dari sini, riwayat hidup, golongan, dan pelaku kekerasan dapat dilihat melalui _[[Social Credit System]]_ untuk mengurangi fasilitas hidup mereka.
 
 Hal ini bertujuan untuk mengurangi bias dan ketidakobjektifan. Orang yang mengaku netral perlu dinilai ulang agar meminimalkan bias, dan sistem harus dapat mengkategorikan tingkah laku manusia menjadi spektrum. Dengan adanya sistem ini, masyarakat dapat mengetahui latar belakang calon pemimpin atau wakil rakyat, termasuk pergantian partai atau ideologi, sikap oportunis, atau kurangnya pendirian. Diharapkan sistem ini dapat memberikan pemahaman menyeluruh terkait apa yang terjadi.
 
@@ -251,7 +251,7 @@ Jika fakta dan [[Data]] tidak relevan dengan topik, atau tidak ada persamaan yan
 
 "Lii amali walakum amalkum. Untukmu perbuatanmu, Untukku perbuatanku."
 
-Namun, jika ada bentuk kekerasan, -100 social credit, dan masuk ke *low priority* seperti di dalam permainan Dota. Untuk memulihkan kredit skornya atau mendapatkan kembali fasilitas umum, mereka harus melibatkan diri dalam kegiatan kerja rodi secara acak agar tidak lagi berada dalam *low priority*, dan ini bertujuan untuk menanamkan kesadaran akan konsekuensi tindakan bodoh.
+Namun, jika ada bentuk kekerasan, -100 social credit, dan masuk ke _low priority_ seperti di dalam permainan Dota. Untuk memulihkan kredit skornya atau mendapatkan kembali fasilitas umum, mereka harus melibatkan diri dalam kegiatan kerja rodi secara acak agar tidak lagi berada dalam _low priority_, dan ini bertujuan untuk menanamkan kesadaran akan konsekuensi tindakan bodoh.
 
 #### Reward and Punishment
 
@@ -302,19 +302,19 @@ Reward digunakan sebagai stimulus atau dorongan agar semua pihak aktif berkontri
    iii. Rekam infak, sedekah, zakat, [[Idul Fitri]], [[Idul Adha]], dan wakaf
 
 10. **Jadwal dan Daftar Penceramah:**
-   i. Informasi penceramah, termasuk latar belakang dan identitas
-   ii. Jadwal ceramah dan materi yang akan disampaikan, disesuaikan dengan kondisi masyarakat
+    i. Informasi penceramah, termasuk latar belakang dan identitas
+    ii. Jadwal ceramah dan materi yang akan disampaikan, disesuaikan dengan kondisi masyarakat
 
 11. **Jadwal dan Daftar Kegiatan Masyarakat:**
-   i. Jadwal mingguan untuk kajian, ibadah, dan kegiatan lainnya
-   ii. Detail kegiatan, timeline, dan jenis kegiatan yang tersedia
+    i. Jadwal mingguan untuk kajian, ibadah, dan kegiatan lainnya
+    ii. Detail kegiatan, timeline, dan jenis kegiatan yang tersedia
 
 12. **Peringkat Masjid di Daerah:**
-   i. Informasi tentang semua masjid di Indonesia
-   ii. Peringkat berdasarkan pembobotan kegiatan yang memajukan daerah, menggunakan ilmu statistika, dan sejenisnya
-   iii. Ringkasan keuangan dari semua masjid
-   iv. Kontak pihak manajemen masjid
-   v. Peta persebaran masjid di suatu daerah
+    i. Informasi tentang semua masjid di Indonesia
+    ii. Peringkat berdasarkan pembobotan kegiatan yang memajukan daerah, menggunakan ilmu statistika, dan sejenisnya
+    iii. Ringkasan keuangan dari semua masjid
+    iv. Kontak pihak manajemen masjid
+    v. Peta persebaran masjid di suatu daerah
 
 13. **Tutorial Aplikasi, FAQ, dan Pengaturan Aplikasi:**
 
@@ -324,7 +324,7 @@ Reward digunakan sebagai stimulus atau dorongan agar semua pihak aktif berkontri
 
 ### Kendala dalam Menulis dan Berpikir
 
-- Sebenarnya, masih banyak aspek yang perlu diteliti, mulai dari pembobotan ranking *social credit* di tingkat masjid atau individu, hingga prosedur operasional standar (SOP) untuk meminta anggaran dari individu atau pengajar yang membutuhkan dana untuk proses pembelajarannya di organisasi masyarakat, atau dari organisasi masyarakat yang meminta anggaran dari pemerintah untuk melaksanakan kegiatannya.
+- Sebenarnya, masih banyak aspek yang perlu diteliti, mulai dari pembobotan ranking _social credit_ di tingkat masjid atau individu, hingga prosedur operasional standar (SOP) untuk meminta anggaran dari individu atau pengajar yang membutuhkan dana untuk proses pembelajarannya di organisasi masyarakat, atau dari organisasi masyarakat yang meminta anggaran dari pemerintah untuk melaksanakan kegiatannya.
 
 - Dalam konteks pembobotan secara abstrak, saya memikirkan elemen-elemen seperti nama dan jenis kegiatan, bobot kegiatan (apakah itu pembelajaran atau perkumpulan dengan tujuan tertentu, apakah dari kegiatan itu bisa muncul produk yang bermanfaat, apakah ada skill anggota yang bisa dikembangkan dari kegiatan tersebut, dan masih banyak aspek lain yang dapat dibobotkan), durasi, jumlah peserta dan pendidik, produk atau jasa yang dihasilkan, serta dokumentasi dan laporan pertanggungjawaban.
 

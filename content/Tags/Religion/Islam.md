@@ -2,8 +2,9 @@
 title: "[[Islam]]"
 date: 2001-01-01
 tags:
-- religion
+  - religion
 ---
+
 # [[Islam]]
 
 #muslim
@@ -14,10 +15,8 @@ tags:
 
 [[Solat]]
 
-
 [[Idul Fitri]]
 
 [[Idul Adha]]
 
 [[Ramadhan]]
-

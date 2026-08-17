@@ -1,6 +1,6 @@
 ---
 title: "Mini Soccer"
 tags:
-- sport
+  - sport
 date: 2026-05-19
 ---

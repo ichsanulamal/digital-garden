@@ -1,21 +1,21 @@
 ---
-date: '2021-02-03T07:52:33Z'
+date: "2021-02-03T07:52:33Z"
 tags:
-- review
-- film
-- business
-- essay
+  - review
+  - film
+  - business
+  - essay
 title: How Can You Not Be Romantic About Baseball?
 publish_external: true
 ---
+
 ![[rs-150108-rectangle.jpg]]
 
 <figure class="wp-block-embed aligncenter is-type-rich is-provider-embed wp-block-embed-embed">
 	<div class="wp-block-embed__wrapper">
 	</div>
 <figcaption>Moneyball (2011)</figcaption>
-</figure> 
-
+</figure>
 
 At first, you're afraid. You try a little bit and you get something that keeps you trying. Maybe at first you fail, then you have no idea why you didn't fail, and after didn't fail at such a big amount of games, you just ask, what's the point? 
 
@@ -29,9 +29,7 @@ Not to enjoy, but romanticizing, what's the difference? One results in fun, and 
   </p>
 </blockquote>
 
-
-
-"Don't play games too much, it will destroy you." 
+"Don't play games too much, it will destroy you."
 
 "Go out of your job, be free!"
 
@@ -40,8 +38,6 @@ Not to enjoy, but romanticizing, what's the difference? One results in fun, and 
 "Don't think too hard, it will stress you!"
 
 "Don't think small because you will not see anything"
-
-
 
 You're gonna lose it all. Everything.
 
@@ -54,8 +50,6 @@ You may see some kind of conjecture and prove. But can we see it as a proven or 
 An subjective experienced management would not approve new rational methodological processes because he knew it would not work. It is just an intuition but it could lead to something temporary proof.
 
 A high risk manager takes a new perspective and does science based with every statistical and mathematical method to process something. He ignores an experienced subject who spent a long time in that field and acts mostly by feeling because he believes that his method is gonna work and it could lead to something temporary proof.
-
-
 
 In the Moneyball, fortunately, the science based is win. Does it prove that science always wins? Does rationality always win? I don't think so.
 

@@ -1,20 +1,19 @@
 ---
-title: 'What If?: Serious Scientific Answers to Absurd Hypothetical Questions'
+title: "What If?: Serious Scientific Answers to Absurd Hypothetical Questions"
 author: Randall Munroe
-date: '2022-07-25'
+date: "2022-07-25"
 tags:
-- book
+  - book
 ---
-
 
 # What If?: Serious Scientific Answers to Absurd Hypothetical Questions
 
 **Author:** Randall Munroe  
 **My Rating:** 0  
-**Date Read:**   
+**Date Read:**  
 **Bookshelves:** to-read
 
-**Additional Authors:**   
+**Additional Authors:**  
 **ISBN:** 0544272994  
 **ISBN13:** 9780544272996  
 **Publisher:** Dey Street Books  
@@ -22,7 +21,7 @@ tags:
 **Number of Pages:** 303  
 **Year Published:** 2014  
 **Original Publication Year:** 2014  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2022-07-25 00:00:00  
 **My Rating:** 0  
 **Average Rating:** 4.14  
@@ -31,7 +30,4 @@ tags:
 **Read Count:** 0  
 **Owned Copies:** 0
 
-
 ## Review
-
-

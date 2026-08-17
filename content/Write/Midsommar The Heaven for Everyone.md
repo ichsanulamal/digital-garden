@@ -1,9 +1,9 @@
 ---
-date: '2021-01-16T17:06:52Z'
+date: "2021-01-16T17:06:52Z"
 tags:
-- film
-- review
-- essay
+  - film
+  - review
+  - essay
 title: Midsommar, The Heaven for Everyone
 publish_external: true
 ---
@@ -14,11 +14,11 @@ All environmentalist or Marxist or someone who strive for Utopia should follow t
 
 There must be the will to neglect to be successful in something, ignore the mediocre. Challenging the status quo means to ignore the feeling which could come from everyone or everything. Or is this not neglect but a form of caring? Because of that, Ethics is the least important material studied in business.
 
-Developing philanthropic businesses and green companies continues to be encouraged by every business curriculum even though this is foolishness. With will to power, every human being does not need to be taught this because when the will to power comes into contact with these things, everyone will realize that his will to power is completely foolish. 
+Developing philanthropic businesses and green companies continues to be encouraged by every business curriculum even though this is foolishness. With will to power, every human being does not need to be taught this because when the will to power comes into contact with these things, everyone will realize that his will to power is completely foolish.
 
 In every way of the will to power, there must be some souls to be satisfied. This is the simple logic but still I don't know why the business curriculum should teach about the business responsibility.
 
-The premise is, 
+The premise is,
 
 "**The peace and happiness are the part of will to power**"
 
@@ -27,8 +27,6 @@ I mention these 2 things because they are somewhat perceived as "superiority".
 A person's peace will be disturbed when expectations differ from reality. (To hell with the definition of reality)
 
 When peace is disturbed, people will try to fight back to achieve the will to power.
-
-
 
 Environmentalists believe the environment is everything so when they see any circumstances where the environment is harmed, they fight for the environment. Then the environment became their god.
 

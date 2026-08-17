@@ -6,70 +6,68 @@ tags:
 title: Tugas Puisi Kelas 10
 publish_external: true
 ---
-  
-Dibuang sayang  
-  
-Tugas B. Indonesia  
-  
-- Tema 1 : Persahabatan, Percintaan, dsb.  
-- Tema 2 : Bebas  
-  
-1.  
-Kejancukan Teman  
-Untukmu rekan seperjuangan  
-Yang punya banyak hutang  
-Nan tak kunjung dibayar  
-  
+
+Dibuang sayang
+
+Tugas B. Indonesia
+
+- Tema 1 : Persahabatan, Percintaan, dsb.
+- Tema 2 : Bebas
+
+1.  Kejancukan Teman  
+    Untukmu rekan seperjuangan  
+    Yang punya banyak hutang  
+    Nan tak kunjung dibayar
+
 Tak punya belas kasihan  
 Untuk wadah uang  
-yang selalu meriang  
-  
+yang selalu meriang
+
 Berebut kecengan  
 Sampai timbul perpecahan  
-Mengakibatkan hutang tak dibayar  
-  
+Mengakibatkan hutang tak dibayar
+
 Ku rela..  
 Dompetku tak bernyawa  
 Waktuku terbuang manja  
 Asal persahabatan kita tak reda  
-Asal kau mentraktirku ke sana  
-  
+Asal kau mentraktirku ke sana
+
 Ku bahagia..  
 Saat kita tertawa bersama  
 Tak kenal masalah jagat raya  
 Walau keadaan tak selalu sama  
-Di dunia yang hanya sementara  
-  
-  
-2.  
-  
+Di dunia yang hanya sementara
+
+2.
+
 Penjahat Mental  
 Indonesia dilanda kecacatan  
 Cacat akal yang memicu peperangan  
 Perang melawan darah sendiri  
-Di negeri sendiri  
-  
+Di negeri sendiri
+
 Provokasi terus terjadi  
 Oleh hewan berakal tak tahu diri  
 memecah belah negeri  
-Demi keuntungan pribadi  
-  
+Demi keuntungan pribadi
+
 Kerennya negeriku  
 Pikirannya seperti batu  
 Namun emosinya seperti peluru  
-Meluap ke segala penjuru  
-  
+Meluap ke segala penjuru
+
 Lambangnya dicaci  
 Dibalas dengan cacian  
 Tuhannya dimaki  
-Dibalas dengan makian  
-  
+Dibalas dengan makian
+
 Merasa paling suci  
 Tak sadar selalu membawa kotoran  
 Merasa paling mulia  
-Tak sadar ia hewan berakal hina  
-  
+Tak sadar ia hewan berakal hina
+
 Sifat manusiawi dinodai  
 Perdebatan dijunjung tinggi  
 Persatuan hanyalah ilusi  
-Persetan revolusi  
+Persetan revolusi

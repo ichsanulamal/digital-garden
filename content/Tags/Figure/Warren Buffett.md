@@ -2,8 +2,8 @@
 title: "Warren Buffett"
 date: 2001-01-01
 tags:
-- economics
-- figure
+  - economics
+  - figure
 ---
-# Warren Buffett
 
+# Warren Buffett

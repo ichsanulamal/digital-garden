@@ -6,5 +6,5 @@ tags:
 publish_external: true
 al: OSINT
 ---
-# Open Source Intelligence
 
+# Open Source Intelligence

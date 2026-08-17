@@ -3,7 +3,7 @@ date: 2025-07-13T22:04:01+07:00
 title: Naval Ravikant - Intellectual Curiosity & 3 STEP LIFE FRAMEWORK
 tags:
   - youtube
-aliases: 
+aliases:
 source:
 ---
 
@@ -26,7 +26,7 @@ source:
    - Intellectual curiosity fuels deeper understanding and expertise, leading to long-term success.
 
 5. **Leverage in Work**:
-   - **Leverage**: Use resources effectively to maximize impact (e.g., technology, capital). 
+   - **Leverage**: Use resources effectively to maximize impact (e.g., technology, capital).
    - Successful individuals often create systems where their efforts compound while they sleep, relying on scalable solutions.
 
 6. **Accountability**:

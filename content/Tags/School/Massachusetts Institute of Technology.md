@@ -2,9 +2,9 @@
 title: "Massachusetts Institute of Technology"
 date: 2001-01-01
 aliases:
-- MIT
+  - MIT
 tags:
-- school
+  - school
 ---
-# Massachusetts Institute of Technology
 
+# Massachusetts Institute of Technology

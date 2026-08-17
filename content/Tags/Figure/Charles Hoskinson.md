@@ -2,8 +2,8 @@
 title: "Charles Hoskinson"
 date: 2001-01-01
 tags:
-- figure
-- technology
+  - figure
+  - technology
 ---
-# Charles Hoskinson
 
+# Charles Hoskinson

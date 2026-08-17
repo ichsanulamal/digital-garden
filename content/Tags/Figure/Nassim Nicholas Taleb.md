@@ -1,11 +1,12 @@
 ---
-date: '2023-01-23T00:00:00Z'
+date: "2023-01-23T00:00:00Z"
 tags:
-- book
-- figure
-- review
+  - book
+  - figure
+  - review
 title: Nassim Nicholas Taleb
 ---
+
 # Nassim Nicholas Taleb
 
 [[Black Swan]]
@@ -32,7 +33,7 @@ alan Greenspan
 
 ### Roadmap
 
-- Me: 
+- Me:
 
 do you know a roadmap to be like nassim taleb?
 
@@ -80,7 +81,6 @@ Learning about the history of ideas, economics, science and mathematics.
 
 Keep in mind that this is not an exhaustive list and you should tailor your studies to your own interests and goals, and also consider taking courses or pursuing degrees in fields that align with your interests. Additionally, it's important to gain practical experience and develop your own ideas, either through internships, research projects, or independent study.
 
-
 **MINI LECTURES IN PROBABILITY**
 
 ## MINI-LESSON 1: Standard Deviation
@@ -91,17 +91,20 @@ We could address a fundamental issue with how statistical concepts are understoo
 
 #### **Standard Deviation: Common Misconceptions**
 
-Let's start by discussing **standard deviation**, a fundamental statistical measure used to quantify the amount of variation or dispersion in a set of data. 
+Let's start by discussing **standard deviation**, a fundamental statistical measure used to quantify the amount of variation or dispersion in a set of data.
 
 **Definition and Calculation**:
 
-1. **Mean Calculation**: 
+1. **Mean Calculation**:
+
    $$
    \bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i
    $$
+
    where $\bar{x}$ is the mean of the data, $x_i$ are the individual observations, and $n$ is the total number of observations.
 
 2. **Variance Calculation**:
+
    $$
    \text{Variance} = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})^2
    $$
@@ -122,13 +125,11 @@ Many people mistakenly believe that standard deviation is simply the average amo
 Consider a dataset where most values are zero except for one value that is very large (e.g., 1,000,000), and the rest are zero:
 
 - **Data**: $\{0, 0, \ldots, 0, 1,000,000\}$ (with 1,000,000 observations, only one being 1,000,000)
-
-  - **Standard Deviation**: 
+  - **Standard Deviation**:
     $$
     \sigma = \sqrt{\frac{1}{n} \left( (1,000,000 - \bar{x})^2 \right)} \approx 1,000
     $$
-  
-  - **Mean Absolute Deviation (MAD)**: 
+  - **Mean Absolute Deviation (MAD)**:
     $$
     \text{MAD} = \frac{1}{n} \sum_{i=1}^{n} |x_i - \bar{x}|
     $$
@@ -141,6 +142,7 @@ The standard deviation can be disproportionately large compared to the mean abso
 **Definition and Calculation**:
 
 1. **Covariance**:
+
    $$
    \text{Cov}(X, Y) = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})
    $$
@@ -184,12 +186,15 @@ Welcome back to our series on statistics and probability, with a special focus o
 #### **Example of a Fat-Tailed Distribution**
 
 Consider a dataset where most values are zero except for one extreme value. For instance:
+
 - **Data**: $\{0, 0, \ldots, 0, 1,000,000\}$ (with 1,000,000 observations, where one value is 1,000,000)
 
 **Average Calculation**:
+
 $$
 \text{Mean} = \frac{1}{1,000,000} \left( \sum_{i=1}^{999,999} 0 + 1,000,000 \right) = \frac{1,000,000}{1,000,000} = 1
 $$
+
 The mean is 1, but most of the data is concentrated in the extreme value.
 
 **Impact**: In real-world scenarios, this is similar to having billions of people with negligible wealth and a few billionaires whose wealth skews the average.
@@ -201,7 +206,6 @@ Let’s compare the normal distribution (Gaussian distribution) with a fat-taile
 - **Normal Distribution**: For a normal distribution, about 68% of observations lie within one standard deviation ($\sigma$) from the mean, and 95% lie within two standard deviations.
 
 - **Fat-Tailed Distribution**: In a fat-tailed distribution, extreme values (beyond one standard deviation) become less frequent, but those that do occur have a significant impact. This means:
-
   - **Within One Sigma**: Fewer observations fall within this range.
   - **Beyond One Sigma**: The probability of observing extreme values is low, but those extreme values have a large impact.
 
@@ -221,9 +225,10 @@ Welcome back to our series on statistics and probability. Today, we'll delve int
 
 #### **What is the Law of Large Numbers?**
 
-The Law of Large Numbers is a foundational principle in probability and statistics. It states that as the number of trials or observations increases, the sample mean (average) will converge to the expected value (the theoretical mean) of the distribution from which the samples are drawn. 
+The Law of Large Numbers is a foundational principle in probability and statistics. It states that as the number of trials or observations increases, the sample mean (average) will converge to the expected value (the theoretical mean) of the distribution from which the samples are drawn.
 
-**Importance**: 
+**Importance**:
+
 - **Scientific Significance**: LLN is essential for statistical analysis and modeling, providing a basis for making predictions and understanding variability.
 - **Philosophical Significance**: It addresses the problem of induction, which deals with the reliability of inferences based on observed data.
 
@@ -282,9 +287,11 @@ While the LLN works well for many distributions, it can be problematic in the pr
 #### **Comparing Distributions**
 
 **Gaussian Distribution**:
+
 - **Standard Deviation Drop**: For a normal distribution, the standard deviation of the sample mean decreases as $\sqrt{n}$, making the sample mean more stable with more observations.
 
 **Pareto Distribution**:
+
 - **Mean Deviation**: In a Pareto distribution, the mean deviation does not decrease at the same rate. You may need an enormous number of observations (e.g., $10^{13}$) to achieve similar stability to that of a Gaussian distribution with fewer observations.
 
 #### **Summary**
@@ -304,10 +311,12 @@ Welcome back! In this lesson, we'll cover the **Central Limit Theorem (CLT)**--a
 The Central Limit Theorem states that when you take the sum (or average) of a large number of independent and identically distributed (i.i.d.) random variables, the distribution of the sum (or average) approaches a normal (Gaussian) distribution, regardless of the shape of the original distribution, provided that the original distribution has a finite variance.
 
 **Formally:**
+
 - **If** $X_1, X_2, \ldots, X_n$ are i.i.d. random variables with mean $\mu$ and variance $\sigma^2$,
 - **Then** the distribution of the sample mean $\bar{X}_n = \frac{1}{n} \sum_{i=1}^{n} X_i$ approaches a normal distribution as $n$ becomes large.
 
 **Mathematically:**
+
 $$
 \bar{X}_n \approx \mathcal{N} \left(\mu, \frac{\sigma^2}{n}\right)
 $$
@@ -327,9 +336,7 @@ where $\mathcal{N}$ denotes the normal distribution.
 Let’s start with the simplest case--a uniform distribution:
 
 - **Uniform Distribution**: All outcomes are equally likely in a given range. For instance, if we have a discrete uniform distribution between 0 and 10, each integer in this range is equally likely.
-
   - **Example**: Suppose we have 10 random variables $X_1, X_2, \ldots, X_{10}$ uniformly distributed between 0 and 10. When we sum these variables:
-
     - **Single Observation**: Flat distribution.
     - **Sum of Two Observations**: Results in a triangular distribution.
     - **Sum of Five Observations**: Approaches a normal distribution more closely.
@@ -341,7 +348,6 @@ Let’s start with the simplest case--a uniform distribution:
 Now consider a binomial distribution, which results from a series of Bernoulli trials (e.g., coin tosses):
 
 - **Bernoulli Trials**: Outcomes are either 0 or 1 (e.g., heads or tails), with a probability $p$ for heads.
-
   - **Example**: If you sum 10 Bernoulli trials, the resulting distribution starts to resemble a normal distribution.
 
   **Visual**: Adding more trials refines the bell curve shape, demonstrating how the binomial distribution approximates a normal distribution as $n$ increases.
@@ -351,9 +357,7 @@ Now consider a binomial distribution, which results from a series of Bernoulli t
 Finally, let’s examine a Pareto distribution--a fat-tailed distribution often used to model wealth distribution:
 
 - **Pareto Distribution**: Characterized by a heavy tail, meaning that extreme values (e.g., very high wealth) are more common.
-
   - **Example**: Summing a large number of Pareto-distributed variables:
-
     - **Single Variable**: Exhibits a heavy-tailed shape.
     - **Sum of Variables**: With a large number of variables, the distribution of the sum eventually approximates a normal distribution, but the convergence is slower compared to distributions with lighter tails.
 
@@ -380,6 +384,7 @@ $$
 $$
 
 Where:
+
 - $\mathbb{E}$ is the expectation operator.
 - $\mu_X$ and $\mu_Y$ are the means of $X$ and $Y$, respectively.
 - $\sigma_X$ and $\sigma_Y$ are the standard deviations of $X$ and $Y$.
@@ -390,7 +395,7 @@ Where:
 A common misconception is that correlation fully captures the dependence between two variables. However, correlation only measures linear dependence. There are cases where two variables are highly dependent, but their correlation is zero. Consider the following example:
 
 - **Example: Non-linear Dependence**
-    - If $Y = X$ for $X \geq 0$ and $Y = -X$ for $X < 0$, the correlation $\rho_{XY} = 0$. However, $X$ and $Y$ are perfectly dependent in a non-linear way.
+  - If $Y = X$ for $X \geq 0$ and $Y = -X$ for $X < 0$, the correlation $\rho_{XY} = 0$. However, $X$ and $Y$ are perfectly dependent in a non-linear way.
 
 This shows that while correlation is useful in simple, linear models, it fails to capture more complex dependencies.
 
@@ -411,7 +416,7 @@ However, this measure becomes less informative as the noise increases or the rel
 Another critical limitation of correlation is its non-additivity. Suppose you have two variables, $X$ and $Y$, with a correlation of 0.5 ($\rho_{XY} = 0.5$). If you break down the correlation within specific quadrants (e.g., when both $X$ and $Y$ are positive), the local correlations can be very different from the global correlation. This subadditivity can lead to misinterpretations.
 
 - **Example: Correlation in Quadrants**
-    - Imagine $X$ and $Y$ are both positive or both negative. The local correlation might be 0.26, but this does not simply add up to the global correlation of 0.5. This non-additivity is a significant limitation when using correlation in more complex scenarios.
+  - Imagine $X$ and $Y$ are both positive or both negative. The local correlation might be 0.26, but this does not simply add up to the global correlation of 0.5. This non-additivity is a significant limitation when using correlation in more complex scenarios.
 
 #### 5. **Visualizing Correlation**
 
@@ -429,13 +434,13 @@ Interestingly, a correlation of 0.5 is closer to 0 than it is to 1, indicating t
 For non-linear relationships, **mutual information** is a more powerful metric. Unlike correlation, mutual information can capture all types of dependencies, both linear and non-linear.
 
 - **Mutual Information Definition**:
-    - Mutual information measures the amount of information obtained about one random variable through another. It's based on the concept of entropy and is calculated as:
+  - Mutual information measures the amount of information obtained about one random variable through another. It's based on the concept of entropy and is calculated as:
 
-    $$
-    I(X; Y) = \sum_{y \in Y} \sum_{x \in X} p(x, y) \log \left(\frac{p(x, y)}{p(x)p(y)}\right)
-    $$
+  $$
+  I(X; Y) = \sum_{y \in Y} \sum_{x \in X} p(x, y) \log \left(\frac{p(x, y)}{p(x)p(y)}\right)
+  $$
 
-    Where $p(x, y)$ is the joint probability distribution of $X$ and $Y$, and $p(x)$, $p(y)$ are the marginal distributions.
+  Where $p(x, y)$ is the joint probability distribution of $X$ and $Y$, and $p(x)$, $p(y)$ are the marginal distributions.
 
 Mutual information is particularly useful in fields like genetics, where complex, non-linear relationships are common.
 
@@ -455,55 +460,66 @@ Correlation is a useful tool, but it has significant limitations, especially out
 This lecture dives into two major points regarding how people are often misled by metrics:
 
 ### 1. **Metrics as Random Variables**
-   - **Metrics Aren't Deterministic**: Metrics like correlation aren't fixed values but random variables that can vary with each sample. This randomness means that what you observe might not represent the true relationship between variables.
-   - **Example with Correlation**: Consider two independent, uncorrelated variables $X$ and $Y$. If you repeatedly sample these and calculate the Pearson correlation, you'll find it varies widely from sample to sample, even though the true correlation is zero. This variability can lead to false confidence in a relationship that doesn't actually exist.
+
+- **Metrics Aren't Deterministic**: Metrics like correlation aren't fixed values but random variables that can vary with each sample. This randomness means that what you observe might not represent the true relationship between variables.
+- **Example with Correlation**: Consider two independent, uncorrelated variables $X$ and $Y$. If you repeatedly sample these and calculate the Pearson correlation, you'll find it varies widely from sample to sample, even though the true correlation is zero. This variability can lead to false confidence in a relationship that doesn't actually exist.
 
 ### 2. **Gaming Metrics**
-   - **Exploiting the Upper Bound**: Researchers might exploit the randomness of metrics by cherry-picking the highest correlation out of many tests. This is especially problematic when dealing with a large number of variables (high dimensionality), where the chance of finding a seemingly significant correlation purely by chance increases.
-   - **Example with Spurious Correlations**: The lecture provides humorous but serious examples, like correlating the number of films Nicolas Cage appeared in with the number of people who drowned in pools. Such spurious correlations arise when researchers, knowingly or unknowingly, pick the highest correlations from a large set of data, mistaking noise for meaningful relationships.
+
+- **Exploiting the Upper Bound**: Researchers might exploit the randomness of metrics by cherry-picking the highest correlation out of many tests. This is especially problematic when dealing with a large number of variables (high dimensionality), where the chance of finding a seemingly significant correlation purely by chance increases.
+- **Example with Spurious Correlations**: The lecture provides humorous but serious examples, like correlating the number of films Nicolas Cage appeared in with the number of people who drowned in pools. Such spurious correlations arise when researchers, knowingly or unknowingly, pick the highest correlations from a large set of data, mistaking noise for meaningful relationships.
 
 ### **Real-World Implications**
-   - **Dimensionality Problem**: As the number of variables $P$ increases, the number of possible correlations grows quadratically (approximately $P^2/2$). This explosion in possible correlations increases the likelihood of finding spurious relationships unless the sample size $N$ is sufficiently large to mitigate this effect.
-   - **Misleading Research**: Fields like psychology or political science, which often rely on observational data, can produce misleading results when they fail to account for the randomness and spuriousness inherent in their metrics. The lecture suggests that many studies in these fields might be based on shaky statistical grounds, leading to "garbage" results.
+
+- **Dimensionality Problem**: As the number of variables $P$ increases, the number of possible correlations grows quadratically (approximately $P^2/2$). This explosion in possible correlations increases the likelihood of finding spurious relationships unless the sample size $N$ is sufficiently large to mitigate this effect.
+- **Misleading Research**: Fields like psychology or political science, which often rely on observational data, can produce misleading results when they fail to account for the randomness and spuriousness inherent in their metrics. The lecture suggests that many studies in these fields might be based on shaky statistical grounds, leading to "garbage" results.
 
 ### **Conclusion**
-   - **Critical Approach to Metrics**: Always be skeptical of metrics, especially correlations, unless you've seen the data or the graph. Remember that correlation does not imply causation, and often, correlation does not even imply true correlation due to the issues of randomness and gaming.
-   - **Consider Dimensionality**: Be aware of the dimensionality problem--having too many variables with insufficient data can lead to an abundance of misleading correlations. Proper statistical techniques are needed to manage this, but even then, skepticism and careful analysis are essential.
+
+- **Critical Approach to Metrics**: Always be skeptical of metrics, especially correlations, unless you've seen the data or the graph. Remember that correlation does not imply causation, and often, correlation does not even imply true correlation due to the issues of randomness and gaming.
+- **Consider Dimensionality**: Be aware of the dimensionality problem--having too many variables with insufficient data can lead to an abundance of misleading correlations. Proper statistical techniques are needed to manage this, but even then, skepticism and careful analysis are essential.
 
 ## MINI-LESSON 7: P-Values and P-Value Hacking
 
 This lecture tackles the concept of the p-value, highlighting its limitations and the potential for misuse in research:
 
 ### **1. The Problem with P-Values**
-   - **P-Value as a Misleading Metric**: The p-value is widely used in statistics to measure the probability of obtaining a result at least as extreme as the one observed, assuming the null hypothesis is true. However, the lecture argues that the p-value is not a solid concept with a strong probabilistic basis, making it a problematic tool.
-   - **Stochastic Nature of P-Values**: P-values are random variables, which means they can vary significantly with different samples, even when the underlying conditions are the same. This variability implies that a single p-value from one experiment may not reliably indicate the true probability of observing the result by chance.
+
+- **P-Value as a Misleading Metric**: The p-value is widely used in statistics to measure the probability of obtaining a result at least as extreme as the one observed, assuming the null hypothesis is true. However, the lecture argues that the p-value is not a solid concept with a strong probabilistic basis, making it a problematic tool.
+- **Stochastic Nature of P-Values**: P-values are random variables, which means they can vary significantly with different samples, even when the underlying conditions are the same. This variability implies that a single p-value from one experiment may not reliably indicate the true probability of observing the result by chance.
 
 ### **2. The Illusion of Determinism**
-   - **Misunderstanding Sample Size**: When calculating a statistic like the mean, researchers often assume that the sample size $n$ accounts for all uncertainties, especially when using metrics like the z-score. However, this isn't true. The scaling by the square root of $n$ doesn't eliminate all the subtleties, and the resulting p-value can still be highly variable.
-   - **False Confidence**: The lecture emphasizes that p-values can create an illusion of certainty. For instance, even if the true p-value is 0.11 (indicating a weak result), running multiple experiments might yield a p-value of 0.01 by chance, leading researchers to falsely believe they have found something significant.
+
+- **Misunderstanding Sample Size**: When calculating a statistic like the mean, researchers often assume that the sample size $n$ accounts for all uncertainties, especially when using metrics like the z-score. However, this isn't true. The scaling by the square root of $n$ doesn't eliminate all the subtleties, and the resulting p-value can still be highly variable.
+- **False Confidence**: The lecture emphasizes that p-values can create an illusion of certainty. For instance, even if the true p-value is 0.11 (indicating a weak result), running multiple experiments might yield a p-value of 0.01 by chance, leading researchers to falsely believe they have found something significant.
 
 ### **3. Gaming P-Values**
-   - **Exploiting the Upper Bound**: Just as with correlations, researchers can game p-values by conducting multiple experiments and selecting the smallest p-value (i.e., the one that appears most significant). This practice leads to inflated claims of significance, as the distribution of the maximum p-value is skewed lower than that of the true p-value.
-   - **Misinterpretation**: A p-value of 0.01, obtained through multiple trials, isn't truly 0.01 in terms of statistical significance--it’s just a product of selective reporting. To avoid this issue, the p-value should be much smaller than the standard threshold (e.g., 0.05) to ensure it hasn’t been gamed.
+
+- **Exploiting the Upper Bound**: Just as with correlations, researchers can game p-values by conducting multiple experiments and selecting the smallest p-value (i.e., the one that appears most significant). This practice leads to inflated claims of significance, as the distribution of the maximum p-value is skewed lower than that of the true p-value.
+- **Misinterpretation**: A p-value of 0.01, obtained through multiple trials, isn't truly 0.01 in terms of statistical significance--it’s just a product of selective reporting. To avoid this issue, the p-value should be much smaller than the standard threshold (e.g., 0.05) to ensure it hasn’t been gamed.
 
 ### **4. Implications for Research**
-   - **Psychology and Small Samples**: The lecture points out that fields like psychology often rely on small sample sizes, making p-values particularly unreliable. The use of p-values in such contexts can give a false sense of precision and significance, leading to flawed conclusions.
-   - **Need for Better Practices**: Researchers should be cautious when using p-values and consider alternative methods or metrics that provide a more reliable measure of significance. The lecture suggests that the problem is especially severe in fields with small sample sizes, where the variability of p-values is more pronounced.
+
+- **Psychology and Small Samples**: The lecture points out that fields like psychology often rely on small sample sizes, making p-values particularly unreliable. The use of p-values in such contexts can give a false sense of precision and significance, leading to flawed conclusions.
+- **Need for Better Practices**: Researchers should be cautious when using p-values and consider alternative methods or metrics that provide a more reliable measure of significance. The lecture suggests that the problem is especially severe in fields with small sample sizes, where the variability of p-values is more pronounced.
 
 ### **Conclusion**
-   - **Skepticism Towards P-Values**: The lecture advises being wary of p-values, especially in studies with small sample sizes or when multiple tests are conducted. The stochastic nature of p-values means they can be easily misinterpreted or manipulated, leading to unreliable research findings.
-   - **Broader Issues in Research**: The discussion ties back to earlier points about the stochastic nature of metrics in general and the risks of "hacking" these metrics to produce seemingly significant results. Researchers need to be aware of these pitfalls and strive for more robust statistical practices.
+
+- **Skepticism Towards P-Values**: The lecture advises being wary of p-values, especially in studies with small sample sizes or when multiple tests are conducted. The stochastic nature of p-values means they can be easily misinterpreted or manipulated, leading to unreliable research findings.
+- **Broader Issues in Research**: The discussion ties back to earlier points about the stochastic nature of metrics in general and the risks of "hacking" these metrics to produce seemingly significant results. Researchers need to be aware of these pitfalls and strive for more robust statistical practices.
 
 ## MINI-LESSON 8: Power Laws
 
 The lecture provides an overview of power laws, the Pareto distribution, and their significance in understanding various statistical distributions. Here's a summary of the key points:
 
 ### **1. Introduction to Power Laws and Pareto Principle**
+
 - **Pareto Principle (80/20 Rule)**: The idea that 80% of effects come from 20% of causes, originally observed by Vilfredo Pareto in land ownership.
 - **Fractality**: The 80/20 distribution can be recursively applied, leading to an even more skewed distribution (e.g., 1% owning 50% of the land).
 
 ### **2. Classes of Distributions**
-- **Gaussian Distribution**: 
+
+- **Gaussian Distribution**:
   - Common in nature due to the Central Limit Theorem.
   - Rapid decline in tail probabilities (e.g., probabilities of exceeding 3, 4, 5 sigmas).
   - The ratio of tail probabilities increases as you move further out in the distribution.
@@ -518,21 +534,23 @@ The lecture provides an overview of power laws, the Pareto distribution, and the
   - No finite variance or mean in extreme cases, yet they are still understandable and usable.
 
 ### **3. Gaussian vs. Power Law Characteristics**
+
 - **Gaussian**:
   - Life expectancy shrinks as age increases (e.g., after 80 years, the expected additional lifespan decreases).
   - Tail probabilities decline rapidly.
-  
 - **Power Law**:
   - Invariance in ratios (e.g., doubling any quantity keeps the ratio constant).
   - The expected value conditional on exceeding a threshold remains a multiple of that threshold.
 
 ### **4. Mathematical Representation of Power Laws**
+
 - **Formula**: The probability of exceeding a value $x$ in a power law is proportional to $x^{-\alpha}$.
   - Log-log plots of these distributions yield a straight line with a slope of $-\alpha$.
   - The lower the $\alpha$, the fatter the tail of the distribution.
   - Special cases: $\alpha = 1$ (no mean), $\alpha = 2$ (no variance).
 
 ### **5. Implications for Statistics and Real-World Applications**
+
 - Traditional statistical measures like mean, variance, and kurtosis lose their significance in power law distributions.
 - These concepts are critical in understanding phenomena such as wealth distribution, market movements, and natural events like earthquakes.
 
@@ -541,24 +559,30 @@ The lecture provides an overview of power laws, the Pareto distribution, and the
 Here’s a summary of the key points:
 
 ### 1. **Wars and Power Laws**
-   - The speaker critiques Steven Pinker's assertion that violence has declined based on a small sample of historical data. He argues that wars follow a power law distribution with a very low alpha (around 0.5), indicating extremely fat tails, which means the probability of very large wars is significant.
-   - The claim that the world is safer because there hasn't been a large war since WWII is criticized for not considering the long inter-arrival times of such wars, which could average around 80 years. Statistically, one would need to wait much longer (potentially three times this period) to make a confident statement about a decline in war.
-   - Historical data on wars is often unreliable due to the inconsistencies in records, where the number of casualties can vary widely depending on the source. The speaker suggests a method to account for this by using a range of possible values (low and high estimates) to create multiple possible histories and test hypotheses.
+
+- The speaker critiques Steven Pinker's assertion that violence has declined based on a small sample of historical data. He argues that wars follow a power law distribution with a very low alpha (around 0.5), indicating extremely fat tails, which means the probability of very large wars is significant.
+- The claim that the world is safer because there hasn't been a large war since WWII is criticized for not considering the long inter-arrival times of such wars, which could average around 80 years. Statistically, one would need to wait much longer (potentially three times this period) to make a confident statement about a decline in war.
+- Historical data on wars is often unreliable due to the inconsistencies in records, where the number of casualties can vary widely depending on the source. The speaker suggests a method to account for this by using a range of possible values (low and high estimates) to create multiple possible histories and test hypotheses.
 
 ### 2. **Pandemics**
-   - Similar to wars, pandemics also follow a power law distribution with a low alpha, making them a significant existential risk. The speaker mentions that by using bootstrapping and other statistical methods, the same conclusion about the dangerous nature of pandemics is reached.
+
+- Similar to wars, pandemics also follow a power law distribution with a low alpha, making them a significant existential risk. The speaker mentions that by using bootstrapping and other statistical methods, the same conclusion about the dangerous nature of pandemics is reached.
 
 ### 3. **Understanding Infinite Mean**
-   - The speaker explains what it means for a distribution to have an "infinite mean." In essence, with power law distributions, especially those with an alpha less than 1, the mean can be very unstable, varying widely depending on the sample, and never converging to a single value.
+
+- The speaker explains what it means for a distribution to have an "infinite mean." In essence, with power law distributions, especially those with an alpha less than 1, the mean can be very unstable, varying widely depending on the sample, and never converging to a single value.
 
 ### 4. **Power Laws and Constraints**
-   - Power laws arise naturally in many systems, but constraints (like physical or biological limits) can prevent them from fully manifesting. For instance, human height doesn’t follow a power law due to biological constraints, whereas something like wealth distribution, with fewer constraints, can follow a power law more closely.
+
+- Power laws arise naturally in many systems, but constraints (like physical or biological limits) can prevent them from fully manifesting. For instance, human height doesn’t follow a power law due to biological constraints, whereas something like wealth distribution, with fewer constraints, can follow a power law more closely.
 
 ### 5. **Preferential Attachment and Social Contagion**
-   - The speaker discusses mechanisms like the Matthew Effect (rich-get-richer phenomenon) and preferential attachment, where initial advantages snowball, leading to power law distributions in things like wealth, popularity, and other social phenomena.
+
+- The speaker discusses mechanisms like the Matthew Effect (rich-get-richer phenomenon) and preferential attachment, where initial advantages snowball, leading to power law distributions in things like wealth, popularity, and other social phenomena.
 
 ### 6. **Entropy and Distribution**
-   - There’s a brief mention of how constraints like energy can lead to different types of distributions, with power laws emerging when such constraints are relaxed.
+
+- There’s a brief mention of how constraints like energy can lead to different types of distributions, with power laws emerging when such constraints are relaxed.
 
 The overall message is that power laws are pervasive in many natural and social phenomena, but one must be careful in interpreting them, especially when dealing with historical data or making predictions about rare, high-impact events like wars and pandemics.
 
@@ -577,6 +601,7 @@ A common way to describe fat-tailed distributions is through **power laws**. The
 $$ P(X > x) \propto x^{-\alpha} $$
 
 Here, $\alpha$ is a crucial parameter:
+
 - The **smaller** the $\alpha$, the **fatter** the tail.
 - The fatter the tail, the more significant the contribution of rare events.
 
@@ -587,6 +612,7 @@ The **survival function** (also known as the **tail distribution function**) tel
 $$ S(x) = \left(\frac{K}{x}\right)^\alpha $$
 
 Where:
+
 - $K$ is the threshold value.
 - $x$ is the value above the threshold.
 - $\alpha$ is the power law exponent.
@@ -604,16 +630,19 @@ $$ K(p) = \left(\frac{1}{p}\right)^{1/\alpha} $$
 A well-known principle, the **80/20 rule** (Pareto Principle), states that 20% of the causes lead to 80% of the effects. We can model this with a power law distribution.
 
 For example:
+
 - If $\alpha = 1.5$, then approximately 20% of the population holds 80% of the wealth.
 - Similarly, a much smaller fraction, say 0.1%, could hold a significantly larger portion of the wealth.
 
 Using the survival function and its inverse, we can compute specific values. For instance, let's compute for $\alpha = 1.5$:
+
 - $P(X > x)$ where $x = 1\%$ of the population.
 - If $\alpha = 1.5$, 1% of the population might control about 55% of the wealth.
 
 ### 6. **Financial Markets Example**
 
 In financial markets, fat tails are particularly important. Consider an options portfolio:
+
 - **1% of trading days** might contribute to **95% of the portfolio's profit/loss (P&L)**.
 - Even **0.1% of the days** could account for **90%** of the P&L.
 
@@ -643,10 +672,11 @@ These concepts are critical in fields such as finance, economics, and risk manag
 **Evidence-based science** relies on empirical data and rigorous testing to draw conclusions. The idea is to avoid biases and ensure that the treatments or interventions being used are genuinely effective. It’s about using data from well-designed studies to guide decision-making.
 
 #### Example: Randomized Control Trials (RCTs)
+
 - **RCTs** are the gold standard in evidence-based medicine. They involve randomly assigning participants into two groups:
   - **Group A**: Receives the treatment (e.g., hydroxychloroquine for COVID-19).
   - **Group B**: Receives a placebo or standard treatment.
-  
+
   The outcomes are then compared statistically to determine if the treatment is effective.
 
 ### 2. **The Law of Large Numbers and Its Misinterpretations**
@@ -654,10 +684,12 @@ These concepts are critical in fields such as finance, economics, and risk manag
 The **Law of Large Numbers** states that as the number of observations (n) increases, the average of the observed values (mean) converges to the expected value. However, this principle is often misunderstood or misapplied.
 
 #### A. **Understanding the Flow of Information**
+
 - Information about the **average (Aₙ)** does not necessarily apply to each individual observation (**X₁, X₂, ..., Xₙ**).
 - For example, the "average human" might have one breast and one testicle, but this doesn’t reflect the reality of any individual person.
 
 #### B. **Implications in Medicine and Risk Management**
+
 - **Clinical Knowledge (n=1)**: Focuses on individual cases.
 - **Statistical Knowledge (n=100)**: Focuses on group data and averages.
 - **Risk Management (n=very large)**: Deals with tail risks, where rare but extreme events dominate.
@@ -667,6 +699,7 @@ The **Law of Large Numbers** states that as the number of observations (n) incre
 **Pseudo-empiricism** occurs when observations that are not statistically significant are used to make broad generalizations. This is a critical mistake in both scientific and public discourse.
 
 #### Example: Misinterpreting COVID-19 Data
+
 - Consider the claim that hydroxychloroquine (HCQ) is effective because one hospital reports a lower death rate. This doesn’t account for differences in population demographics, such as age, between hospitals. Without randomization, these observations are not scientifically valid.
 
 ### 4. **The Misuse of Averages and Group Characteristics**
@@ -674,9 +707,11 @@ The **Law of Large Numbers** states that as the number of observations (n) incre
 A common mistake is to apply group averages to individuals, which leads to incorrect conclusions.
 
 #### A. **Racism and Stereotyping**
+
 - Applying the average characteristics of a group (e.g., a nationality’s supposed weakness in math) to an individual from that group is flawed reasoning.
 
 #### B. **Risk Analysis in Pandemics**
+
 - The risk of dying from COVID-19 cannot be directly compared to the risk of dying in a car accident because the dynamics of the two risks are different.
   - **Car Accident**: The risk is individual and stable.
   - **COVID-19**: The risk is collective and can increase exponentially with the spread.
@@ -684,15 +719,18 @@ A common mistake is to apply group averages to individuals, which leads to incor
 ### 5. **Understanding Extremistan vs. Mediocristan**
 
 In risk management, it's crucial to distinguish between different types of randomness:
+
 - **Mediocristan**: Events with low variability, where averages are meaningful.
 - **Extremistan**: Events with high variability, where extreme events (tail risks) dominate outcomes.
 
 #### A. **Pandemics as Extremistan Events**
+
 - Deaths from pandemics follow a **fat-tailed distribution**, meaning a small number of events (e.g., a super-spreader event) can have a massive impact.
 
 ### 6. **Conclusion: The Dangers of Generalizing and Particularizing**
 
 The key takeaway is to avoid the following errors:
+
 1. **Generalizing from Small Samples**: Drawing broad conclusions from a limited number of observations.
 2. **Particularizing from General Averages**: Applying the characteristics of a group average to individual cases.
 
@@ -719,7 +757,6 @@ A recent example of Simpson's Paradox being misused is in arguments against vacc
 But let’s break it down:
 
 - **Age Distribution**: The age group 10 to 59 is broad. Older individuals (e.g., 50-59) naturally have a higher mortality rate than younger individuals (e.g., 10-20). If most older people are vaccinated and most younger people are unvaccinated, this can skew the overall mortality statistics.
-  
 - **Group Segmentation**: If you segment the data by smaller age brackets (e.g., 10-20, 20-30, etc.), you might find that within each bracket, vaccinated individuals have a lower mortality rate than unvaccinated ones.
 
 - **Simpson's Paradox in Action**: The paradox appears because the overall data combines different age groups with different vaccination and mortality rates. The over-representation of older, vaccinated individuals (who naturally have a higher mortality rate) in the overall analysis can make it seem like vaccination increases mortality, which is misleading.
@@ -730,11 +767,10 @@ To illustrate, let's break this down with some simple math.
 
 Suppose:
 
-- **Age Group 50-59**: 
+- **Age Group 50-59**:
   - Vaccinated: 20,000 people with 200 deaths (1% mortality).
   - Unvaccinated: 1,000 people with 30 deaths (3% mortality).
-  
-- **Age Group 10-20**: 
+- **Age Group 10-20**:
   - Vaccinated: 1,000 people with 1 death (0.1% mortality).
   - Unvaccinated: 10,000 people with 2 deaths (0.02% mortality).
 
@@ -744,6 +780,7 @@ If you combine these groups without considering the age factor, you might get a 
 - **Total Unvaccinated**: 11,000 people with 32 deaths.
 
 **Mortality Rate**:
+
 - Vaccinated: $\frac{201}{21,000} \approx 0.96\%$
 - Unvaccinated: $\frac{32}{11,000} \approx 0.29\%$
 
@@ -812,6 +849,7 @@ Let's break down the concept of maximum drawdown and why logarithms are used in 
 **Maximum Drawdown (MDD)** is a measure of the largest decline from a peak to a trough in the value of an investment over a specific period. It helps assess the riskiness of the investment by showing the worst-case scenario in terms of loss.
 
 #### Steps to Calculate Maximum Drawdown:
+
 1. **Identify Peaks and Troughs:**
    - Track the value of an investment over time.
    - Note every peak (local maximum) and the lowest subsequent point (trough).
@@ -878,44 +916,51 @@ Using these concepts, you can better understand and compare the riskiness of dif
 Let's break down the key points from your discussion about vaccines and the risk assessment around them, using a more structured approach to make it easier to understand.
 
 ### 1. **Understanding the Risk of Vaccines**
-   - **Purpose of Vaccines:** Vaccines are not taken for entertainment or mood enhancement; they are a preventive measure against serious diseases like COVID-19, which is lethal.
-   - **Initial Skepticism:** Initially, there might be skepticism about vaccines due to uncertainties, but over time, the effectiveness in preventing infections and saving lives becomes clearer.
+
+- **Purpose of Vaccines:** Vaccines are not taken for entertainment or mood enhancement; they are a preventive measure against serious diseases like COVID-19, which is lethal.
+- **Initial Skepticism:** Initially, there might be skepticism about vaccines due to uncertainties, but over time, the effectiveness in preventing infections and saving lives becomes clearer.
 
 ### 2. **Time vs. Sample Size in Risk Assessment**
-   - **Traditional View of Risk Over Time:** 
-     - People often think that if a disease takes 12 or 20 years to develop (e.g., cancer from exposure to radiation in Hiroshima), the risk is only relevant after that time.
-   - **Large Sample Size Consideration:** 
-     - When you have a large population (like 8 billion people), the distribution of events (e.g., adverse effects from vaccines) spreads out, and you might see some effects earlier. This is because with more people, rare events can occur more frequently.
+
+- **Traditional View of Risk Over Time:**
+  - People often think that if a disease takes 12 or 20 years to develop (e.g., cancer from exposure to radiation in Hiroshima), the risk is only relevant after that time.
+- **Large Sample Size Consideration:**
+  - When you have a large population (like 8 billion people), the distribution of events (e.g., adverse effects from vaccines) spreads out, and you might see some effects earlier. This is because with more people, rare events can occur more frequently.
 
 ### 3. **Distribution of Adverse Events**
-   - **Distribution Shapes:** 
-     - The occurrence of adverse events can follow different distributions. These distributions can be front-loaded (more events early on), bell-shaped (events peak in the middle), or have long tails (events spread out over time).
-   - **Time-Trade-Off:** 
-     - With a large enough sample size, you don't need to wait the full 12 or 20 years to see patterns. If there were significant risks associated with vaccines, they would likely appear within the first few years.
+
+- **Distribution Shapes:**
+  - The occurrence of adverse events can follow different distributions. These distributions can be front-loaded (more events early on), bell-shaped (events peak in the middle), or have long tails (events spread out over time).
+- **Time-Trade-Off:**
+  - With a large enough sample size, you don't need to wait the full 12 or 20 years to see patterns. If there were significant risks associated with vaccines, they would likely appear within the first few years.
 
 ### 4. **Interpreting the Data**
-   - **Current Observations:** 
-     - So far, the data doesn't show significant long-term risks associated with vaccines. While conspiracy theories might claim that adverse effects are hidden, this is unlikely because it's hard to hide such information on a large scale.
-   - **Misattribution of Cause and Effect:** 
-     - People might wrongly attribute an unrelated event (e.g., someone dying after eating an ice cream cone) to the vaccine simply because the vaccine was administered beforehand.
+
+- **Current Observations:**
+  - So far, the data doesn't show significant long-term risks associated with vaccines. While conspiracy theories might claim that adverse effects are hidden, this is unlikely because it's hard to hide such information on a large scale.
+- **Misattribution of Cause and Effect:**
+  - People might wrongly attribute an unrelated event (e.g., someone dying after eating an ice cream cone) to the vaccine simply because the vaccine was administered beforehand.
 
 ### 5. **Conclusion: Favoring Vaccination**
-   - **Risk Distribution:** 
-     - The risk distribution of vaccines seems to have a very thin left tail, meaning severe adverse events are rare.
-   - **COVID-19 vs. Vaccine Risks:** 
-     - Given that COVID-19 is a real and significant threat, the benefits of vaccination in saving lives outweigh the minimal risks.
+
+- **Risk Distribution:**
+  - The risk distribution of vaccines seems to have a very thin left tail, meaning severe adverse events are rare.
+- **COVID-19 vs. Vaccine Risks:**
+  - Given that COVID-19 is a real and significant threat, the benefits of vaccination in saving lives outweigh the minimal risks.
 
 ### **Summary**
-   - **Vaccines are essential** in combating lethal diseases like COVID-19.
-   - **Large sample sizes** allow us to see the effects of vaccines more clearly and earlier.
-   - **So far, no significant long-term risks** have been observed with vaccines, making them a crucial tool in public health.
+
+- **Vaccines are essential** in combating lethal diseases like COVID-19.
+- **Large sample sizes** allow us to see the effects of vaccines more clearly and earlier.
+- **So far, no significant long-term risks** have been observed with vaccines, making them a crucial tool in public health.
 
 This structured breakdown should help you understand the reasoning behind supporting vaccination, focusing on the interplay between time, sample size, and the distribution of risks.
 
 ## MINI LECTURE 13: Claims that Violence Has Dropped Are Not Statistical
 
 ### Introduction
-Hello again, and thank you for joining us. Today, we'll explore common errors people make when dealing with variables from *Extremistan* and apply standard statistical techniques to address these issues.
+
+Hello again, and thank you for joining us. Today, we'll explore common errors people make when dealing with variables from _Extremistan_ and apply standard statistical techniques to address these issues.
 
 ### Key Concepts
 
@@ -925,7 +970,7 @@ Hello again, and thank you for joining us. Today, we'll explore common errors pe
 
 2. **Statistical Analysis of Violence**
    - **Stephen Pinker’s Theory**: Pinker argues that violence has decreased over time. However, establishing this claim scientifically is challenging due to the nature of the data.
-   - **Statistical Challenges**: In *Extremistan*, the Law of Large Numbers and Central Limit Theorem are less effective. This makes it difficult to draw meaningful conclusions from historical data on violence.
+   - **Statistical Challenges**: In _Extremistan_, the Law of Large Numbers and Central Limit Theorem are less effective. This makes it difficult to draw meaningful conclusions from historical data on violence.
 
 ### Statistical Methods for Analyzing Violence
 
@@ -946,7 +991,7 @@ Hello again, and thank you for joining us. Today, we'll explore common errors pe
 ### Technical Considerations
 
 1. **Power Law Distribution**
-   - In *Extremistan*, events may follow a power law distribution, where the probability of extreme events decreases polynomially. However, in practice, data often do not fit a perfect power law.
+   - In _Extremistan_, events may follow a power law distribution, where the probability of extreme events decreases polynomially. However, in practice, data often do not fit a perfect power law.
    - **Log Transformation**: To handle data that do not strictly follow a power law, we apply log transformations to approximate power law behavior.
 
 2. **Applications**
@@ -956,75 +1001,95 @@ Hello again, and thank you for joining us. Today, we'll explore common errors pe
      - Financial derivatives exhibit fat tails, though not as pronounced as pandemics.
 
 ### Conclusion
-In summary, analyzing violence and other extreme events requires careful statistical handling, especially in *Extremistan* where traditional methods may not apply. By using synthetic data, adjusting for historical inaccuracies, and employing advanced statistical techniques, we can make more robust claims about the nature of extreme events.
+
+In summary, analyzing violence and other extreme events requires careful statistical handling, especially in _Extremistan_ where traditional methods may not apply. By using synthetic data, adjusting for historical inaccuracies, and employing advanced statistical techniques, we can make more robust claims about the nature of extreme events.
 
 Thank you for your attention, and have a great day!
 
 ## MINI LECTURE 13b: How to fix the problem of power laws with compact support
 
 ### Introduction
+
 In our work on violence and related topics, Professor Cherilo and I developed a transformation method to handle power laws that may not fit the strict definition. This method allows us to work with distributions that resemble power laws but have boundaries or other deviations.
 
 ### Power Laws and Their Limits
+
 A true power law has the form:
 $$ P(x) \propto x^{-\alpha} $$
-where $\alpha$ is the exponent. However, real-world data may not always fit this ideal. For example, a distribution with lower bound $l$ and upper bound $h$ might have a power-law-like tail but is not strictly a power law. 
+where $\alpha$ is the exponent. However, real-world data may not always fit this ideal. For example, a distribution with lower bound $l$ and upper bound $h$ might have a power-law-like tail but is not strictly a power law.
 
 ### The Transformation Function
+
 To address this, we use a transformation function $y = f(x)$ to map the original data $x$ into a new variable $y$ with different support:
 $$ f(x) = l - (h - l) \frac{\log(\log(h - x))}{\log(h - l)} $$
 where:
+
 - $l$ is the lower bound.
 - $h$ is the upper bound.
 - $\log$ denotes the logarithm function, and it can use any base.
 
 ### Example with Population Data
+
 Consider the population of the world, which is approximately 7 billion. If we apply the transformation:
+
 - For values up to about 3 billion, the function $f(x)$ will approximate the population distribution.
 - As $x$ approaches $h$, the function $f(x)$ approaches infinity.
 
 ### Relation to Log-Normal Distribution
+
 The approach is similar to the log-normal distribution used in finance:
+
 - **Stock Price Transformation**: Logarithmic returns of stock prices are often modeled using a normal distribution.
 
 For a random variable $x$ following a normal distribution $N(\mu, \sigma^2)$:
+
 - The log return is often used to model $x$, which also follows a normal distribution but with different parameters.
 
 ### Parameter Interpretation
+
 For the transformed variable $y$:
+
 - The mean $\mu_y$ of $y$ is given by:
-$$ \mu_y = e^{\mu + \frac{1}{2}\sigma^2} $$
+  $$ \mu_y = e^{\mu + \frac{1}{2}\sigma^2} $$
 - The variance $\sigma_y^2$ is an exponential function of $\sigma^2$ with some shift.
 
 ### Fitting Power Laws
+
 By fitting the power law to the transformed variable $y$, we obtain a model that approximates the power law more accurately for large values:
+
 - The analytics performed on $y$ are similar to those on $x$, but with adjustments for the transformed support.
 
 ### Summary
+
 The dual distribution method allows us to handle distributions that approximate power laws but have finite bounds. The transformation helps map one distribution to another, making it possible to analyze and compare them effectively. The conditions for this transformation to work were thoroughly examined to ensure accuracy.
 
 ## MINI LECTURE 14: Fragility, Convexity, and Antifragility
 
 ### Distinction Between X and F(X)
+
 - **X**: Represents a random variable or an event (e.g., rain, a stock market fluctuation).
 - **F(X)**: Represents the outcome or response to that event (e.g., income for an Uber driver, profit/loss in trading).
 - Many people mistakenly focus on predicting X (the event) instead of F(X) (the response to the event), which can lead to errors in judgment.
 
 ### Non-Linearity and Fragility
+
 - Fragility is characterized by a non-linear, typically concave response to stress or shocks. For example, a fragile object (like a coffee cup) doesn't break gradually but rather catastrophically after a certain threshold of stress.
 - **Example**: If you drop a cup from increasing heights, it remains intact up to a point but eventually shatters completely. The damage is not proportional to the height but accelerates past a certain threshold.
 - This non-linearity means that the average impact of small shocks doesn't necessarily predict the impact of a larger shock.
 
 ### The Concept of Anti-Fragility
+
 - Anti-fragile systems benefit from variability and stress up to a certain point. They have a convex response to stress, where small shocks can improve the system's resilience or condition.
 - **Example**: Human bones become stronger when subjected to moderate stress (like exercise), but too much stress (e.g., a high fall) can cause harm.
 
 ### Practical Applications
+
 - **Medicine**: A patient might survive better with varying doses of a treatment rather than a constant dose, due to the non-linear response of the body.
 - **Finance**: A financial institution might seem stable under normal conditions but collapse under extreme conditions because of its exposure to risks that accelerate in the tails of the distribution.
 - **Supply Chains**: A supply chain designed to handle average demand might fail when faced with a sudden spike in demand, highlighting the need for redundancy and flexibility in systems.
 
 ### Key Takeaways
+
 - **Convexity vs. Concavity**: Fragile systems have a concave response to stress, where harm accelerates rapidly after a certain point. Anti-fragile systems have a convex response, where they benefit from small amounts of stress.
 - **Survivorship Bias**: Systems that survive over time tend to be non-linear, as linear systems (those without resilience to shocks) would have already failed.
 - **Redundancy and Resilience**: Systems need to be designed with a buffer (redundancy) to handle unexpected shocks, rather than being optimized only for average conditions.
@@ -1056,26 +1121,32 @@ The overarching message seems to be a call for more sophisticated and nuanced ap
 When you receive a genetic report from companies like 23andMe, they might tell you something like, "You're 30% Greek and 15% Sicilian." This might sound straightforward, but it’s actually misleading. Here’s why.
 
 #### 1. **Genetic Overlap and Population Mixing**
-   - **Overlap of Populations:** Populations like Greeks and Sicilians aren’t isolated or completely separate groups. Throughout history, people have moved, intermarried, and shared genetic material across regions. So, it's not accurate to think of them as completely distinct categories. 
-   - **Not Independent Categories:** Because of this overlap, you can't neatly separate someone’s genes into strict percentages like "30% Greek" or "15% Sicilian." These populations share a lot of genetic similarities, and the idea of being a specific percentage of one is not meaningful.
+
+- **Overlap of Populations:** Populations like Greeks and Sicilians aren’t isolated or completely separate groups. Throughout history, people have moved, intermarried, and shared genetic material across regions. So, it's not accurate to think of them as completely distinct categories.
+- **Not Independent Categories:** Because of this overlap, you can't neatly separate someone’s genes into strict percentages like "30% Greek" or "15% Sicilian." These populations share a lot of genetic similarities, and the idea of being a specific percentage of one is not meaningful.
 
 #### 2. **Principal Component Analysis (PCA)**
-   - **Mapping Genetic Data:** To understand how populations relate genetically, scientists use a method called Principal Component Analysis (PCA). This method plots genetic samples on a map based on their similarities and differences.
-   - **Orthogonal Basis:** PCA works by creating a set of independent axes (like X and Y on a graph) that capture the most significant genetic variations. These axes are orthogonal, meaning there's no overlap between them.
-   - **Position on the Map:** Different populations, like Greeks and Sicilians, are plotted on this map. Often, these populations overlap on the PCA plot, showing their genetic similarities. For example, you might see Greek samples very close to Sicilian ones, with some individuals falling in between, reflecting their mixed heritage.
+
+- **Mapping Genetic Data:** To understand how populations relate genetically, scientists use a method called Principal Component Analysis (PCA). This method plots genetic samples on a map based on their similarities and differences.
+- **Orthogonal Basis:** PCA works by creating a set of independent axes (like X and Y on a graph) that capture the most significant genetic variations. These axes are orthogonal, meaning there's no overlap between them.
+- **Position on the Map:** Different populations, like Greeks and Sicilians, are plotted on this map. Often, these populations overlap on the PCA plot, showing their genetic similarities. For example, you might see Greek samples very close to Sicilian ones, with some individuals falling in between, reflecting their mixed heritage.
 
 #### 3. **Why Percentages Don't Make Sense**
-   - **No Clear Boundaries:** Since these populations overlap and share genetic traits, saying you're 30% Greek and 15% Sicilian doesn’t capture the true genetic picture. It’s more accurate to say that your genes are positioned somewhere on a spectrum between these populations.
-   - **Individual Variation:** Each person’s genetic makeup is unique, and trying to fit it into neat percentages based on populations that aren’t strictly defined is not scientifically accurate.
+
+- **No Clear Boundaries:** Since these populations overlap and share genetic traits, saying you're 30% Greek and 15% Sicilian doesn’t capture the true genetic picture. It’s more accurate to say that your genes are positioned somewhere on a spectrum between these populations.
+- **Individual Variation:** Each person’s genetic makeup is unique, and trying to fit it into neat percentages based on populations that aren’t strictly defined is not scientifically accurate.
 
 #### 4. **PCA in Practice**
-   - **Eigenvalues and Variance:** In PCA, the first principal component captures the most significant genetic variation, often more than 50%. The second component might capture around 20%, and the third even less. This shows that most of the genetic variation can be explained by just a couple of these components.
-   - **Positioning Individuals:** By looking at where your genes fall on these principal components, you can see how closely related you are to different populations. But again, these positions reflect a continuous gradient, not discrete categories.
+
+- **Eigenvalues and Variance:** In PCA, the first principal component captures the most significant genetic variation, often more than 50%. The second component might capture around 20%, and the third even less. This shows that most of the genetic variation can be explained by just a couple of these components.
+- **Positioning Individuals:** By looking at where your genes fall on these principal components, you can see how closely related you are to different populations. But again, these positions reflect a continuous gradient, not discrete categories.
 
 #### 5. **A Word on Methodology**
-   - **Alternative Methods:** There are other ways to analyze genetic data, like using mutual information or entropy-based techniques instead of just looking at correlations. These methods might give a slightly different picture but generally confirm that populations overlap and are not entirely distinct.
-   
+
+- **Alternative Methods:** There are other ways to analyze genetic data, like using mutual information or entropy-based techniques instead of just looking at correlations. These methods might give a slightly different picture but generally confirm that populations overlap and are not entirely distinct.
+
 ### Conclusion
+
 So, when someone says you're "30% Greek and 15% Sicilian," it's best to take it with a grain of salt. These percentages don’t accurately reflect the complexity of human genetics. Instead, think of your ancestry as a point on a map that blends various genetic influences, rather than a set of fixed percentages.
 
 ## MINI LECTURE 17: Maximum Ignorance Probability
@@ -1093,20 +1164,18 @@ In trading and statistical analysis, making informed decisions often relies on u
 Consider a fair coin toss with two possible outcomes: Heads (H) and Tails (T).
 
 - **Entropy (H)** for a discrete distribution is defined as:
-  
+
   $$
   H(P) = -\sum_{i} p_i \log p_i
   $$
 
 - For a fair coin:
-  
   $$
   P(H) = P(T) = 0.5
   $$
-  
   $$
-H(P) = -[0.5 \log 0.5 + 0.5 \log 0.5] = \log 2
-$$
+  H(P) = -[0.5 \log 0.5 + 0.5 \log 0.5] = \log 2
+  $$
 
 This distribution maximizes entropy, representing maximum uncertainty or ignorance given the constraint that the probabilities sum to 1.
 
@@ -1119,34 +1188,36 @@ This distribution maximizes entropy, representing maximum uncertainty or ignoran
 Imagine a surgeon performing 60 transplant surgeries. Without prior data, we aim to estimate the error rate--the probability that a surgery results in an error.
 
 **Challenges:**
+
 - No historical error rate data.
 - Uncertainty about whether the surgeon's performance is above or below a benchmark.
 
 **Approach:**
+
 1. **Model the Number of Errors:**
-   
+
    Assume the number of errors follows a **Binomial Distribution**:
-   
+
    $$
    X \sim \text{Binomial}(n=60, p)
    $$
-   
+
    where $p$ is the error rate.
 
 2. **Determine the Fair Error Rate:**
-   
+
    To find a probability $p$ such that there's a 50% chance the true error rate is above or below $p$, we seek the **median** of the binomial distribution.
 
    Mathematically, find $p$ where:
-   
+
    $$
    P(X \leq k) = 0.5
    $$
-   
+
    where $k$ is the observed number of errors.
 
 3. **Connecting to Bayesian Probability:**
-   
+
    The median of the binomial distribution relates to Bayesian inference, where prior beliefs are updated with observed data to form posterior distributions.
 
 ### 3. Mathematical Formulation
@@ -1160,6 +1231,7 @@ P(X = k) = \binom{n}{k} p^k (1 - p)^{n - k}
 $$
 
 where:
+
 - $n$ = number of trials (e.g., surgeries)
 - $k$ = number of successes (e.g., errors)
 - $p$ = probability of success on a single trial
@@ -1177,11 +1249,11 @@ The Beta distribution is the conjugate prior for the binomial distribution in Ba
 #### Estimating Fair Error Rate
 
 - **No Observations (k = 0):**
-  
+
   Even with zero observed errors, the fair error rate isn't necessarily zero. Using maximum ignorance probability, we derive a non-zero error rate that reflects uncertainty.
 
 - **With Observations:**
-  
+
   As the number of observations increases, the estimated error rate converges to the true error rate, though it never quite reaches zero.
 
 #### Example Calculation
@@ -1189,27 +1261,27 @@ The Beta distribution is the conjugate prior for the binomial distribution in Ba
 Suppose a surgeon has performed 60 surgeries with zero errors observed.
 
 1. **Define the Objective:**
-   
+
    Find $p$ such that:
-   
+
    $$
    P(X = 0) = (1 - p)^{60} = 0.5
    $$
 
 2. **Solve for $p$:**
-   
+
    $$
    (1 - p)^{60} = 0.5
    $$
-   
+
    $$
    \ln(1 - p) = \frac{\ln(0.5)}{60}
    $$
-   
+
    $$
    1 - p = e^{\frac{\ln(0.5)}{60}} \approx e^{-0.01155} \approx 0.9885
    $$
-   
+
    $$
    p \approx 1 - 0.9885 = 0.0115 \text{ or } 1.15\%
    $$
@@ -1243,16 +1315,15 @@ Determine the most likely probability distribution for the die's outcomes based 
 #### Approach
 
 1. **Define Constraints:**
-   
    - The die has outcomes 1 through 6.
    - The expected value $E[X] = 4.5$.
 
 2. **Maximize Entropy:**
-   
+
    Use the maximum entropy principle to find the distribution $P(X = x)$ that maximizes entropy subject to the given constraints.
 
 3. **Resulting Distribution:**
-   
+
    The higher outcomes (e.g., 6) will have higher probabilities than lower ones (e.g., 1), reflecting the increased average.
 
 ### 8. Python Implementation
@@ -1271,7 +1342,7 @@ def find_median_p(n, k, target_cdf=0.5):
     """
     def func(p):
         return binom.cdf(k, n, p) - target_cdf
-    
+
     # p must be between 0 and 1
     p_median = bisect(func, 0, 1)
     return p_median
@@ -1284,6 +1355,7 @@ print(f"Median probability p for n={n}, k={k} is {median_p:.4f} ({median_p*100:.
 ```
 
 **Output:**
+
 ```
 Median probability p for n=60, k=0 is 0.0115 (1.15%)
 ```
@@ -1316,13 +1388,13 @@ The **Maximum Entropy Principle** states that, among all probability distributio
 
 For a fair coin (Heads = H, Tails = T):
 
-* The entropy of a discrete distribution:
+- The entropy of a discrete distribution:
 
   $$
   H(P) = -\sum_{i} p_i \log p_i
   $$
 
-* For $P(H) = P(T) = 0.5$:
+- For $P(H) = P(T) = 0.5$:
 
   $$
   H(P) = -[0.5 \log 0.5 + 0.5 \log 0.5] = \log 2
@@ -1338,8 +1410,8 @@ This concept **extends maximum entropy** to scenarios where prior knowledge is s
 
 #### Case Study: Surgical Error Rates
 
-* **Scenario**: A surgeon performs 60 transplants. No prior data exists on error frequency.
-* **Goal**: Estimate a “fair” error rate without assumptions.
+- **Scenario**: A surgeon performs 60 transplants. No prior data exists on error frequency.
+- **Goal**: Estimate a “fair” error rate without assumptions.
 
 #### Modeling Approach:
 
@@ -1373,7 +1445,7 @@ $$
 
 #### Solving for Median $p$:
 
-* With $k = 0$, solve:
+- With $k = 0$, solve:
 
   $$
   (1 - p)^{60} = 0.5
@@ -1391,8 +1463,8 @@ This gives a non-zero estimate even when no errors are observed -- a key insight
 
 This method parallels **Bayesian thinking** without requiring explicit priors:
 
-* The binomial model corresponds to using a **Beta** prior in Bayesian statistics.
-* The maximum ignorance approach yields similar results as using an uninformative prior, but derived from symmetry and fairness principles.
+- The binomial model corresponds to using a **Beta** prior in Bayesian statistics.
+- The maximum ignorance approach yields similar results as using an uninformative prior, but derived from symmetry and fairness principles.
 
 ---
 
@@ -1400,8 +1472,8 @@ This method parallels **Bayesian thinking** without requiring explicit priors:
 
 **Coverage probability** is the proportion of times a confidence or credible interval contains the true parameter value.
 
-* A model is **well-calibrated** if the nominal level (e.g., 95%) matches empirical performance.
-* Maximum ignorance approaches help construct such intervals by avoiding overconfident or overly narrow estimates in data-scarce environments.
+- A model is **well-calibrated** if the nominal level (e.g., 95%) matches empirical performance.
+- Maximum ignorance approaches help construct such intervals by avoiding overconfident or overly narrow estimates in data-scarce environments.
 
 ---
 
@@ -1412,9 +1484,8 @@ This method parallels **Bayesian thinking** without requiring explicit priors:
 #### Steps:
 
 1. **Constraints**:
-
-   * Outcomes: 1 through 6
-   * Expected value: $E[X] = 4.5$
+   - Outcomes: 1 through 6
+   - Expected value: $E[X] = 4.5$
 
 2. **Solution**:
    Maximize entropy subject to $\sum p_i = 1$ and $\sum i \cdot p_i = 4.5$
@@ -1455,9 +1526,9 @@ Median error rate: 0.0115 (1.15%)
 
 ### **8. Key Takeaways**
 
-* **Maximum Ignorance Probability** provides rational estimates in the face of extreme uncertainty.
-* It reflects symmetry and fairness without relying on arbitrary priors.
-* Useful in fields like medicine, risk management, and algorithmic trading.
+- **Maximum Ignorance Probability** provides rational estimates in the face of extreme uncertainty.
+- It reflects symmetry and fairness without relying on arbitrary priors.
+- Useful in fields like medicine, risk management, and algorithmic trading.
 
 **✅ Condensed Learning Notes:**
 
@@ -1467,32 +1538,32 @@ Median error rate: 0.0115 (1.15%)
 
 ### 🔹 Purpose & Challenge
 
-* Needed for simulations to represent correlation/covariance.
-* **High dimensionality (large *n*)** makes construction/calibration difficult.
+- Needed for simulations to represent correlation/covariance.
+- **High dimensionality (large _n_)** makes construction/calibration difficult.
 
 ### 🔹 Sample Size Effect on Correlation
 
-* **Small sample** → high variability in observed correlations (even if true correlation = 0).
-* **Large sample** → observed correlations converge to true values.
-* As *n* → ∞, correlations of uncorrelated variables → 0.
+- **Small sample** → high variability in observed correlations (even if true correlation = 0).
+- **Large sample** → observed correlations converge to true values.
+- As _n_ → ∞, correlations of uncorrelated variables → 0.
 
 ### 🔹 Constructing Positive Definite Matrices
 
-* Use samples from high-variance, fat-tailed distributions (e.g., chi-square, low-DoF Student's *t*).
-* Check matrix is positive definite.
-* Analyze with PCA.
+- Use samples from high-variance, fat-tailed distributions (e.g., chi-square, low-DoF Student's _t_).
+- Check matrix is positive definite.
+- Analyze with PCA.
 
 ### 🔹 PCA & Dimensionality
 
-* **1st Principal Component (PC)** may explain large variance (e.g., 55%) → low dimensionality.
-* Use higher DoF Student’s *t* to distribute variance more evenly.
-* PCA helps refine sample distribution & dimensionality.
+- **1st Principal Component (PC)** may explain large variance (e.g., 55%) → low dimensionality.
+- Use higher DoF Student’s _t_ to distribute variance more evenly.
+- PCA helps refine sample distribution & dimensionality.
 
 ### 🔹 Key Takeaways
 
-* Small samples can cause **spurious correlations**.
-* Distribution choice and sample size directly shape **correlation structure**.
-* PCA = diagnostic tool to assess/fine-tune matrix structure.
+- Small samples can cause **spurious correlations**.
+- Distribution choice and sample size directly shape **correlation structure**.
+- PCA = diagnostic tool to assess/fine-tune matrix structure.
 
 ---
 
@@ -1500,36 +1571,36 @@ Median error rate: 0.0115 (1.15%)
 
 ### 🔹 The Precautionary Principle
 
-* Avoid actions with unknown consequences, especially in ecosystems.
+- Avoid actions with unknown consequences, especially in ecosystems.
 
 ### 🔹 Genetic Modification Risks
 
-* **Unpredictable ecological effects**.
-* GM organisms can **spread, evolve**, disrupt ecosystems.
-* Changes are **rapid**, unlike slow **natural selection**.
+- **Unpredictable ecological effects**.
+- GM organisms can **spread, evolve**, disrupt ecosystems.
+- Changes are **rapid**, unlike slow **natural selection**.
 
 ### 🔹 Historical Parallel: Mao’s Four Pests
 
-* Eliminated sparrows → ecosystem imbalance → insect overpopulation → famine.
-* Shows **ecological complexity** & risks of tampering.
+- Eliminated sparrows → ecosystem imbalance → insect overpopulation → famine.
+- Shows **ecological complexity** & risks of tampering.
 
 ### 🔹 Mathematical Insight: Speed vs. Harm
 
-* Risk of harm **rises non-linearly** with speed of change.
+- Risk of harm **rises non-linearly** with speed of change.
+  - $\text{Speed} ↑ → \text{Harm} ↑↑↑$
 
-  * $\text{Speed} ↑ → \text{Harm} ↑↑↑$
-* Natural evolution = slow, allows adjustment.
-* GMO = **fast change**, nature can’t adapt → high risk.
+- Natural evolution = slow, allows adjustment.
+- GMO = **fast change**, nature can’t adapt → high risk.
 
 ### 🔹 Ecosystem Complexity
 
-* **Reintroduction of wolves** → widespread ecological changes.
-* **Small species changes** can shift entire ecosystems.
+- **Reintroduction of wolves** → widespread ecological changes.
+- **Small species changes** can shift entire ecosystems.
 
 ### 🔹 Technological Hubris
 
-* Gates’ mosquito control = risk of **Mao-style miscalculation**.
-* Arrogance in thinking we can “control nature” → dangerous.
+- Gates’ mosquito control = risk of **Mao-style miscalculation**.
+- Arrogance in thinking we can “control nature” → dangerous.
 
 ---
 
@@ -1537,8 +1608,8 @@ Median error rate: 0.0115 (1.15%)
 
 ### 🔹 Currency vs. Security
 
-* Bitcoin ≠ stable currency (high volatility).
-* Lacks intrinsic value/cash flows → speculative.
+- Bitcoin ≠ stable currency (high volatility).
+- Lacks intrinsic value/cash flows → speculative.
 
 ### 🔹 Security Pricing Formula
 
@@ -1546,26 +1617,27 @@ $$
 P_t = \frac{C_{t+1} + E[P_{t+2}]}{1 + r_d}
 $$
 
-* Recursively based on **expected future cash flows**.
+- Recursively based on **expected future cash flows**.
 
 ### 🔹 Bitcoin’s Special Case
 
-* No cash flows/dividends → value = **what next buyer pays**.
-* Resembles **Ponzi dynamics**.
+- No cash flows/dividends → value = **what next buyer pays**.
+- Resembles **Ponzi dynamics**.
 
 ### 🔹 Absorption Barrier Concept
 
-* Bitcoin can hit value = 0 if system/tech fails.
-* Unlike gold, Bitcoin lacks **intrinsic use value**.
+- Bitcoin can hit value = 0 if system/tech fails.
+- Unlike gold, Bitcoin lacks **intrinsic use value**.
 
 ### 🔹 Adjusted Valuation Under Failure Risk
 
-* Modified discount factor:
+- Modified discount factor:
 
   $$
   \frac{1 - \pi}{1 + r_d}
   $$
-* Price must grow at:
+
+- Price must grow at:
 
   $$
   1 + r_d + \pi
@@ -1575,7 +1647,6 @@ $$
 
 ### 🔹 Conclusion
 
-* Bitcoin = speculative asset, not true currency.
-* Vulnerable to loss of belief, tech disruption, or structural plateau.
-* **Sustainability = dependent on continued buyer demand**.
-
+- Bitcoin = speculative asset, not true currency.
+- Vulnerable to loss of belief, tech disruption, or structural plateau.
+- **Sustainability = dependent on continued buyer demand**.

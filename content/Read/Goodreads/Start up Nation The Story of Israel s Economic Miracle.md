@@ -1,18 +1,17 @@
 ---
-title: 'Start-up Nation: The Story of Israel''s Economic Miracle'
+title: "Start-up Nation: The Story of Israel's Economic Miracle"
 author: Dan Senor
-date: '2021-08-28'
+date: "2021-08-28"
 tags:
-- book
+  - book
 ---
-
 
 # Start-up Nation: The Story of Israel's Economic Miracle
 
 **Author:** Dan Senor  
 **My Rating:** 3  
-**Date Read:**   
-**Bookshelves:** 
+**Date Read:**  
+**Bookshelves:**
 
 **Additional Authors:** Saul Singer  
 **ISBN:** 044654146X  
@@ -22,16 +21,13 @@ tags:
 **Number of Pages:** 304  
 **Year Published:** 2009  
 **Original Publication Year:** 2009  
-**Date Read:**   
+**Date Read:**  
 **Date Added:** 2021-08-28 00:00:00  
 **My Rating:** 3  
 **Average Rating:** 4.11  
-**Bookshelves:**   
+**Bookshelves:**  
 **Exclusive Shelf:** read  
 **Read Count:** 1  
 **Owned Copies:** 0
 
-
 ## Review
-
-

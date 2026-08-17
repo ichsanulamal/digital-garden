@@ -5,4 +5,3 @@ tags: ["economy", "technology", "digital"]
 ---
 
 [Read the document](https://drive.google.com/open?id=1dxwmC3pfzaKg_f2LkOE-fMuAJ5-7TtZa)
-

@@ -2,8 +2,8 @@
 title: "Tere Liye"
 date: 2001-01-01
 tags:
-- figure
-- literature
+  - figure
+  - literature
 ---
-# Tere Liye
 
+# Tere Liye

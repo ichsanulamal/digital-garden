@@ -5,4 +5,3 @@ tags: []
 ---
 
 # Opportunity Cost
-

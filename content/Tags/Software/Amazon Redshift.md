@@ -1,6 +1,6 @@
 ---
 title: "Amazon Redshift"
 tags:
-- software
+  - software
 date: 2026-05-19
 ---

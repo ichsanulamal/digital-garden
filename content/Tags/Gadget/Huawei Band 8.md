@@ -2,7 +2,7 @@
 title: "Huawei Band 8"
 date: 2023-06-17
 tags:
-- gadget
+  - gadget
 ---
-# Huawei Band 8
 
+# Huawei Band 8

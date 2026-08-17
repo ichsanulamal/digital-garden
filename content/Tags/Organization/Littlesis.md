@@ -1,6 +1,6 @@
 ---
 title: "Littlesis"
 tags:
-- orgnization
+  - orgnization
 date: 2026-05-19
 ---
