@@ -1,9 +1,10 @@
 ---
+title: "Windows to Mac Migration"
 date: 2022-10-19T13:12
 tags:
   - productivity
   - tips
-Last edited time: 2022-10-19T13:15
+updated: 2022-10-19T13:15
 publish_external: true
 ---
 Alt+tab windows like

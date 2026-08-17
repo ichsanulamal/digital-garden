@@ -1,8 +1,9 @@
 ---
+title: "Custom DNS"
 date: 2023-12-23T11:15
 tags:
   - tips
-Last edited time: 2025-05-11T09:48
+updated: 2025-05-11T09:48
 publish_external: true
 ---
 Custom DNS Available for Android Pie & Q

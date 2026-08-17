@@ -1,7 +1,9 @@
 ---
-alias: UIST601014
+title: "Basic Mathematics 1"
+aliases: UIST601014
 date: 2019-08-01
 publish_external: true
+tags: []
 ---
 
 # Basic Mathematics 1

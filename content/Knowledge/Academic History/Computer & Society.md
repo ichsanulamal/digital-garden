@@ -1,7 +1,9 @@
 ---
-alias: CSGE614093
+title: "Computer & Society"
+aliases: CSGE614093
 date: 2023-02-01
 publish_external: true
+tags: []
 ---
 
 # Computer & Society

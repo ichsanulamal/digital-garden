@@ -1,7 +1,9 @@
 ---
-alias: CSIE604284
+title: "Social Media Analytics"
+aliases: CSIE604284
 date: 2022-02-01
 publish_external: true
+tags: []
 ---
 
 # Social Media Analytics

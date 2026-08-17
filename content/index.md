@@ -2,24 +2,20 @@
 date: 2001-01-01
 title: About
 publish_external: true
+tags: []
 ---
 
 ![[profile.png]]
 
 > 🧭 _i don't know what i want. i only know what i don't want._
 
-Hi, I’m **Ichsanul (nichsedge)** -- a corporate wagie working in **Data & AI**.
+Hi, I’m **insert\_name** -- a corporate wagie working in **Data & AI**.
 
 Most of my time is spent tinkering with **tech, philosophy, and fulus** -- often not productively, but always curiously.
 
 Outside the job, I build systems for sovereignty and do speculative things.
 
 If you're bored and looking for projects or sparks, check out my list of [[Open Idea Artifact|Things I Wish Existed]]
-
-If you want the professional version:
-
-- [[Resume]]
-- [[Projects]]
 
 Maybe we can build something weird and meaningful.
 
