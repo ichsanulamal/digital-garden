@@ -1,11 +1,7 @@
 ---
-date: "2023-08-05"
-tags:
-  - journal
-  - essay
-  - film
-  - book
-title: Kino no Tabi, Job Hopping and The Modern Nomad
+title: "Kino no Tabi, Job Hopping and The Modern Nomad"
+date: 2023-08-05
+tags: [journal, essay, film, book]
 publish_external: true
 ---
 

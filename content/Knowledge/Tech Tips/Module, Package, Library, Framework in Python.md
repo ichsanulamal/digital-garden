@@ -1,14 +1,11 @@
 ---
-title: Module, Package, Library, Framework in Python
-date: 2025-07-26T23:18:47+07:00
-tags:
-  - knowledge
-  - tips
+title: "Module, Package, Library, Framework in Python"
+date: 2025-07-26
+tags: [knowledge, tips]
 publish_external: true
 ---
 
 # 📦 Module, Package, Library, Framework in Python
-
 ---
 
 ## 🔹 1. Module
@@ -19,7 +16,7 @@ A **module** is a single Python file (`.py`) that contains code--functions, clas
 # my_module.py
 def greet(name):
     return f"Hello, {name}!"
-```
+````
 
 You can import this module:
 
@@ -58,9 +55,9 @@ A **library** is a broader term--it refers to a **collection of packages and mod
 
 Examples:
 
-- `NumPy` – numerical operations
-- `Pandas` – data analysis
-- `Requests` – HTTP requests
+* `NumPy` – numerical operations
+* `Pandas` – data analysis
+* `Requests` – HTTP requests
 
 So a **library** may consist of many **packages**, each with its own **modules**.
 
@@ -72,9 +69,9 @@ A **framework** is a more structured collection of libraries designed to help bu
 
 Examples:
 
-- `Django` – web framework
-- `Flask` – micro web framework
-- `PyTorch` – deep learning framework
+* `Django` – web framework
+* `Flask` – micro web framework
+* `PyTorch` – deep learning framework
 
 > Frameworks are opinionated--they define how you should structure your app.
 
@@ -86,9 +83,9 @@ This is the **built-in set of modules** that comes with Python. You don’t need
 
 Examples:
 
-- `os` – interacting with the operating system
-- `math` – mathematical functions
-- `datetime` – working with dates and times
+* `os` – interacting with the operating system
+* `math` – mathematical functions
+* `datetime` – working with dates and times
 
 ---
 

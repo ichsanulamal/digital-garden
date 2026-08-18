@@ -1,6 +1,6 @@
 ---
 title: "Gnome Development Nightmares and Finding Meaning in Consumerism"
-date: 2025-07-16T13:38:10+07:00
+date: 2025-07-16
 tags: [gnome, linux, openrouter, philosophy, cynicism]
 publish_external: true
 ---
@@ -22,4 +22,4 @@ did research or just "surfing" how to get indonesia-related data, but i give up.
 
 thats the only thing to be happy i guess :"v
 
-![[https://youtu.be/4pG-8XLLaE0?si=7nPk5GWKY9QGFeY-]]
+![[https://youtu.be/4pG-8XLLaE0?si=7nPk5GWKY9QGFeY-]]  

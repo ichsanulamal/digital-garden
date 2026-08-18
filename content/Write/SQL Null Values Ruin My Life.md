@@ -1,17 +1,11 @@
 ---
-title: SQL Null Values Ruin My Life
+title: "SQL Null Values Ruin My Life"
 date: 2024-02-13
-tags:
-  - data-engineering
-  - dbt
-  - bigquery
-  - sql
-  - postgres
-  - tech
+tags: [data-engineering, dbt, bigquery, sql, postgres, tech]
+publish_external: true
 hideSummary: true
 enableToc: true
 draft: true
-publish_external: true
 ---
 
 **Background:**
@@ -49,6 +43,6 @@ Remember to use `NULLS LAST/FIRST` to properly handle null values when executing
 
 ---
 
-I dont realize these articles exist -\_-
+I dont realize these articles exist -_- 
 
-[Why should I avoid NULL values in a SQL database?](https://stackoverflow.com/questions/21777697/why-should-i-avoid-null-values-in-a-sql-database).
+[Why should I avoid NULL values in a SQL database?](https://stackoverflow.com/questions/21777697/why-should-i-avoid-null-values-in-a-sql-database). 

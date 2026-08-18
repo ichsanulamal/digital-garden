@@ -1,15 +1,10 @@
 ---
-title: Berpemilu 2024 dengan Hoream
+title: "Berpemilu 2024 dengan Hoream"
 date: 2024-02-11
-tags:
-  - pemilu
-  - sql
-  - postgres
-  - web-scraping
-  - journal
+tags: [pemilu, sql, postgres, web-scraping, journal]
+publish_external: true
 hideSummary: true
 draft: false
-publish_external: true
 ---
 
 ## review web kpu
@@ -18,7 +13,7 @@ publish_external: true
 
 - ui/ux nya jelek
 - [[Data]] yg harusnya publik malah dipersulit buat scraping
-- ga bisa dibookmark, request method 'POST' -\_-
+- ga bisa dibookmark, request method 'POST' -_-
 
 ## alternatif web
 
@@ -30,3 +25,6 @@ publish_external: true
 screening kriteria > [[Open Source Intelligence|OSINT]] satu-satu > hitung kancing
 
 ![[infopemilu-kpu.png]]
+
+
+

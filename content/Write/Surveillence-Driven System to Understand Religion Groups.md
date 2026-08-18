@@ -1,10 +1,7 @@
 ---
-date: "2023-11-01"
-tags:
-  - journal
-  - essay
-  - muslim
-title: Building Surveillence-Driven System to Understand More about Religion Groups
+title: "Building Surveillence-Driven System to Understand More about Religion Groups"
+date: 2023-11-01
+tags: [journal, essay, muslim]
 publish_external: true
 ---
 
@@ -56,7 +53,7 @@ If one group considers another group misguided, the government can allow it beca
 
 ---
 
-Data is the most perverted things akin to the devil's mephistophelean influence. While a seller sometimes gives you what you desire, and novels/movies/games tell you how to desire, data could be the initiator of all of the above.
+Data is the most perverted things akin to the devil's mephistophelean influence. While a seller sometimes gives you what you desire, and novels/movies/games tell you how to desire, data could be the initiator of all of the above. 
 
 > "Data doesn't only give you what you desire, it also tells you how to desire."
 
@@ -67,5 +64,6 @@ But we can always gaslight ourselves. Giving our data is part of sodaqoh and cha
 ![[designing surveillance app.png]]
 
 Everything that exists to create value is a business. An organization is a business. A country is a business. Religion is a business.
+
 
 [[Data-driven]]

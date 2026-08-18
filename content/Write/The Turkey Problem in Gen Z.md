@@ -1,11 +1,7 @@
 ---
-date: "2023-02-01T11:42:46Z"
-tags:
-  - essay
-  - muslim
-  - review
-  - film
-title: The Turkey Problem in Gen-Z
+title: "The Turkey Problem in Gen-Z"
+date: 2023-02-01
+tags: [essay, muslim, review, film]
 publish_external: true
 ---
 
@@ -17,7 +13,7 @@ There is something known as the "turkey problem." We often place our trust in in
 
 Why does this happen?
 
-If we examine [[Addiction|addiction]] from a researcher's "hammer" perspective, it provides some insights.
+If we examine [[Addiction|addiction]] from a researcher's "hammer" perspective, it provides some insights. 
 
 ![[https://youtu.be/66cYcSak6nE]]
 
@@ -51,15 +47,16 @@ Should one choose to be a believer or a skeptic?
 
 If you choose to be a believer, you may isolate your child and pray wholeheartedly (controlling their choices). However, for me, that doesn't work. Embracing faith and [[Islam]] can be achieved through skepticism, gratitude for being endowed with desires and intelligence to scrutinize the concept of gods.
 
+
 ## Draft
 
-gen z suka foya-foya, susah cari kerja, no respect for adult, over sensitive but very savage and brutal, lemah syahwat, banyak nipu lewat sosial media, gaya ngutang, low attention span, suka challenging status quo, information overload, kebanyakan berita korupsi, cancel culture, global warming, apa-apa bawa mental health, generasi lemah dan malas tapi woke dan hustle.
+gen z suka foya-foya, susah cari kerja, no respect for adult, over sensitive but very savage and brutal, lemah syahwat, banyak nipu lewat sosial media, gaya ngutang, low attention span, suka challenging status quo, information overload, kebanyakan berita korupsi, cancel culture, global warming, apa-apa bawa mental health, generasi lemah dan malas tapi woke dan hustle. 
 
 kenapa bisa gini?
 
 Ada yang namanya turkey problem
 
-bahwa kita sering mempercayakan terhadap sesuatu, misal ke institusi pendidikan, pemerintahan, expert.
+bahwa kita sering mempercayakan terhadap sesuatu, misal ke institusi pendidikan, pemerintahan, expert. 
 
 banyak blind spot, personal bias, yang memunculkan randomness cikal bakal black swan yang nantinya jadi shit happens.
 
@@ -71,7 +68,7 @@ youtube "66cYcSak6nE"
 
 we're just tryin to fill the hole
 
-bisa diliat dari contoh odd taxi episode 4,
+bisa diliat dari contoh odd taxi episode 4, 
 
 youtube "KrvKhnSdbks"
 
@@ -79,7 +76,7 @@ pernah ga pas kecil tuker2an binder, nunjukkin mainan terbaru, rubik, gasing, ta
 
 its normal actually, until there's someone who can't afford it and marginalized
 
-he turns out looking for something, material things, to fill the hole. it's not enough dan malah jadi knowledge hunter.
+he turns out looking for something, material things, to fill the hole. it's not enough dan malah jadi knowledge hunter. 
 
 semua hal yang dicari untuk faustian bargain... deal with the devil...
 
@@ -97,13 +94,13 @@ liat aja insentif guru dan dokter, awalnya sesimpel konspirasi gold reserve act 
 
 terus gimana cara educate anak?
 
-pilih prioritas, lagi2 ini semua pilihan, mau hidup nyaman, keliatan orang atau knowledge, kedalaman,
+pilih prioritas, lagi2 ini semua pilihan, mau hidup nyaman, keliatan orang atau knowledge, kedalaman, 
 
 "those who looks outside dream, those who looks inside awake" kalo kata carl jung. doesnt matter whether the truth of introvert is exist or not, what matter is when someone incapable doing something, they are hide themselves in term extrovert and introvert.
 
-mau impulsif belanja, memperkaya orang2, cermat terhadap sikap belanja, carbon footprint.
+mau impulsif belanja, memperkaya orang2, cermat terhadap sikap belanja, carbon footprint. 
 
-semua ada tradeoffnya,
+semua ada tradeoffnya, 
 
 bagi saya prioritas itu tetap knowledge dan wisdom
 
@@ -112,3 +109,4 @@ pilih jadi orang beriman atau skeptis?
 kalo pilih jadi beriman, bisa isolasi anaknya dan berdoa sepenuh hati (control kaya anaknya siapa). bagi saya, its not work. dan branch menjadi beriman dan [[Islam]] itu ya lewat skeptisisme, rasa syukur diberikan nafsu dan intelligence untuk scrutiny the concept of gods.
 
 <insert arabic kullu nafsin da ikotul maut>
+

@@ -1,8 +1,8 @@
 ---
 title: "Normative Ethics"
 date: 2001-01-01
-publish_external: true
 tags: []
+publish_external: true
 ---
 
 [[Deontological Ethics]] : tindakan dinilai baik atau buruk berdasarkan apakah tindakan itu sesuai atau tidak dengan kewajiban (hukum)

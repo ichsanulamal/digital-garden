@@ -1,8 +1,7 @@
 ---
-date: "2023-11-26"
-tags:
-  - journal
-title: Cognitive Empathy For Depression
+title: "Cognitive Empathy For Depression"
+date: 2023-11-26
+tags: [journal]
 publish_external: true
 ---
 

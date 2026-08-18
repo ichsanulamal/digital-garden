@@ -1,8 +1,8 @@
 ---
+title: "Academic History"
 date: 2001-01-01
-title: Academic History
-publish_external: true
 tags: []
+publish_external: true
 ---
 
 # 📚 All Courses
@@ -71,3 +71,4 @@ tags: []
 
 - [[Internships]]
 - [[Computer & Society]]
+

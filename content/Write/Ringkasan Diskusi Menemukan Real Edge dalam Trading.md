@@ -15,46 +15,49 @@ Diskusi ini membahas perbedaan antara trading dan judi, pentingnya psikologi, se
 
 Kesalahan umum pemula adalah mencampuradukkan strategi saat posisi sedang merugi.
 
-- **Trading:** Aktivitas jual-beli jangka pendek berdasarkan _price action_. Jika salah arah, **wajib cut loss**.
-- **Investing:** Berdasarkan fundamental dan _conviction_ jangka panjang. Penurunan harga (drawdown) justru dilihat sebagai kesempatan akumulasi.
-- **Masalah Utama:** "Trader yang gagal cut loss tiba-tiba mengaku jadi investor." Ini adalah bentuk penyangkalan terhadap risiko.
+* **Trading:** Aktivitas jual-beli jangka pendek berdasarkan *price action*. Jika salah arah, **wajib cut loss**.
+* **Investing:** Berdasarkan fundamental dan *conviction* jangka panjang. Penurunan harga (drawdown) justru dilihat sebagai kesempatan akumulasi.
+* **Masalah Utama:** "Trader yang gagal cut loss tiba-tiba mengaku jadi investor." Ini adalah bentuk penyangkalan terhadap risiko.
 
 ### **2. Mengapa Trading Bukan Judi? (Konsep Expected Value)**
 
 Trading menjadi judi jika pelakunya tidak tahu probabilitas dan statistik sistemnya.
 
-- **Expected Value (EV):** Nilai harapan keuntungan dalam jangka panjang.
-- Formula Sederhana: $EV = (Win Rate \times Average Win) - (Loss Rate \times Average Loss)$
+* **Expected Value (EV):** Nilai harapan keuntungan dalam jangka panjang.
+* Formula Sederhana: $EV = (Win Rate \times Average Win) - (Loss Rate \times Average Loss)$
 
-- **Profit Factor:** Total keuntungan kotor dibagi total kerugian. Jika di bawah 1.0, maka sistem tersebut tidak layak (negatif).
-- **Win Rate vs. Risk Reward (RR):** \* Win rate rendah (misal: 30%) tetap bisa sangat profitabel jika **Average Win** jauh lebih besar daripada **Average Loss** (misal RR 1:3).
-- _Edge_ seorang trader terletak pada kemampuan menjaga rasio ini secara konsisten.
+
+* **Profit Factor:** Total keuntungan kotor dibagi total kerugian. Jika di bawah 1.0, maka sistem tersebut tidak layak (negatif).
+* **Win Rate vs. Risk Reward (RR):** * Win rate rendah (misal: 30%) tetap bisa sangat profitabel jika **Average Win** jauh lebih besar daripada **Average Loss** (misal RR 1:3).
+* *Edge* seorang trader terletak pada kemampuan menjaga rasio ini secara konsisten.
+
+
 
 ### **3. Psikologi: Musuh Terbesar adalah Diri Sendiri**
 
 Analisis teknis hanya menyumbang sekitar 20% kesuksesan, sisanya adalah regulasi emosi.
 
-- **Revenge Trading:** Dorongan untuk segera "balas dendam" setelah loss. Statistik menunjukkan peluang menang saat emosi biasanya turun drastis.
-- **Greed:** Saat sedang _win streak_, trader cenderung _overconfident_ dan menaikkan risiko (lot/size) secara sembarangan.
-- **Solusi:** Memiliki **Trading Journal** dan aturan yang kaku (misal: "Maksimal loss 2% sehari, jika kena langsung tutup laptop").
+* **Revenge Trading:** Dorongan untuk segera "balas dendam" setelah loss. Statistik menunjukkan peluang menang saat emosi biasanya turun drastis.
+* **Greed:** Saat sedang *win streak*, trader cenderung *overconfident* dan menaikkan risiko (lot/size) secara sembarangan.
+* **Solusi:** Memiliki **Trading Journal** dan aturan yang kaku (misal: "Maksimal loss 2% sehari, jika kena langsung tutup laptop").
 
 ---
 
 ### **4. Strategi & Edge dari Para Panelis**
 
-| Panelis        | Fokus Instrumen             | Gaya Trading / Edge                                                          | Target Return             |
-| -------------- | --------------------------- | ---------------------------------------------------------------------------- | ------------------------- |
-| **Bro Brian**  | Multi-Asset (Crypto, Forex) | _Price Action_ & _Follow the Big Money_. Masuk saat pullback.                | ~5% per bulan (konsisten) |
-| **Bro Farhan** | Bitcoin (BTC) Only          | _Auction Market Theory_ (AMT). Memahami konteks market (sideways vs trendy). | 4-8% per bulan            |
-| **Anantaka**   | Bitcoin (BTC) Only          | _Quantitative/Algo Trading_. Menggunakan _Trend Following_ & statistik.      | 30-40% per tahun          |
+| Panelis | Fokus Instrumen | Gaya Trading / Edge | Target Return |
+| --- | --- | --- | --- |
+| **Bro Brian** | Multi-Asset (Crypto, Forex) | *Price Action* & *Follow the Big Money*. Masuk saat pullback. | ~5% per bulan (konsisten) |
+| **Bro Farhan** | Bitcoin (BTC) Only | *Auction Market Theory* (AMT). Memahami konteks market (sideways vs trendy). | 4-8% per bulan |
+| **Anantaka** | Bitcoin (BTC) Only | *Quantitative/Algo Trading*. Menggunakan *Trend Following* & statistik. | 30-40% per tahun |
 
 ---
 
 ### **5. Kesimpulan & Insight Penting**
 
-- **News sebagai Katalis:** Berita (CPI, konflik, dll) seringkali hanya mempercepat volatilitas ke arah yang sebenarnya sudah terlihat di _price action_ (market sudah _priced-in_).
-- **Kapasitas Kapital:** Semakin besar dana yang dikelola, fleksibilitas untuk _scalping_ berkurang karena risiko menggerakkan market (_market impact_).
-- **Ekspektasi Realistis:** Trader profesional tidak mengejar "cepat kaya" atau 1% pasti setiap hari. Fokusnya adalah menjaga _equity curve_ tetap naik secara stabil dalam hitungan tahun (maraton, bukan sprint).
+* **News sebagai Katalis:** Berita (CPI, konflik, dll) seringkali hanya mempercepat volatilitas ke arah yang sebenarnya sudah terlihat di *price action* (market sudah *priced-in*).
+* **Kapasitas Kapital:** Semakin besar dana yang dikelola, fleksibilitas untuk *scalping* berkurang karena risiko menggerakkan market (*market impact*).
+* **Ekspektasi Realistis:** Trader profesional tidak mengejar "cepat kaya" atau 1% pasti setiap hari. Fokusnya adalah menjaga *equity curve* tetap naik secara stabil dalam hitungan tahun (maraton, bukan sprint).
 
 > "Trading itu bukan tentang seberapa sering kamu benar (win rate), tapi tentang seberapa banyak yang kamu hasilkan saat benar dan seberapa sedikit yang hilang saat kamu salah."
 

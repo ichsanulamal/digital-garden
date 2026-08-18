@@ -1,9 +1,0 @@
----
-title: "Michael Burry"
-date: 2001-01-01
-tags:
-  - economics
-  - figure
----
-
-# Michael Burry

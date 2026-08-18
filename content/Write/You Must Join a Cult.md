@@ -1,9 +1,7 @@
 ---
-date: "2024-02-13"
-tags:
-  - journal
-  - essay
-title: You Must Join a Cult
+title: "You Must Join a Cult"
+date: 2024-02-13
+tags: [journal, essay]
 publish_external: true
 ---
 
@@ -29,3 +27,4 @@ They become cosmopolitans, belonging to no cult.
 But once they find their cult, they are all shouting…
 
 more isolation, please!!!
+

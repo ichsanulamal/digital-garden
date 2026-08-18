@@ -1,10 +1,7 @@
 ---
-date: "2023-11-30"
-tags:
-  - journal
-  - muslim
-  - essay
-title: Peter Singer - Ordinary People Are Evil
+title: "Peter Singer - Ordinary People Are Evil"
+date: 2023-11-30
+tags: [journal, muslim, essay]
 publish_external: true
 ---
 
@@ -22,7 +19,7 @@ watching sinnu and shai leaders and their followers gather to debate over trivia
 
 ![[_b234d530-f4c0-45bf-a890-4b5cd9d30fbe.jpg]]
 
-they compete by hastening social, economic, cultural, and spiritual KPIs through experiments involving neuro-GMOs and quantum computing projects conducted by some mad scientists. they also focus on building happy families through effective indoctrination, asserting that children don't deserve happiness until [[Palestine]] is free.
+they compete by hastening social, economic, cultural, and spiritual KPIs through experiments involving neuro-GMOs and quantum computing projects conducted by some mad scientists. they also focus on building happy families through effective indoctrination, asserting that children don't deserve happiness until [[Palestine]] is free. 
 
 ![[_4ca9880e-c5f4-4b7b-9f37-073b5597bcb0.jpg]]
 
@@ -30,7 +27,7 @@ their focus is not on leisure activities like pursuing useless college degrees, 
 
 ![[_b7b804a7-9964-4f6c-be7f-59c733c9106e.jpg]]
 
-their emphasis lies in contributing, particularly in creating sophisticated military equipment and [[Data-driven]] weapons to combat all tyrants masquerading as part of the entertainment industry.
+their emphasis lies in contributing, particularly in creating sophisticated military equipment and [[Data-driven]] weapons to combat all tyrants masquerading as part of the entertainment industry. 
 ![[_db698567-24f1-47f6-9e9d-61759ced1999.jpg]]
 
 however, they aim to maximize entertainment to remain grateful every day only for the means to liberate all oppressed people. they strive to achieve AGI and singularity to bring humans closer to their creator.

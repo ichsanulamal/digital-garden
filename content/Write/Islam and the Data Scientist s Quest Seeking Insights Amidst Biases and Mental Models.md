@@ -1,12 +1,7 @@
 ---
-date: "2023-03-01T17:23:09Z"
-tags:
-  - muslim
-  - journal
-  - review
-  - film
-title: "Islam and the Data Scientist's Quest: Seeking Insights Amidst Biases
-  and Mental Models"
+title: "Islam and the Data Scientist's Quest: Seeking Insights Amidst Biases and Mental Models"
+date: 2023-03-01
+tags: [muslim, journal, review, film]
 publish_external: true
 ---
 
@@ -20,46 +15,46 @@ Paranoid, banyak asumsi, banyak interpretasi, ujung-ujungnya simplifikasi sesuat
 
 Dari dulu diajarin buat selalu cari pola, cari makna
 
-padahal it's obvious, ga ada makna.
+padahal it's obvious, ga ada makna. 
 
-art of clear thinking, daniel kahnemann bias,
+art of clear thinking, daniel kahnemann bias, 
 
-sadar bahwa defaultnya manusia itu emang tolol, penuh bias.
+sadar bahwa defaultnya manusia itu emang tolol, penuh bias. 
 
-> Biases arose because they are effective. And effectiveness has always been a virtue favorable to survival
+>Biases arose because they are effective. And effectiveness has always been a virtue favorable to survival
 
-tapi cari pola itu bisa dianggap sebagai menambang, cari tambang itu belum tentu ketemu, makanya dicari,
+tapi cari pola itu bisa dianggap sebagai menambang, cari tambang itu belum tentu ketemu, makanya dicari, 
 dan ga semuanya bisa ditemuin, tapi seengkanya bisa ditandain mana yang ada mana yang engga atau habisin jatah kegagalan
 
-menjalani hidup seperti paradox dalam seorang data scientist. di satu sisi dia perlu jadi believer, percaya bahwa ada suatu pola yang bisa menjadi insight, makanya dia berusaha terus mencari.
+menjalani hidup seperti paradox dalam seorang data scientist. di satu sisi dia perlu jadi believer, percaya bahwa ada suatu pola yang bisa menjadi insight, makanya dia berusaha terus mencari. 
 
-di sisi lain dia juga perlu skeptic, bahwa mungkin aja ternyata ga ada pola di datanya, tambangnya sendiri belum dapat dideteksi, tapi percobaan untuk nyari tambang itu termasuk effort, you'll never know if you never tried. tapi buat nambang juga perlu resource yang limited, maka dia harus bijak gas rem. perlu believe bahwa ada suatu manfaat, tapi di satu sisi perlu rasional juga.
+di sisi lain dia juga perlu skeptic, bahwa mungkin aja ternyata ga ada pola di datanya, tambangnya sendiri belum dapat dideteksi, tapi percobaan untuk nyari tambang itu termasuk effort, you'll never know if you never tried. tapi buat nambang juga perlu resource yang limited, maka dia harus bijak gas rem. perlu believe bahwa ada suatu manfaat, tapi di satu sisi perlu rasional juga. 
 
-kalo udah lama dan ternyata ga ketemu, what will the data scientist do? tetap mencari dan percaya sehingga dia akan terjebak dalam sunk cost fallacy? atau dia change to be unbeliever dengan stop goal nya. goal nya itu apa? nah itulah kenapa, punya goal atau tujuan itu penting.
+kalo udah lama dan ternyata ga ketemu, what will the data scientist do? tetap mencari dan percaya sehingga dia akan terjebak dalam sunk cost fallacy? atau dia change to be unbeliever dengan stop goal nya. goal nya itu apa? nah itulah kenapa, punya goal atau tujuan itu penting. 
 
 muter-muter cari bisa jadi balik lagi ke titik asal.
 
 terserah hipotesisnya apa, boleh "[[Islam]] itu cukup", "[[Islam]] itu ga cukup"
 
-tapi dari situ eksperimen,
+tapi dari situ eksperimen, 
 
-coba cari black swan. randomness, chaos, the unexpected, matematika pun ga bisa memodelkan,
+coba cari black swan. randomness, chaos, the unexpected, matematika pun ga bisa memodelkan, 
 
 curiga terus itu salah satu alat survival, makanya perlu diversifikasi
 
-dari waktu perjalanan diversifikasi itu biasanya muncul juga yang harus difokusin,
+dari waktu perjalanan diversifikasi itu biasanya muncul juga yang harus difokusin, 
 
-sungguh beruntung orang-orang macam itu,
+sungguh beruntung orang-orang macam itu, 
 
-yang keliatan punya passion, padahal itu dari proses pencarian juga.
+yang keliatan punya passion, padahal itu dari proses pencarian juga. 
 
-tapi sementara ini ya ternyata cuman beda istilah aja, apalah itu randomness, nature, chaos.
+tapi sementara ini ya ternyata cuman beda istilah aja, apalah itu randomness, nature, chaos. 
 
 itu cuman takdir mubram.
 
-dan balik lagi dari banyak mental model, fallacy, bias, dan sebagainya.
+dan balik lagi dari banyak mental model, fallacy, bias, dan sebagainya. 
 
-dan jadi sederhana lagi.
+dan jadi sederhana lagi. 
 
 [[Islam]] itu cukup, sidik fatonah amanah tablig
 
@@ -69,13 +64,12 @@ bila terlanjur mengalami faustian bargain, ya sudah, anda beruntung masih hidup
 
 growth mindset, antifragile, flow, atau apalah itu
 
-itu semua fastabiqul khairat doang -\_-
+itu semua fastabiqul khairat doang -_-
 
 ![[muslim.jpg]]
 
 ---
-
-1. How not to be ignorant about the world
+1. How not to be ignorant about the world 
 2. The Beauty of Data Visualization
 3. Three ways to spot a bad statistic
 4. Big Data is better [[Data]]

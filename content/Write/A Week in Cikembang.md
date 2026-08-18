@@ -1,9 +1,7 @@
 ---
+title: "A Week in Cikembang"
 date: 2021-12-16
-tags:
-  - essay
-  - travel
-title: A Week in Cikembang
+tags: [essay, travel]
 publish_external: true
 ---
 
@@ -13,7 +11,7 @@ Most days passed in a blur. I wasn’t particularly helpful and spent much of my
 
 Whenever we had free time, my classmates invited their friends over. Cigarettes were lit inside the house, smoke hanging in the air. Worse, they taught the grandchild how to swear, laughing as he repeated the words. That bothered me deeply, but I didn’t know how to speak up.
 
-The village’s religious life also felt unfamiliar. Many of my friends at school were Salafi Muslims, and they often labeled local traditions as _bid’ah_. In Cikembang, people brought stones into the mosque and practiced rituals I had never seen before. I didn’t fully understand them, but I could sense the tension between what I had been taught was “correct” and what people here lived every day.
+The village’s religious life also felt unfamiliar. Many of my friends at school were Salafi Muslims, and they often labeled local traditions as *bid’ah*. In Cikembang, people brought stones into the mosque and practiced rituals I had never seen before. I didn’t fully understand them, but I could sense the tension between what I had been taught was “correct” and what people here lived every day.
 
 Everything remained tolerable until the assignments arrived. We were required to interview our host family about their work, income, and living conditions. The couple grew potatoes and a few other vegetables. Our meals reflected that reality: potatoes, rice, instant noodles--simple, repetitive, and almost entirely without protein. I assumed eggs or meat were luxuries they couldn’t afford regularly.
 
