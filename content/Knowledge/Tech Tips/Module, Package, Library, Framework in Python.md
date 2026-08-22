@@ -1,7 +1,7 @@
 ---
 title: "Module, Package, Library, Framework in Python"
 date: 2025-07-26
-tags: [knowledge, tips]
+tags: [guide]
 publish_external: true
 ---
 
@@ -16,7 +16,7 @@ A **module** is a single Python file (`.py`) that contains code--functions, clas
 # my_module.py
 def greet(name):
     return f"Hello, {name}!"
-````
+```
 
 You can import this module:
 
