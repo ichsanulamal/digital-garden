@@ -9,7 +9,7 @@ publish_external: true
 
 I remembered something painful recently — painful not because anything bad happened, but because of what it revealed.
 
-I was in a film class at university. The lecturer asked whether anyone had seen *Children of Heaven*, the Iranian film about a brother and sister sharing a single pair of shoes. A classmate raised his hand. The lecturer asked, "What did you feel after watching that movie?"
+I was in a film class at university. The lecturer asked whether anyone had seen [[Children of Heaven]], the Iranian film about a brother and sister sharing a single pair of shoes. A classmate raised his hand. The lecturer asked, "What did you feel after watching that movie?"
 
 He answered: "I feel pity for the little boy."
 
@@ -28,3 +28,7 @@ This sounds bleak, but I have come to find it almost liberating. If everyone inh
 It also explains why art matters so much, and why it works so unevenly. A film is an invitation into someone else's constructed world. Some viewers accept the invitation and are changed. Others stay at the border, waving kindly: "I feel sorry for that boy." Same projector, same screen, same ninety minutes — different worlds entirely.
 
 I still remember that classroom moment more vividly than the film itself, which is probably the real lesson. The movie gave me a story; my classmate's answer gave me a mirror. Everyone lives in a different world. The best we can do is keep describing ours out loud, carefully, and stay curious when someone describes theirs.
+
+---
+
+*Drafted with AI assistance from my personal journal (2024-06-06), then edited by me. See [[On AI Assistance]].*

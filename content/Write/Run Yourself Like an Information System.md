@@ -27,3 +27,7 @@ But after building the whole apparatus, I hit the wall every systems thinker eve
 There's also a flavor problem nobody warns you about. Life as an RPG character sheet — allocating points between attack and defense, balancing stats within constraints — is accurate and boring. Balance is boring. Maximization runs into constraints. Either way the game feels off, and success inside a boring game doesn't feel like success at all.
 
 So the conclusion is double-edged: yes, run yourself like an information system — find your loops, manage your functions, market honestly, compound your skills. But know that the system will faithfully optimize whatever you feed it, including nothing. The machinery is the easy part. Choosing the goal is the part no framework solves, and pretending otherwise is just procrastination with dashboards.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-07-22), then edited by me. See [[On AI Assistance]].*

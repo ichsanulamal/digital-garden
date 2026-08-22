@@ -18,3 +18,7 @@ The pattern generalizes beyond any single office. Security theater is the respec
 There is a fair objection here. Daring to give orders is only a virtue when paired with judgment about which rules actually matter. Ignoring security policy on genuinely sensitive systems is not boldness; it is negligence. The skill is telling the difference — knowing which constraints protect something real and which exist mainly so that no one can be blamed later.
 
 But the deeper point stands, and it explains why AI adoption is splitting people into two groups faster than any previous technology. The tools are available to everyone. What is scarce is the willingness to command: to describe an outcome, accept responsibility for directing the work, and let go of the fear of doing it wrong. Prompting looks like a typing skill. It is actually a posture toward authority — including your own.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-09-17), then edited by me. See [[On AI Assistance]].*

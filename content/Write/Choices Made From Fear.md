@@ -24,3 +24,7 @@ And here is where the metaphor stops being a joke. If traders shorted my misery 
 That is the position I have arrived at: I must choose to hold valuable misery and exchange away the worthless kind. Suffering is not uniform. Some of it — the struggle of building something, of choosing your own constraints — is productive and even beautiful. Some of it — fear dressed up as prudence, compliance disguised as responsibility — is pure dead weight. Treat them as different assets.
 
 My misery is dynamic. It is a struggle. It has its own strange beauty. And maybe that is what I want a permanent record of: proof, tracked somewhere durable in this digital world, that I carried misery that was worth something — and traded up.
+
+---
+
+*Drafted with AI assistance from my personal journal (2024-06-08), then edited by me. See [[On AI Assistance]].*

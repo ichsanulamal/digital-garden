@@ -20,3 +20,7 @@ After eating that meal, I cried. It felt like remembering something my parents h
 Which brings me to the last trap: cleverness used in the service of cowardice. It's easy to justify inaction by gesturing at Gödel's incompleteness theorem — *some things can never be proven, so why try?* But incompleteness is about the limits of formal systems, not a license for personal evasion. In most real cases, the proof is available. You love someone, you do nothing, and you hide behind "I just don't know how to show it." No. That's a lie. You know how. You're choosing between lazy and afraid, and dressing the choice up as epistemology.
 
 So the positive-sum worldview doesn't lead where nihilists hope. If every act adds something to the world — including your silence, which adds to whatever already dominates — then neutrality is a fiction we tell ourselves to avoid the weight of choosing. The woman with the basket chose, every morning, without calling it anything. Maybe that's the whole philosophy: enoughness as a decision, made daily, before anyone thinks to ask what it proves.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-02-02), then edited by me. See [[On AI Assistance]].*

@@ -26,3 +26,7 @@ So what replaces hoarding? A few working conclusions:
 - Treat "knowing about" as nearly worthless and "having done" as the only durable signal.
 
 The mistake was not studying too much. It was studying as a form of procrastination that felt like virtue — collecting against an imaginary future scarcity that technology erased. The library burned down, and it turned out I never needed most of the books. What I needed was the writing.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-05-30), then edited by me. See [[On AI Assistance]].*

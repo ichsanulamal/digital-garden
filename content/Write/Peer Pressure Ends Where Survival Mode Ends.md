@@ -18,3 +18,7 @@ Here's the practical part nobody says out loud: the social pressure itself is tr
 But I don't actually recommend the scripts. What I recommend is the truth — the blunt version: "I'm a lost person who hasn't figured out what my life is worth yet." Say that to the aunties and the former classmates and watch what happens. You might be surprised by the response. More likely you'll discover the real truth underneath all the pressure: they don't actually care. The spotlight you feel on your unemployment has always been a spotlight effect. Nobody is watching.
 
 And that discovery — that no one is watching — is either the worst news you've ever received or the best. It means the pressure was never real, and the freedom was always yours to use.
+
+---
+
+*Drafted with AI assistance from my personal journal (2024-06-07), then edited by me. See [[On AI Assistance]].*

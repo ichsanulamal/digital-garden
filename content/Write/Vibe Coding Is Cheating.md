@@ -22,3 +22,7 @@ The trouble is that unlearning demands elimination, and elimination demands good
 I run back and forth between two poles. On one side: the drive to be productive, to grab what I want, to optimize. On the other: the Law of Reversed Effort — the old observation that grasping too tightly destroys exactly what you're trying to obtain. Hustle culture says the first pole is virtue. Monastic traditions say the second. My honest position is that both are right at different hours of the day, and maturity is mostly noticing which one the moment calls for.
 
 So: use the tools, by all means. But be honest about when you're building and when you're outsourcing your own education. The generated code compiles either way. The question is whether *you* do.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-06-25), then edited by me. See [[On AI Assistance]].*

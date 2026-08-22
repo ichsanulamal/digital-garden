@@ -24,3 +24,7 @@ This is part of why I feel drawn to decentralized, pseudonymous spaces like cryp
 That model appeals to me more than any career path I can see from where I stand. I would love to build alongside people like that, or become one myself. I do not envy him — envy would miss the point. What I feel is closer to orientation: evidence that a certain kind of honest, useful existence is possible.
 
 I still have not settled on the one thing I should commit to building. But I know more clearly now what disqualifies a life: one where every conversation is calibrated to the power differential, where nothing real is ever said out loud. Real talk only flows downhill. I want to live somewhere gravity does not apply.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-07-25), then edited by me. See [[On AI Assistance]].*

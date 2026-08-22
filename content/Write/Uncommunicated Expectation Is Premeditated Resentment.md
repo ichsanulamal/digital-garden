@@ -22,3 +22,7 @@ A recent example: an AI and agentic AI workshop. To be fair, I am biased — I w
 Worse, they skipped the single most important caveat of the field: agentic AI hallucinates, constantly, and prompting alone does not fix it. What tames hallucination is context engineering — giving the model enough context about its environment that it can use tools to check its own work. That is the practical core of the whole discipline: provide context so the model can reach your spreadsheets, your video channel, your banking, your investment accounts, your chaotic crypto portfolio. Context is what turns a confident liar into a useful agent. Nobody mentioned it.
 
 So the pattern repeats across scales. In relationships, unspoken expectations curate future resentment. In teaching, content averaged for everyone teaches no one. The common root is the same: communication that avoids the risk of being specific. Specificity is what gets misread; it is also the only thing worth saying. The resentment, the wasted seminar, the shallow workshop — all of it is the price of dodging that risk.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-10-15), then edited by me. See [[On AI Assistance]].*

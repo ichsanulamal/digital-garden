@@ -40,3 +40,7 @@ Decouple by default, because dependencies accumulate on their own. But when some
 A life optimized against breakage is indistinguishable from a life that already ended. There's an old saying that captures the other side: *live with dignity, or die a martyr* — stand for something, or you were never standing at all.
 
 Minimize dependencies. Just don't minimize them to zero.
+
+---
+
+*Drafted with AI assistance from my personal journal (2026-02-17), then edited by me. See [[On AI Assistance]].*

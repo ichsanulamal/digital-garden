@@ -18,3 +18,7 @@ I'll admit my own position honestly: I dislike managing people, and my social sk
 There's a quieter lesson in the copy-paste demos, too. Watching people complete exercises without absorbing them is watching operational learning at its limit: input, output, done. The understanding — why this design, what fails under load, when the whole approach should be discarded — lives one level up, in the analytical layer. Tools teach you their buttons. Only questions teach you judgment.
 
 So the takeaway from a day I mostly didn't enjoy: treat operational competence as table stakes, never as the goal. Automate the operational so you can afford the analytical. Choose tactics deliberately, in service of a strategy you've actually thought about — because otherwise someone else's strategy is quietly using you as its executor.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-06-18), then edited by me. See [[On AI Assistance]].*

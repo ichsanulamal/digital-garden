@@ -20,3 +20,7 @@ What's striking is how this same confusion infects supposedly rational advice. T
 The same split runs through my relationship with money. Pessimistically, I hoard: save aggressively, distrust spending, assume the future is a threat to be provisioned against — even while knowing inflation quietly punishes exactly that behavior. Optimistically, I hoard: assume I have effectively unlimited time, and therefore no urgency to convert anything into anything. Pessimism says save because you might need it. Optimism says collect because you have forever. Both directions end at the same shelf.
 
 I don't know the fix. But naming the pattern is at least a start: collecting feels like progress precisely because it is not. The filter I need is not a better note-taking system or a stricter read-later queue. It is a decision about what is actually wanted — because until there is a target, everything looks like signal, and the archive keeps growing while the work keeps not existing.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-06-24), then edited by me. See [[On AI Assistance]].*

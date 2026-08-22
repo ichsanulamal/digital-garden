@@ -22,3 +22,7 @@ A friend recently shared Andrea Gibson's poetry about death, and sitting with it
 Never-ending desire is a curse, and I say that as someone fully cursed. Every time I acquire the thing I was certain would bring peace, the peace fails to arrive on schedule. The wanting simply relocates. If language disguises reality, desire disguises itself best of all — it always presents itself as the last one, the one that will finally be enough.
 
 So what remains? A modest practice: distrust fluent sentences, including your own. Notice when beautiful words are doing the work that honest action should do. Say the plain, unflattering version out loud once in a while. The truth underneath the packaging is usually smaller, duller, and far more fixable than the story we built around it.
+
+---
+
+*Drafted with AI assistance from my personal journal (2026-03-05), then edited by me. See [[On AI Assistance]].*

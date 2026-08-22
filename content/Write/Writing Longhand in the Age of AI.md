@@ -18,3 +18,7 @@ There is an old tension underneath all of this: the spiritual traditions that re
 Which brings me back to why write at all, slowly, by hand, in the age of machines that write better and faster. Because the act itself enforces the state of mind I'm after: calm, unhurried, unafraid of the blank stretch ahead. A summary gives you the conclusions without the walking. Longhand makes you walk.
 
 The overall task, most days now, is subtraction. Almost no additions. Fewer inputs, fewer desires, fewer tabs open in the head — and whatever remains should be things done out of enjoyment of the difficulty rather than dread of the alternative. That is not complacency about mediocrity. It is the discovery that the feeling of burnout was never a prerequisite for ambition, and that some part of the mind only speaks when you write slowly enough to hear it.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-06-28), then edited by me. See [[On AI Assistance]].*

@@ -22,3 +22,7 @@ It made me reconsider where hope comes from. We tend to look for it in big place
 I earn several times what he does, and I walked out of that shop envying him a little — or at least wanting whatever it is he has. Not the Amsterdam dream specifically, but the having of a dream you say out loud to strangers while doing your work.
 
 Grateful for the haircut. Grateful for the reminder.
+
+---
+
+*Drafted with AI assistance from my personal journal (2024-12-20), then edited by me. See [[On AI Assistance]].*

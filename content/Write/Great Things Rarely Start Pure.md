@@ -22,3 +22,7 @@ First, good and bad are mostly social constructs applied after the fact. Many th
 Second, hold categories loosely. Things are rarely mutually exclusive; causes and effects tangle; the same phenomenon can be vice and substrate simultaneously. The practical discipline that survives this uncertainty is old and unfashionable: carry an umbrella even when rain seems unlikely. What's the cost? Perhaps it shields you from the sun instead. Preparing for outcomes you can't cleanly classify — morally or otherwise — beats pretending you can classify them.
 
 Great things rarely start pure. They start somewhere messy, get used for purposes their creators didn't intend, and become respectable only in retrospect. Judge them later, by what they made possible — but bring the umbrella.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-08-07), then edited by me. See [[On AI Assistance]].*

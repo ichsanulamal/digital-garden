@@ -24,3 +24,7 @@ Even this reflection has that shape. Part of me enjoys gardening notes because i
 Maybe this, too, is just the human condition rather than my personal flaw. We are cursed to need validation, cursed to distrust secondhand warnings, cursed to learn everything the expensive way. It is hard to trust advice; trusting costs something, and falling into holes is at least familiar. This might simply be the fitrah of being human — the nature we are born with, holes included.
 
 At least now the notes link to each other.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-06-17), then edited by me. See [[On AI Assistance]].*

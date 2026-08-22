@@ -24,3 +24,7 @@ There is also a subtler point hiding here about credentials and expectations. Pe
 Is dropping the mask immature? Undisciplined? Maybe. I genuinely do not know. What I know is which state feels livable. Performing normal produced anxiety and a racing heart. Being the whole thing, all at once, produces occasional awkward silences and a few disgusted looks — and, crucially, it filters fast. The people who stay after seeing the full picture are the ones worth having around.
 
 The persona gap is uncomfortable for everyone. But closing it by shrinking yourself is the worse trade.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-10-30), then edited by me. See [[On AI Assistance]].*

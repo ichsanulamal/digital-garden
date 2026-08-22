@@ -38,3 +38,7 @@ Look at where multitasking is *required* and a pattern appears: operational desk
 So the practical conclusion isn't "get better at multitasking." It's: get out of work whose very structure forces shallowness — and be suspicious of any schedule of yours that brags about juggling.
 
 I don't know anyone who dreams of a life spent context-switching. If it can be helped, it should be helped. I'm working on it myself.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-05-04), then edited by me. See [[On AI Assistance]].*

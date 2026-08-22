@@ -46,3 +46,7 @@ Minimal transparency isn't an abstract virtue. It narrows the gap where corrupti
 Is one platform significant against structures that big? Honestly — maybe not. But even a partial map helps, because the first thing power loses when it becomes visible is the ability to pretend it isn't.
 
 We deserve to know who we're actually voting for. The data exists. Someone should free it. If nobody else will, it might as well be us.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-07-13), then edited by me. See [[On AI Assistance]].*

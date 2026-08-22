@@ -18,3 +18,7 @@ The honest questions that follow: is it possible to act without performing at al
 Which raises a strange inversion: why does authenticity feel less risky online than face-to-face? Why can a mask — an avatar, a username, a distance — be the condition for saying what you actually think? The self is a trickier object than we pretend. Every part of it seems to want to manage its own image.
 
 The conclusion I've reached, provisionally, is this: stop optimizing for usefulness, and stop mistaking visibility for significance. What is actually worth the struggle is strength — the kind that lets you filter noise without fear, show yourself without flinching, and stand alone when the honest position is an unpopular one. Not strength as domination; strength as the precondition for an unperformed life. Everything else — the usefulness, the approval, the careful staging — is negotiable.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-08-05), then edited by me. See [[On AI Assistance]].*

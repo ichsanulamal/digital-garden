@@ -20,3 +20,7 @@ The deeper bias underneath, I think, is scarcity thinking. We are hypnotized by 
 There's also a philosophical current beneath all this, one I keep circling. Everything decays — entropy only increases, and every tradition that contemplates mortality agrees that everything alive is heading toward its end. There is time in light, time in sound, time in attention itself. If you take time seriously as the architect of everything, then obsolescence isn't a tragedy unique to software engineers; it's the universal condition. Fighting the obsolescence of your particular skill is fighting the tide.
 
 So I land here: the democratization of software engineering isn't the death of the profession, but the death of its scarcity premium. What survives — judgment about what to build, taste, responsibility for consequences — was always the hard part anyway. The tools just removed the excuse for confusing typing with thinking.
+
+---
+
+*Drafted with AI assistance from my personal journal (2025-05-11), then edited by me. See [[On AI Assistance]].*
