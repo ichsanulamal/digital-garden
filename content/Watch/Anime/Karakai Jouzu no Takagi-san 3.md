@@ -1,0 +1,15 @@
+---
+title: "Karakai Jouzu no Takagi-san 3"
+date: "2016-01-01"
+tags: [anime, film]
+publish_external: true
+year: "2022"
+original_title: "からかい上手の高木さん３"
+source: "anilist"
+---
+
+# Karakai Jouzu no Takagi-san 3
+
+- **Year:** 2022
+- **Original title:** からかい上手の高木さん３
+- **Source:** anilist
